@@ -1,0 +1,42 @@
+name: update-exports
+
+on:
+  push:
+    branches: [ "master" ]
+  schedule:
+    - cron: "0 * * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  update-exports:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        name: Check out repository.
+
+      - uses: robinraju/release-downloader@v1
+        name: Download warframe-exports tool.
+        with:
+          repository: 'Aericio/warframe-exports-rust'
+          fileName: 'warframe-exports-x86_64-unknown-linux-gnu.tar.gz'
+          latest: true
+          extract: true
+
+      - name: Run warframe-exports tool.
+        run: ./warframe-exports
+        env:
+          OUTPUT_DIRECTORY: ${{ vars.OUTPUT_DIRECTORY }}
+          WARFRAME_ORIGIN_URL: ${{ secrets.WARFRAME_ORIGIN_URL }}
+          PROXY_AUTH_TOKEN: ${{ secrets.PROXY_AUTH_TOKEN }}
+
+      - name: Cleanup warframe-exports tool.
+        run: |
+          rm warframe-exports
+          rm warframe-exports-x86_64-unknown-linux-gnu.tar.gz
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        name: Push changes (if any) to the repository.
+        with:
+          commit_message: "chore: updated export files"
