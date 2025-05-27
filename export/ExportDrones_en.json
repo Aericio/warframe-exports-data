@@ -1,1 +1,112 @@
-{"ExportDrones":[{"uniqueName":"/Lotus/Types/Ship/AdvancedResourceDrone","name":"Titan Extractor Prime","description":"Deploy the Extractor on a planet to collect large amounts of resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.","binCount":1,"binCapacity":2,"fillRate":4,"durability":100,"repairRate":10,"codexSecret":false,"capacityMultiplier":[8,6,4,1],"specialities":[]},{"uniqueName":"/Lotus/Types/Ship/AdvancedUcResourceDrone","name":"Distilling Extractor Prime","description":"The Distilling Extractor Prime has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect large amounts of resources. It must be emptied regularly and monitored for damage.","binCount":1,"binCapacity":2,"fillRate":8,"durability":200,"repairRate":20,"codexSecret":false,"capacityMultiplier":[8,6,4,1],"specialities":[]},{"uniqueName":"/Lotus/Types/Ship/BasicResourceDrone","name":"Titan Extractor","description":"Deploy the Extractor on a planet to collect resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.","binCount":1,"binCapacity":1,"fillRate":4,"durability":100,"repairRate":10,"codexSecret":false,"capacityMultiplier":[8,6,4,1],"specialities":[]},{"uniqueName":"/Lotus/Types/Ship/BasicUcResourceDrone","name":"Distilling Extractor","description":"The Distilling Extractor has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect resources. It must be emptied regularly and monitored for damage.","binCount":1,"binCapacity":1,"fillRate":8,"durability":200,"repairRate":20,"codexSecret":false,"capacityMultiplier":[8,6,4,1],"specialities":[]},{"uniqueName":"/Lotus/Types/Ship/LandscapeTrapLight","name":"Titan Extractor","description":"Deploy the Extractor on a planet to collect resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.","binCount":1,"binCapacity":20,"fillRate":0.1,"durability":100,"repairRate":0,"codexSecret":false,"capacityMultiplier":[8,4,1,1],"specialities":[]},{"uniqueName":"/Lotus/Types/Ship/VoidTraderResourceDrone","name":"Prisma Niroda Extractor","description":"Featuring unrivaled Orokin engineering, this advanced model was designed for peak volume extraction in the harshest of conditions.","binCount":1,"binCapacity":1,"fillRate":8,"durability":200,"repairRate":20,"codexSecret":false,"capacityMultiplier":[8,6,4,1],"specialities":[]}]}
+{
+  "ExportDrones": [
+    {
+      "binCapacity": 2,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        6,
+        4,
+        1
+      ],
+      "codexSecret": false,
+      "description": "Deploy the Extractor on a planet to collect large amounts of resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.",
+      "durability": 100,
+      "fillRate": 4,
+      "name": "Titan Extractor Prime",
+      "repairRate": 10,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/AdvancedResourceDrone"
+    },
+    {
+      "binCapacity": 2,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        6,
+        4,
+        1
+      ],
+      "codexSecret": false,
+      "description": "The Distilling Extractor Prime has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect large amounts of resources. It must be emptied regularly and monitored for damage.",
+      "durability": 200,
+      "fillRate": 8,
+      "name": "Distilling Extractor Prime",
+      "repairRate": 20,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/AdvancedUcResourceDrone"
+    },
+    {
+      "binCapacity": 1,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        6,
+        4,
+        1
+      ],
+      "codexSecret": false,
+      "description": "Deploy the Extractor on a planet to collect resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.",
+      "durability": 100,
+      "fillRate": 4,
+      "name": "Titan Extractor",
+      "repairRate": 10,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/BasicResourceDrone"
+    },
+    {
+      "binCapacity": 1,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        6,
+        4,
+        1
+      ],
+      "codexSecret": false,
+      "description": "The Distilling Extractor has an increased chance of acquiring uncommon and rare resources.\r\n\r\nDeploy this Extractor on a planet to collect resources. It must be emptied regularly and monitored for damage.",
+      "durability": 200,
+      "fillRate": 8,
+      "name": "Distilling Extractor",
+      "repairRate": 20,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/BasicUcResourceDrone"
+    },
+    {
+      "binCapacity": 20,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        4,
+        1,
+        1
+      ],
+      "codexSecret": false,
+      "description": "Deploy the Extractor on a planet to collect resources.\r\n\r\nMust be emptied regularly for maximum efficiency and monitored for damage.",
+      "durability": 100,
+      "fillRate": 0.1,
+      "name": "Titan Extractor",
+      "repairRate": 0,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/LandscapeTrapLight"
+    },
+    {
+      "binCapacity": 1,
+      "binCount": 1,
+      "capacityMultiplier": [
+        8,
+        6,
+        4,
+        1
+      ],
+      "codexSecret": false,
+      "description": "Featuring unrivaled Orokin engineering, this advanced model was designed for peak volume extraction in the harshest of conditions.",
+      "durability": 200,
+      "fillRate": 8,
+      "name": "Prisma Niroda Extractor",
+      "repairRate": 20,
+      "specialities": [],
+      "uniqueName": "/Lotus/Types/Ship/VoidTraderResourceDrone"
+    }
+  ]
+}
