@@ -29,7 +29,7 @@ jobs:
         env:
           OUTPUT_DIRECTORY: ${{ vars.OUTPUT_DIRECTORY }}
           WARFRAME_ORIGIN_URL: ${{ secrets.WARFRAME_ORIGIN_URL }}
-          PROXY_AUTH_TOKEN: ${{ secrets.PROXY_AUTH_TOKEN }}
+          X_PROXY_TOKEN: ${{ secrets.X_PROXY_TOKEN }}
 
       - name: Cleanup warframe-exports tool.
         run: |
