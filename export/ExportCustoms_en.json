@@ -2647,6 +2647,24 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentEvoArmor/SentEvoArmor3L"
     },
     {
+      "codexSecret": true,
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "name": "Naktavyre Shoulder Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorA"
+    },
+    {
+      "codexSecret": true,
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "name": "Naktavyre Chest Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorC"
+    },
+    {
+      "codexSecret": true,
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "name": "Naktavyre Leg Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorL"
+    },
+    {
       "codexSecret": false,
       "description": "Next-generation shoulder plates for your Warframe.",
       "excludeFromCodex": true,
@@ -3175,6 +3193,24 @@
       "description": "Augment your Warframe with this subtle and sturdy armor set.",
       "name": "Oscira Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnNewPlayerArmor/TnNewPlayerLArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "name": "Arachna Arm Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorA"
+    },
+    {
+      "codexSecret": false,
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "name": "Arachna Chest Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorC"
+    },
+    {
+      "codexSecret": false,
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "name": "Arachna Leg Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorL"
     },
     {
       "codexSecret": false,
@@ -3827,6 +3863,18 @@
     },
     {
       "codexSecret": false,
+      "description": "A helmet for the Octavia Warframe, designed by blazingcobalt.",
+      "name": "Octavia Netrahymn Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWNetrahymnHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Octavia Warframe, designed by blazingcobalt.",
+      "name": "Octavia Netrahymn Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWNetrahymnSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A helmet for the Octavia Warframe, designed by Hitsu San.",
       "name": "Octavia Youkai Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWOctaviaYoukaiHelmet"
@@ -4010,6 +4058,18 @@
       "description": "This beautifully brutal design will compliment any blood on your knuckles.",
       "name": "Valkyr Carnivex Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrDeluxeSkin"
+    },
+    {
+      "codexSecret": true,
+      "description": "Valkyr Heirloom's signature helmet.",
+      "name": "Valkyr Heirloom Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrHeirloomHelmet"
+    },
+    {
+      "codexSecret": true,
+      "description": "Valkyr rises in majesty, casting off her legacy of torment. Heirloom skins signify the passage of time and the dedication of the Tenno.",
+      "name": "Valkyr Heirloom Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrHeirloomSkin"
     },
     {
       "codexSecret": false,
@@ -4894,6 +4954,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Show your dedication to Operation: Eight Claw with this emblem.",
+      "name": "Eight Claw Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/EightClawEventBadgeItem"
+    },
+    {
+      "codexSecret": false,
       "description": "A symbol of survival. Worn by those who have entered Arbitration and lived.",
       "name": "Vitus Emblem",
       "uniqueName": "/Lotus/Upgrades/Skins/Clan/EliteAlertBadgeItem"
@@ -5665,9 +5731,33 @@
     },
     {
       "codexSecret": false,
+      "description": "This signa pays tribute to your steadfast dedication in the face of the mind-tormenting Murmur.",
+      "name": "Invictus Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/Events/IsleweaverEventCrownA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Though the influence of the Indifference grows stronger, this evolution of the Invictus signa proves that your defiance grows in equal measure.",
+      "name": "Invictus Emergent Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/Events/IsleweaverEventCrownB"
+    },
+    {
+      "codexSecret": false,
+      "description": "The supreme version of this signa, signifying the denial of Neci Rusalka's false Duviri in Operation: Eight Claw.",
+      "name": "Invictus Apex Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/Events/IsleweaverEventCrownC"
+    },
+    {
+      "codexSecret": false,
       "description": "Much as music enriches the atmosphere, the Motetique Signa enhances your appearance.",
       "name": "Motetique Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/ChoirFrameHaloCrown"
+    },
+    {
+      "codexSecret": false,
+      "description": "Citrine Aphrodita inspires epics of undying devotion with this graceful signature signa.",
+      "name": "Erato Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/CitrineDeluxeCrown"
     },
     {
       "codexSecret": false,
@@ -5698,6 +5788,18 @@
       "description": "Horns of primordial power crown Rhino with the majesty of the beast.",
       "name": "Rhino Heirloom Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomRhinoCrown"
+    },
+    {
+      "codexSecret": true,
+      "description": "This crowning signa of gilded spikes creates beauty out of suffering.",
+      "name": "Valkyr Heirloom Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomValkyrCrown"
+    },
+    {
+      "codexSecret": true,
+      "description": "This signa is a Ki'Teer original, the crowning glory of any collection.",
+      "name": "Ki'Teer Nobilis Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/KiTeerSignaCrown"
     },
     {
       "codexSecret": false,
@@ -6521,6 +6623,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Leave lingering sparks in the hearts of all you encounter with Citrine Aphrodita’s signature ephemera.",
+      "name": "Didyma Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/CitrineDeluxeEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Wear this floral Ephemera as a symbol of support in the Quest to Conquer Cancer.",
       "name": "Conquera II Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/Conquera2022Ephemera"
@@ -6818,6 +6926,12 @@
       "excludeFromCodex": true,
       "name": "Obsidian Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/ObsidianEphemeraA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Surround yourself with the growing dread of Oraxia's presence.",
+      "name": "Zygiella Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/OraxiaEphemera"
     },
     {
       "codexSecret": false,
@@ -8170,6 +8284,24 @@
       "description": "A unique skin for the Garuda Warframe, designed by Vulbjorn.",
       "name": "Garuda Tiamat Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWTiamatSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Reap enemies and steal hearts as you sweep through the battlefield with Citrine Aphrodita's signature heavy scythe skin.",
+      "name": "Rubillon Heavy Scythe Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrineDeluxeExaltedScytheSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The signature helmet of Citrine Aphrodita.",
+      "name": "Citrine Aphrodita Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrineDeluxeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Embrace the eternal bond between love and war with Citrine Aphrodita. There are no roses without thorns.",
+      "name": "Citrine Aphrodita Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrineDeluxeSkin"
     },
     {
       "codexSecret": false,
@@ -10079,6 +10211,18 @@
       "excludeFromCodex": true,
       "name": "Hildryn Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/IronFrameSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A helmet for the Hildryn Warframe, designed by Ventralhound.",
+      "name": "Hildryn Sarcostema Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/SWHildrynSarcostemaHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Hildryn Warframe, designed by Ventralhound.",
+      "name": "Hildryn Sarcostema Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/SWHildrynSarcostemaSkin"
     },
     {
       "codexSecret": false,
@@ -13377,6 +13521,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique oculus, designed by Ventralhound.",
+      "name": "Eternalia Tower Oculus",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWEternaliaEyeAcc"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique earpiece, designed by Ventralhound.",
       "name": "Frame Friend Earpiece",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc"
@@ -13484,6 +13634,12 @@
       "description": "A unique oculus, designed by Ventralhound.",
       "name": "Spicularis Oculus",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWSpicularisVisorEyeAcc"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique oculus, designed by Theriondrek and Vhynnz.",
+      "name": "Stygean Oculus",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWStygeanEyeAcc"
     },
     {
       "codexSecret": false,
@@ -14240,70 +14396,70 @@
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics D11",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingA"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Asa-03",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingB"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics J-02",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingC"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Dev-64",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingD"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Asa-23",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingE"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Ln2",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingF"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics K5",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingG"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Fa-13",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingH"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Rev-16",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingI"
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
       "name": "Somatics Tt-11",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingJ"
@@ -14314,6 +14470,12 @@
       "excludeFromCodex": true,
       "name": "Arthur’s Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Excalibur"
+    },
+    {
+      "codexSecret": false,
+      "description": "Casual. Cool. Velimir's signature hairstyle is no muss, no fuss.",
+      "name": "Velimir's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Frost"
     },
     {
       "codexSecret": false,
@@ -14328,6 +14490,12 @@
       "excludeFromCodex": true,
       "name": "Aoi’s Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Mag"
+    },
+    {
+      "codexSecret": false,
+      "description": "The messy bun of a genius with far more important things to worry about.",
+      "name": "Kaya's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Nova"
     },
     {
       "codexSecret": false,
@@ -14349,6 +14517,18 @@
       "excludeFromCodex": true,
       "name": "Rusalka’s Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Rusalka"
+    },
+    {
+      "codexSecret": false,
+      "description": "Stay stylish even during the worst of international incidents.",
+      "name": "Minerva's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Saryn"
+    },
+    {
+      "codexSecret": false,
+      "description": "Blow their minds with Flare’s signature hairstyle.",
+      "name": "Flare's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Temple"
     },
     {
       "codexSecret": false,
@@ -16109,7 +16289,7 @@
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Pauldrons (Drifter)",
+      "name": "Necra Prime Sleeves (Drifter)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE"
     },
     {
@@ -16262,7 +16442,7 @@
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Pauldrons (Operator)",
+      "name": "Necra Prime Sleeves (Operator)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE"
     },
     {
@@ -16471,6 +16651,39 @@
       "excludeFromCodex": true,
       "name": "OperatorCustomization",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/OperatorCustomization"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Agile Animation Set for Oraxia.",
+      "excludeFromCodex": true,
+      "name": "Oraxia Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaAgileAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bare your fangs and strike fear into the hearts of your prey with this alternate helmet for Oraxia.",
+      "name": "Oraxia Chelicera Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Oraxia Warframe.",
+      "name": "Oraxia Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Noble Animation Set for Oraxia.",
+      "excludeFromCodex": true,
+      "name": "Oraxia Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Oraxia Warframe.",
+      "excludeFromCodex": true,
+      "name": "Oraxia Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaSkin"
     },
     {
       "codexSecret": false,
@@ -16946,6 +17159,12 @@
       "description": "A unique skin for the Oberon Warframe, designed by Vulbjorn.",
       "name": "Oberon Wendigo Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Paladin/SWWendigoSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The parazon, reimagined as a dagger of the Duviri Dax by the surreal creative power of the land itself.",
+      "name": "Phelonyx Parazon Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Parazon/DaxDuviriParazonSkin"
     },
     {
       "codexSecret": false,
@@ -19162,6 +19381,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Delicate blooms framed by vicious thorns warn: beauty can still be deadly. Citrine Aphrodita’s signature syandana.",
+      "name": "Corazon Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/CitrineDeluxeSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "Displays Daily and Weekly Conclave Challenge and Mission progress, with a beam of light for each completed challenge or mission.",
       "name": "Celestia Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ConclaveCape"
@@ -19499,6 +19724,12 @@
       "description": "Once chains of binding guilt, now twisted into a defiant ornament. The signature Syandana of Kullervo Apostate.",
       "name": "Culpa Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/KulervoDeluxeSyandana"
+    },
+    {
+      "codexSecret": true,
+      "description": "Be prepared no matter where with everything you need for the long haul, including Drippy, the K.O.L. virtual assistant. 'No need for waterworks, Drippy is here to help!'",
+      "name": "K.O.L. Drippy-Assisted Tactical Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/LasBackpackMedkitSyandana"
     },
     {
       "codexSecret": false,
@@ -22231,6 +22462,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Commemorate the fight against Neci Rusalka for the throne of Duviri during Operation: Eight Claw with this sigil.",
+      "name": "Eight Claw Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilEightClaw"
+    },
+    {
+      "codexSecret": false,
       "description": "This sigil commemorates the Tenno victory over the machinations of Nef Anyo.",
       "name": "False Profit Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilFalseProfit"
@@ -22332,6 +22569,12 @@
       "description": "A sigil that celebrates the Tenno’s loyalty and dedication.",
       "name": "Deca Heirloom Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomSigil"
+    },
+    {
+      "codexSecret": true,
+      "description": "A sigil that celebrates Valkyr's legacy.",
+      "name": "Valkyr Heirloom Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomValkyrSigil"
     },
     {
       "codexSecret": false,
@@ -24130,6 +24373,12 @@
       "description": "A unique mask, designed by led2012 and daemonstar.",
       "name": "Zenoriu Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Operator/Accessories/SWZenoriuFacialAccessory"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique Arca Plasmor skin, designed by Felix Leonhart.",
+      "name": "Arcosolium Arca Plasmor Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Primary/ArcaPlasmor/SWArcosoliumSkin"
     },
     {
       "codexSecret": false,
@@ -26205,7 +26454,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A unique helmet for the Yareli Warframe, designed by VentralHound.",
+      "description": "A unique helmet for the Yareli Warframe, designed by Ventralhound.",
       "name": "Yareli Batomorpha Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Yareli/SWBatomorphaHelmet"
     },

@@ -165,8 +165,26 @@
     {
       "codexSecret": false,
       "description": "Consumed in the fusion process to power up existing Mods.",
+      "fusionPoints": 15000,
+      "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EndoJackpotBundle"
+    },
+    {
+      "codexSecret": false,
+      "description": "Consumed in the fusion process to power up existing Mods.",
       "fusionPoints": 30000,
       "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EvergreenLoginRewardFusionBundle"
+    },
+    {
+      "codexSecret": false,
+      "description": "Consumed in the fusion process to power up existing Mods.",
+      "fusionPoints": 2500,
+      "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/JunctionRewardNPFusionBundleA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Consumed in the fusion process to power up existing Mods.",
+      "fusionPoints": 750,
+      "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/JunctionRewardNPFusionBundleB"
     },
     {
       "codexSecret": false,

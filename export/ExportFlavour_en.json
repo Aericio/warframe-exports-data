@@ -2308,7 +2308,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Switch between Temple and Flare's Gemini Skin with the Flare Gemini Emote, even during missions",
+      "description": "Switch between Temple and Flare's Gemini Skin with the Flare Gemini Emote, even during missions.",
       "name": "Flare Gemini Emote",
       "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryFlareEmote"
     },
@@ -2734,6 +2734,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "2020ZerO Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage2020ZerO"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "A H R Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAHR"
     },
@@ -2772,6 +2778,12 @@
       "description": "A Glyph for your profile.",
       "name": "AeonKnight86 Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAeonKnight"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "AesopYOLIAN Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAesopYOLIAN"
     },
     {
       "codexSecret": true,
@@ -2948,6 +2960,12 @@
       "description": "A Glyph for your profile.",
       "name": "BikeMan Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBikeman"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "BlackNato974 Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBlackNato"
     },
     {
       "codexSecret": true,
@@ -3231,8 +3249,14 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
-      "name": "D4nk3r Glyph",
+      "name": "Danker Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "DEUS Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDEUS"
     },
     {
       "codexSecret": true,
@@ -3489,6 +3513,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "EveCaptura Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEveCaptura"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Extra Credits Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageExtraCredits"
     },
@@ -3701,7 +3731,13 @@
     },
     {
       "codexSecret": true,
-      "description": "A Glyph for your profile.",
+      "description": "Hench and Scrap - Official TennoCon Cosplayer Glyph",
+      "name": "Hench & Scrap Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHenchAndScrapGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Hoku Props - Official TennoCon Cosplayer Glyph",
       "name": "Hoku Props Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHokuProps"
     },
@@ -3990,6 +4026,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "LaurieeeLG Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLaurieeeLG"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Le Double Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLeDouble"
     },
@@ -4240,6 +4282,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Mylah Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMylah"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "NRDabears Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageNRDabears"
     },
@@ -4403,7 +4451,7 @@
     },
     {
       "codexSecret": true,
-      "description": "A Glyph for your profile.",
+      "description": "Plexi Cosplay - Official TennoCon Cosplayer Glyph",
       "name": "Plexi Cosplay Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePlexiCosplay"
     },
@@ -4567,6 +4615,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Rebecca Weress Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRebeccaWeress"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "ReclaimJoey Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageReclaimJoey"
     },
@@ -4612,6 +4666,12 @@
       "description": "A Glyph for your profile.",
       "name": "ReyGanso Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageReyGanso"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "RickunPrime Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRickunPrime"
     },
     {
       "codexSecret": true,
@@ -4717,6 +4777,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Secriot_McFly Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSecriotMcFly"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Seleste Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSeleste"
     },
@@ -4769,6 +4835,12 @@
       "description": "A Glyph for your profile.",
       "name": "SherpaRage Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSherpaRage"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "ShinobiFufu Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShinobiFufu"
     },
     {
       "codexSecret": true,
@@ -5203,8 +5275,20 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "VecToR Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVecToR"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Vernoc Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVernoc"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Veroz73 Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVeroz"
     },
     {
       "codexSecret": true,
@@ -6093,6 +6177,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph depicting Citrine Aphrodita.",
+      "name": "Citrine Aphrodita Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineDeluxe"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph depicting Dagath Ganceann on a bright background.",
       "name": "Dagath Ganceann Glyph - Bright",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathAltBright"
@@ -6240,6 +6330,30 @@
       "description": "A glyph depicting Mesa Projectilyst.",
       "name": "Mesa Projectilyst Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageMesaDeluxeB"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Oraxia Chelicera on a bright background.",
+      "name": "Oraxia Chelicera Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Oraxia Chelicera on a dark background.",
+      "name": "Oraxia Chelicera Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltDark"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Oraxia on a bright background.",
+      "name": "Oraxia Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Oraxia on a dark background.",
+      "name": "Oraxia Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaDark"
     },
     {
       "codexSecret": true,
@@ -6574,6 +6688,12 @@
     },
     {
       "codexSecret": true,
+      "description": "An otherworldly sproutfolk of many words dons the mask of a man of few. Where, if e'er, their frames have crossed, none can guess. A glyph designed by community artist DasterCreations.",
+      "name": "Ava-Clem Community Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAvaClemCommunityGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "Showcase a Warframe with a pop of color.",
       "name": "Monotone Ember Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBadgeEmber"
@@ -6650,6 +6770,12 @@
       "excludeFromCodex": true,
       "name": "Bonewidow In Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBonewidowAction"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph of the infamous Bopp Bipp. Legend says the Lotus knew him by name. Created by Community artist Searyn.",
+      "name": "Bopp Bipp Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBoppBippGlyph"
     },
     {
       "codexSecret": false,
@@ -6981,6 +7107,30 @@
       "excludeFromCodex": true,
       "name": "Lotus Symbol Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDefault"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by ChickenDrawsDogs depicting Hydroid diving for the win.",
+      "name": "Community Dog Days Hydroid Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysHydroidGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by ChickenDrawsDogs depicting Loki enjoying a summer drink without distraction.",
+      "name": "Community Dog Days Loki Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysLokiGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by ChickenDrawsDogs depicting Nova utilizing her abilities to win a Lob Blob fight.",
+      "name": "Community Dog Days Nova Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysNovaGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by ChickenDrawsDogs depicting Valkyr's inability to play with beach balls.",
+      "name": "Community Dog Days Valkyr Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysValkyrGlyph"
     },
     {
       "codexSecret": false,
@@ -8029,6 +8179,12 @@
     },
     {
       "codexSecret": true,
+      "description": "PH_DESCRIPTION: A glyph for your profile. Created by Community artist Searyn.",
+      "name": "PH_GLYPH",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePHGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A community glyph depicting On-lyne member Packet in the style of community artist death_ma666ots.",
       "name": "Community On-lyne Packet Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph"
@@ -8119,6 +8275,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph releasing Soon (TM), created by Community artist Searyn.",
+      "name": "Primed Soon Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrimedSoonGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
       "name": "Protea Accolade Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph"
@@ -8144,6 +8306,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph to signify your status, created by Community artist Searyn.",
+      "name": "Registered Loser Glyph\r\n",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRegisteredLoserGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph for your profile.",
       "name": "Revenant In Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction"
@@ -8165,6 +8333,12 @@
       "description": "A Glyph for your profile.",
       "name": "Saryn in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSarynAction"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph of the Lotus. Ignore your original objective, Tenno. Created by Community artist Searyn.",
+      "name": "Sassy Lotus Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSassyLotusGlyph"
     },
     {
       "codexSecret": true,
@@ -8275,6 +8449,12 @@
       "description": "A Glyph for your profile.",
       "name": "Trinity in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTrinityAction"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph of Tyl Regor sporting a new look. He finally got his jeans. Created by Community artist Searyn.",
+      "name": "Tyl Regor Genes Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTylRegorGenesGlyph"
     },
     {
       "codexSecret": true,
@@ -8739,6 +8919,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph that celebrates Valkyr's legacy.",
+      "name": "Valkyr Heirloom Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomValkyrGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "Nymphaea Glyph",
@@ -8803,6 +8989,12 @@
       "description": "A glyph depicting Ash Scorpion on a dark background.",
       "name": "Ash Scorpion Glyph - Dark",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshScorpionDark"
+    },
+    {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Atlas Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAtlasAccoladeGlyph"
     },
     {
       "codexSecret": true,
@@ -8972,6 +9164,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCephalonSimaris"
     },
     {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Chroma Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaAccoladeGlyph"
+    },
+    {
       "codexSecret": true,
       "description": "A glyph depicting Chroma Amaru on a bright background.",
       "name": "Chroma Amaru Glyph - Bright",
@@ -9024,6 +9222,12 @@
       "description": "A glyph depicting Chroma Prime on a dark background.",
       "name": "Chroma Prime Glyph - Dark",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaPrimeDark"
+    },
+    {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Citrine Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCitrineAccoladeGlyph"
     },
     {
       "codexSecret": true,
@@ -9681,6 +9885,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHarrowDeluxe"
     },
     {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Hildryn Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHildrynAccoladeGlyph"
+    },
+    {
       "codexSecret": true,
       "description": "A glyph depicting Hydroid Rakkam.",
       "excludeFromCodex": true,
@@ -9766,6 +9976,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageIvaraPrimeDark"
     },
     {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Khora Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageKhoraAccoladeGlyph"
+    },
+    {
       "codexSecret": true,
       "description": "A glyph depicting Khora Delphi on a bright background.",
       "name": "Khora Delphi Glyph - Bright",
@@ -9824,6 +10040,12 @@
       "description": "A glyph depicting Lavos on a dark background.",
       "name": "Lavos Glyph - Dark",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosDark"
+    },
+    {
+      "codexSecret": false,
+      "description": "A glyph representing a feat of strength by community artist Kedemel.",
+      "name": "Limbo Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAccoladeGlyph"
     },
     {
       "codexSecret": true,
@@ -11731,9 +11953,27 @@
     },
     {
       "codexSecret": true,
+      "description": "Awarded to the first place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 1st Place",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025FirstPlaceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph created to celebrate ten years of TennoCon in 2025.",
       "name": "TennoCon 2025 Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025Glyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the second place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 2nd Place",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025SecondPlaceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the third place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 3rd Place",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025ThirdPlaceAwardGlyph"
     },
     {
       "codexSecret": true,
@@ -29086,6 +29326,284 @@
       "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemB"
     },
     {
+      "codexSecret": true,
+      "description": "A selection of regal colors honoring Valkyr’s legacy.",
+      "hexColours": [
+        {
+          "value": "0x00D53F94"
+        },
+        {
+          "value": "0x00D64597"
+        },
+        {
+          "value": "0x00D64999"
+        },
+        {
+          "value": "0x00D64D9B"
+        },
+        {
+          "value": "0x00D6519D"
+        },
+        {
+          "value": "0x00D6569F"
+        },
+        {
+          "value": "0x00D65AA0"
+        },
+        {
+          "value": "0x00D65EA2"
+        },
+        {
+          "value": "0x00D663A4"
+        },
+        {
+          "value": "0x00D667A6"
+        },
+        {
+          "value": "0x00D66BA8"
+        },
+        {
+          "value": "0x00D66FAA"
+        },
+        {
+          "value": "0x00D674AC"
+        },
+        {
+          "value": "0x00D678AD"
+        },
+        {
+          "value": "0x00D67CAF"
+        },
+        {
+          "value": "0x009C2572"
+        },
+        {
+          "value": "0x0096236E"
+        },
+        {
+          "value": "0x0091206A"
+        },
+        {
+          "value": "0x008C1D65"
+        },
+        {
+          "value": "0x00871B61"
+        },
+        {
+          "value": "0x0082195D"
+        },
+        {
+          "value": "0x007D1659"
+        },
+        {
+          "value": "0x00781455"
+        },
+        {
+          "value": "0x00731251"
+        },
+        {
+          "value": "0x006E104D"
+        },
+        {
+          "value": "0x00690F49"
+        },
+        {
+          "value": "0x00630D45"
+        },
+        {
+          "value": "0x005E0B41"
+        },
+        {
+          "value": "0x00590A3D"
+        },
+        {
+          "value": "0x0054083A"
+        },
+        {
+          "value": "0x004C8DBD"
+        },
+        {
+          "value": "0x00448ABD"
+        },
+        {
+          "value": "0x003C87BD"
+        },
+        {
+          "value": "0x003584BD"
+        },
+        {
+          "value": "0x002D81BD"
+        },
+        {
+          "value": "0x00267EBD"
+        },
+        {
+          "value": "0x001E7BBD"
+        },
+        {
+          "value": "0x001778BD"
+        },
+        {
+          "value": "0x000F74BD"
+        },
+        {
+          "value": "0x000871BD"
+        },
+        {
+          "value": "0x00002875"
+        },
+        {
+          "value": "0x00052C75"
+        },
+        {
+          "value": "0x00092F75"
+        },
+        {
+          "value": "0x000E3275"
+        },
+        {
+          "value": "0x00133575"
+        },
+        {
+          "value": "0x00173875"
+        },
+        {
+          "value": "0x001C3B75"
+        },
+        {
+          "value": "0x00213E75"
+        },
+        {
+          "value": "0x00264175"
+        },
+        {
+          "value": "0x002D4675"
+        },
+        {
+          "value": "0x00D68A6C"
+        },
+        {
+          "value": "0x00D68D6F"
+        },
+        {
+          "value": "0x00D69074"
+        },
+        {
+          "value": "0x00D69378"
+        },
+        {
+          "value": "0x00D6967C"
+        },
+        {
+          "value": "0x00D69981"
+        },
+        {
+          "value": "0x00D69C85"
+        },
+        {
+          "value": "0x00D69F89"
+        },
+        {
+          "value": "0x00D6A28D"
+        },
+        {
+          "value": "0x00D6A592"
+        },
+        {
+          "value": "0x003C3172"
+        },
+        {
+          "value": "0x003E3473"
+        },
+        {
+          "value": "0x00403673"
+        },
+        {
+          "value": "0x00423873"
+        },
+        {
+          "value": "0x00443B73"
+        },
+        {
+          "value": "0x00463D73"
+        },
+        {
+          "value": "0x00483F73"
+        },
+        {
+          "value": "0x004A4173"
+        },
+        {
+          "value": "0x004C4473"
+        },
+        {
+          "value": "0x004D4673"
+        },
+        {
+          "value": "0x00171211"
+        },
+        {
+          "value": "0x001F1817"
+        },
+        {
+          "value": "0x00261E1C"
+        },
+        {
+          "value": "0x002E2422"
+        },
+        {
+          "value": "0x00362A28"
+        },
+        {
+          "value": "0x003D302D"
+        },
+        {
+          "value": "0x00453633"
+        },
+        {
+          "value": "0x004D3C39"
+        },
+        {
+          "value": "0x0054423E"
+        },
+        {
+          "value": "0x005C4844"
+        },
+        {
+          "value": "0x00443930"
+        },
+        {
+          "value": "0x004D4036"
+        },
+        {
+          "value": "0x0054473C"
+        },
+        {
+          "value": "0x005C4D41"
+        },
+        {
+          "value": "0x00635447"
+        },
+        {
+          "value": "0x006B5A4C"
+        },
+        {
+          "value": "0x00736051"
+        },
+        {
+          "value": "0x007A6757"
+        },
+        {
+          "value": "0x00826D5C"
+        },
+        {
+          "value": "0x008A7462"
+        }
+      ],
+      "name": "Valkyr Heirloom",
+      "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValkyrHeirloom"
+    },
+    {
       "codexSecret": false,
       "description": "Open up an enticing array of radical new artificial skin colors using Refacia. Includes imitation Orokin Blue! ",
       "excludeFromCodex": true,
@@ -30256,7 +30774,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A unique Mantis skin, designed by VentralHound.",
+      "description": "A unique Mantis skin, designed by Ventralhound.",
       "name": "Mantis Vammatar Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/SWMantisVammatarSkin"
     },
@@ -30302,6 +30820,12 @@
       "description": "Adorn your Landing Craft with the Vazarin wave.",
       "name": "Vazarin Sumdali",
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/VazarinHoodOrnament"
+    },
+    {
+      "codexSecret": true,
+      "description": "Now the Landing Craft is changed, reborn through the energy of the Janus Key.",
+      "name": "Janus Key Sumdali",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/VoidKeyHoodOrnament"
     },
     {
       "codexSecret": false,
@@ -30416,6 +30940,20 @@
       "excludeFromCodex": true,
       "name": "Protea Noble Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/UnlockOdaliskNoble"
+    },
+    {
+      "codexSecret": true,
+      "description": "This item lets you use Oraxia's agile animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Oraxia Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/UnlockOraxiaAgile"
+    },
+    {
+      "codexSecret": true,
+      "description": "This item lets you use Oraxia's noble animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Oraxia Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/UnlockOraxiaNoble"
     },
     {
       "codexSecret": true,

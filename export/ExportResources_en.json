@@ -898,6 +898,27 @@
     },
     {
       "codexSecret": false,
+      "description": "The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.\r\n\r\nObtained from Murmur in Isleweaver missions (Duviri)",
+      "name": "Temporal Dust",
+      "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A remnant of battle with Oraxia, the spider that once wore this skin is gone… though it is not easy to tell where.\r\n\r\nObtained by defeating Oraxia in Isleweaver missions (Duviri)",
+      "name": "Scuttler Husk",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Stolen golden seals emblematic of royal authority in Duviri. Return them to restore Dominus Thrax to the throne.\r\n\r\nObtained by completing Isleweaver missions in Duviri during Operation: Eight Claw",
+      "name": "Dominus Aureus",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemEvent"
+    },
+    {
+      "codexSecret": false,
       "description": "Torn from the bile duct of a fallen Hemocyte.\r\n\r\nLocation: Hemocytes found in Plague Star event Bounties in the Plains of Eidolon on Earth",
       "name": "Hemocyte Cystolith",
       "parentName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBaseItem",
@@ -1081,14 +1102,14 @@
       "codexSecret": false,
       "description": "During the Orokin era, these obols were a commonly recognized mark of the Entrati family. Some Archimedeans even used them as good luck talismans.\r\n\r\nLocation: Albrecht's Laboratories (Deimos)",
       "name": "Entrati Obols",
-      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA"
     },
     {
       "codexSecret": false,
       "description": "This experimental array transmutes Void energy into high voltages with low currents.\r\n\r\nLocation: Albrecht's Laboratories (Deimos)",
       "name": "Necracoil",
-      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
     },
     {
@@ -5034,6 +5055,13 @@
     {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Octopede Arena Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriDragonArenaMITW"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "Crater Cay Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapA"
@@ -5069,9 +5097,30 @@
     {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Isleweaver Cloud Islet Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapJ"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Isleweaver Drift Atoll Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapK"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "Amphitheater Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureAmphitheatre"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Kullervo's Hold Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureDungeon"
     },
     {
       "codexSecret": false,
@@ -5111,9 +5160,23 @@
     {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Scholar's Landing Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriScholarsLandingMITW"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "Teshin's Cave Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriTeshinsCave"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Duviri Throne Room Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriThroneRoom"
     },
     {
       "codexSecret": false,
@@ -6214,21 +6277,21 @@
     },
     {
       "codexSecret": false,
-      "description": "This common plant can only be found during the day. \r\n\r\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+      "description": "This common plant can only be found during the day. \r\n\r\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
       "name": "Sunlight Threshcone",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This common plant can only be found at night. \r\n\r\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+      "description": "This common plant can only be found at night. \r\n\r\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
       "name": "Moonlight Threshcone",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \r\n\r\nLocation: Obtained by using a Codex Scanner on Ruk's Claw plants that grow on Mars",
+      "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \r\n\r\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
       "name": "Ruk's Claw",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem"
@@ -6243,7 +6306,7 @@
     },
     {
       "codexSecret": false,
-      "description": "One of the few known plant species able to thrive on asteroids in deep space. \r\n\r\nLocation: Obtained by using a Codex Scanner on Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
+      "description": "One of the few known plant species able to thrive on asteroids in deep space. \r\n\r\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
       "name": "Vestan Moss",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem"
@@ -6272,49 +6335,49 @@
     },
     {
       "codexSecret": false,
-      "description": "This rare plant can only be found during the day. \r\n\r\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+      "description": "This rare plant can only be found during the day. \r\n\r\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
       "name": "Sunlight Jadeleaf",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This rare plant can only be found at night. \r\n\r\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+      "description": "This rare plant can only be found at night. \r\n\r\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
       "name": "Moonlight Jadeleaf",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This uncommon plant can only be found during the day. \r\n\r\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+      "description": "This uncommon plant can only be found during the day. \r\n\r\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
       "name": "Sunlight Dragonlily",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This uncommon plant can only be found at night. \r\n\r\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+      "description": "This uncommon plant can only be found at night. \r\n\r\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
       "name": "Moonlight Dragonlily",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \r\n\r\nLocation: Obtained by using a Codex Scanner on Frostleaf plants that grow on Venus, Neptune, and Pluto",
+      "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \r\n\r\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
       "name": "Frostleaf",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \r\n\r\nLocation: Obtained by using a Codex Scanner on Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
+      "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \r\n\r\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
       "name": "Dusklight Sarracenia",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem"
     },
     {
       "codexSecret": false,
-      "description": "This carnivorous plant can be found growing in the wilderness on Lua. \r\n\r\nLocation: Obtained by using a Codex Scanner on Lunar Pitcher plants that grow on Lua",
+      "description": "This carnivorous plant can be found growing in the wilderness on Lua. \r\n\r\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
       "name": "Lunar Pitcher",
       "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
       "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem"
@@ -6963,6 +7026,22 @@
       "name": "Duviri Clerical Desk",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Duviri2ndRelease/DUVxTable2mB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neci Rusalka’s distinctive Scaldra hat, received as part of a mysterious communication.",
+      "excludeFromCodex": true,
+      "name": "Major Rusalka’s Hat Memento",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaHat"
+    },
+    {
+      "codexSecret": false,
+      "description": "Medals for valor awarded to Neci Rusalka, received as part of a mysterious communication.",
+      "excludeFromCodex": true,
+      "name": "Major Rusalka’s Medals Memento",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaMedals"
     },
     {
       "codexSecret": false,
@@ -10473,7 +10552,7 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster"
     },
     {
-      "codexSecret": true,
+      "codexSecret": false,
       "description": "Grace your walls with this poster promoting Temple and the Rippers’s fateful 1999 tour.",
       "name": "Temple and the Rippers Tour Poster",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -12408,6 +12487,13 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBaro"
     },
     {
+      "codexSecret": true,
+      "description": "All the cleaning style of the original Ki’Teer Domestik, in a fresh, elegant new color.",
+      "name": "Domestik Ki'Teer Drone (Lavender Ice)",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBaroPink"
+    },
+    {
       "codexSecret": false,
       "description": "Add some flare to your Orbiter with this blazing sanitation unit.",
       "name": "Beachcomber Domestik Drone",
@@ -12469,6 +12555,13 @@
       "name": "Domestik Carrion Drone",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneInfested"
+    },
+    {
+      "codexSecret": false,
+      "description": "Oraxia’s creeping crawlers are pleased to make the Orbiter their hunting ground.",
+      "name": "Scuttler",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneOraxiaSpider"
     },
     {
       "codexSecret": false,
@@ -12559,7 +12652,7 @@
     },
     {
       "codexSecret": false,
-      "description": "It's is believed that Onkko protected the coffer's contents with a glass shater lock.",
+      "description": "It is believed that Onkko protected the coffer's contents with a glass shatter lock.",
       "excludeFromCodex": true,
       "name": "Onkko's Coffer",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -13936,6 +14029,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The Mistress of Fear",
+      "name": "Oraxia Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardOraxia"
+    },
+    {
+      "codexSecret": false,
       "description": "The Temporal Dancer",
       "name": "Protea Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -14052,6 +14152,13 @@
       "name": "Titania Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTitania"
+    },
+    {
+      "codexSecret": true,
+      "description": "A regal legacy born from torment.",
+      "name": "Valkyr Heirloom Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardValkyrHeirloom"
     },
     {
       "codexSecret": false,
@@ -14261,6 +14368,62 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2024CosplayTrophy"
     },
     {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with primo workmanship. ",
+      "name": "TennoCon 2025 - Solaris Worksmanship Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayBestWorkmanshipTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with an outstanding on-stage performance.",
+      "name": "TennoCon 2025 - Bombastic Performance Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayBombasticTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the first place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 1st Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayFirstPlaceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay chosen by judges as a strong overall entry.",
+      "name": "TennoCon 2025 - Lotus' Choice Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayLotusChoiceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award is for a person who created an exceptional Cosplay in the non-competitive category.",
+      "name": "TennoCon 2025 - Orokin Gold Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayOrokinGoldTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes creative use of materials and interpretation of the Cosplay's subject matter!",
+      "name": "TennoCon 2025 - Ostron Ingenuity Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayOstronIngenuityTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the second place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 2nd Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplaySecondPlaceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the third place cosplayer at TennoCon 2025.",
+      "name": "TennoCon 2025 - 3rd Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayThirdPlaceTrophy"
+    },
+    {
       "codexSecret": false,
       "description": "A decoration to recognize the contributions of a Clan to the broader Dojo Community.",
       "excludeFromCodex": true,
@@ -14446,10 +14609,25 @@
     },
     {
       "codexSecret": true,
+      "description": "[PH] Description",
+      "name": "[PH] Display - TennoCon 2025 Digital Item",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025DigitalItemDisplay"
+    },
+    {
+      "codexSecret": true,
       "description": "This Operator and Warframe display was created to celebrate ten years of TennoCon in 2025.",
       "name": "Display - TennoCon 2025",
       "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025Display"
+    },
+    {
+      "codexSecret": true,
+      "description": "A signed poster of the remaining members of a lost band. Designed by community artist ZliDe.",
+      "excludeFromCodex": true,
+      "name": "Flare Varleon & Lizzie Poster Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoconConcert2025Display"
     },
     {
       "codexSecret": false,
@@ -14942,13 +15120,6 @@
     },
     {
       "codexSecret": false,
-      "description": "Adds the Archwing Launcher to the foundry.",
-      "name": "Archwing Launcher Segment",
-      "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
-      "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/EidolonArchwingFoundryUpgradeFeatureItem"
-    },
-    {
-      "codexSecret": false,
       "description": "",
       "excludeFromCodex": true,
       "name": "ERIS NAV SEGMENT",
@@ -15223,7 +15394,7 @@
     },
     {
       "codexSecret": false,
-      "description": "",
+      "description": "Install this Void Relic Segment in your Orbiter to begin opening Void Relics. Void Relics contain valuables that are only determined when opened in Void Fissure missions. Void Relics can be obtained as mission rewards.",
       "excludeFromCodex": true,
       "name": "VOID RELIC SEGMENT",
       "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
@@ -16210,6 +16381,15 @@
       "name": "Spring Festival Interior Decorations",
       "parentName": "/Lotus/Types/Items/ShipDecorationLayerItem",
       "uniqueName": "/Lotus/Types/Items/ShipLayerCNY"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks Arbitration Missions in the Alerts tab of the navigation menu.\r\nArbitrations are challenging endless missions variants with greater rewards.",
+      "excludeFromCodex": true,
+      "name": "Unlock Arbitrations",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/UnlockArbitrationKeyItem"
     },
     {
       "codexSecret": true,
@@ -18115,6 +18295,27 @@
       "name": "Octavia Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaSystemsComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Chassis component of the Oraxia Warframe.",
+      "name": "Oraxia Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Oraxia Warframe.",
+      "name": "Oraxia Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Oraxia Warframe.",
+      "name": "Oraxia Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaSystemsComponent"
     },
     {
       "codexSecret": false,
@@ -21508,6 +21709,22 @@
     },
     {
       "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Scyotid Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Scyotid Gauntlet",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntlet"
+    },
+    {
+      "codexSecret": false,
       "description": "A prime sentinel-crafting component.",
       "name": "Shade Prime Carapace",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -21663,6 +21880,30 @@
       "name": "Spectra Vandal Handle",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Spinnerex Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Spinnerex Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Spinnerex String",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexString"
     },
     {
       "codexSecret": false,

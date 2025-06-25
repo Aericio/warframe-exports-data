@@ -1722,7 +1722,7 @@
       },
       {
         "description": "Complete a run of Deep Archimedea or Temporal Archimedea",
-        "name": "Test Subject",
+        "name": "Voluntary Specimen",
         "required": 1,
         "standing": 7000,
         "uniqueName": "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteConquest"

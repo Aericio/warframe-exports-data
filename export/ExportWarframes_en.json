@@ -1838,6 +1838,44 @@
     {
       "abilities": [
         {
+          "abilityName": "Mercy's Kiss",
+          "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/OraxiaLungeAbility",
+          "description": "Leap onto an enemy and pierce them with Oraxia’s spider legs, dealing <DT_POISON_COLOR>Toxin Damage. Enemies defeated by this attack have a chance to drop Health or Energy Orbs."
+        },
+        {
+          "abilityName": "Webbed Embrace",
+          "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/OraxiaEntangleAbility",
+          "description": "Oraxia throws a creeping web to ensnare her prey. Enemies caught within the widening radius are trapped inside a cocoon that increases their Damage Vulnerability."
+        },
+        {
+          "abilityName": "Widow's Brood",
+          "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/OraxiaSpidersAbility",
+          "description": "Oraxia launches a barrage of stinging darts in front of her that applies <DT_POISON_COLOR> Toxin Status Effect. Poisoned enemies spawn Scuttlers when killed."
+        },
+        {
+          "abilityName": "Silken Stride",
+          "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/OraxiaClimbAbility",
+          "description": "Unfurl Oraxia’s spider legs and go on the prowl. Oraxia is immune to Status Effects and has increased Maximum Health. Ranged Weapons are imbued with <DT_POISON_COLOR> Toxin Damage. Killing enemies causes them to burst with <DT_POISON_COLOR>Toxin.\r\n\r\nSilken Thread: Tap Dodge to leap to a targeted surface."
+        }
+      ],
+      "armor": 125,
+      "codexSecret": false,
+      "description": "Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.",
+      "health": 575,
+      "masteryReq": 0,
+      "name": "Oraxia",
+      "parentName": "/Lotus/Powersuits/Oraxia/OraxiaBaseSuit",
+      "passiveDescription": "Wall Latching grants Predator's Lurk, rendering Oraxia invisible for |DURATION|s. ",
+      "power": 150,
+      "productCategory": "Suits",
+      "shield": 125,
+      "sprintSpeed": 1,
+      "stamina": 3,
+      "uniqueName": "/Lotus/Powersuits/Oraxia/Oraxia"
+    },
+    {
+      "abilities": [
+        {
           "abilityName": "Grenade Fan",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/OdaliskFanAbility",
           "description": "Throw out grenades in an arc.\r\n\r\n(TAP) SHRAPNEL VORTEX\r\nCreates a slashing, staggering swirl of shrapnel.\r\n\r\n(HOLD) SHIELD SATELLITES\r\nProtea reconfigures Grenades to work as overcharging shield generators, protecting her, her allies and companions. When Shields break, a Satellite is destroyed to double minimum Shield Gate invincibility time."
@@ -4085,35 +4123,35 @@
         {
           "abilityName": "Rip Line",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GrappleHookAbility",
-          "description": "Valkyr hurls forth a hook. If it hits an enemy, she pulls them to her. If it hits terrain, she pulls herself to the hook's location."
+          "description": "Valkyr hurls forth a hook and pulls herself to whatever it hits. If it hits an enemy, nearby foes are pulled in as she unleashes a coordinated Melee attack."
         },
         {
           "abilityName": "Warcry",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BerserkerScreamAbility",
-          "description": "Valkyr lets out a rallying cry that bolsters her allies Attack Speed while slowing down nearby enemies."
+          "description": "Valkyr lets out a rallying cry that bolsters Armor and Attack Speed for allies while in <AFFINITY_SHARE>Affinity Range."
         },
         {
           "abilityName": "Paralysis",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShieldBashAbility",
-          "description": "Valkyr unleashes her shields, stunning and damaging enemies around her."
+          "description": "Unleash a damaging blast, slowing its victims while increasing their Melee Damage Vulnerability."
         },
         {
           "abilityName": "Hysteria",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/LastStandAbility",
-          "description": "Valkyr is imbued with energy and becomes a ball of vicious rage, capable of unleashing a torrent of deadly claw attacks on unsuspecting foes."
+          "description": "Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied."
         }
       ],
-      "armor": 735,
+      "armor": 1000,
       "codexSecret": false,
       "description": "A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities allow for greater customization.",
       "exalted": [
         "/Lotus/Powersuits/Berserker/BerserkerMeleePrime"
       ],
-      "health": 270,
+      "health": 650,
       "masteryReq": 0,
       "name": "Valkyr Prime",
       "parentName": "/Lotus/Powersuits/Berserker/BerserkerBaseSuit",
-      "passiveDescription": "Recover |PERCENT|% faster from being knocked down.",
+      "passiveDescription": "Valkyr accumulates Rage when hitting or killing enemies with melee weapons, increasing her Melee Damage up to |PERCENT|%. Taking fatal damage when the Rage meter is above |CONSUME|% consumes the meter, preventing death and granting |DURATION|s of invulnerability.",
       "power": 175,
       "productCategory": "Suits",
       "shield": 135,
@@ -4126,35 +4164,35 @@
         {
           "abilityName": "Rip Line",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GrappleHookAbility",
-          "description": "Valkyr hurls forth a hook. If it hits an enemy, she pulls them to her. If it hits terrain, she pulls herself to the hook's location."
+          "description": "Valkyr hurls forth a hook and pulls herself to whatever it hits. If it hits an enemy, nearby foes are pulled in as she unleashes a coordinated Melee attack."
         },
         {
           "abilityName": "Warcry",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BerserkerScreamAbility",
-          "description": "Valkyr lets out a rallying cry that bolsters her allies Attack Speed while slowing down nearby enemies."
+          "description": "Valkyr lets out a rallying cry that bolsters Armor and Attack Speed for allies while in <AFFINITY_SHARE>Affinity Range."
         },
         {
           "abilityName": "Paralysis",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShieldBashAbility",
-          "description": "Valkyr unleashes her shields, stunning and damaging enemies around her."
+          "description": "Unleash a damaging blast, slowing its victims while increasing their Melee Damage Vulnerability."
         },
         {
           "abilityName": "Hysteria",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/LastStandAbility",
-          "description": "Valkyr is imbued with energy and becomes a ball of vicious rage, capable of unleashing a torrent of deadly claw attacks on unsuspecting foes."
+          "description": "Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied."
         }
       ],
-      "armor": 630,
+      "armor": 855,
       "codexSecret": false,
       "description": "Valkyr was modified into a highly motivated and fearsome killer. She is adept at dealing damage and surviving. Her battle cry strikes terror into all who hear it.",
       "exalted": [
         "/Lotus/Powersuits/Berserker/BerserkerMelee"
       ],
-      "health": 270,
+      "health": 650,
       "masteryReq": 0,
       "name": "Valkyr",
       "parentName": "/Lotus/Powersuits/Berserker/BerserkerBaseSuit",
-      "passiveDescription": "Recover |PERCENT|% faster from being knocked down.",
+      "passiveDescription": "Valkyr accumulates Rage when hitting or killing enemies with melee weapons, increasing her Melee Damage up to |PERCENT|%. Taking fatal damage when the Rage meter is above |CONSUME|% consumes the meter, preventing death and granting |DURATION|s of invulnerability.",
       "power": 100,
       "productCategory": "Suits",
       "shield": 135,
@@ -4324,7 +4362,7 @@
         {
           "abilityName": "Antimatter Drop",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AntiMatterDrop",
-          "description": "Launch a large particle of charged antimatter that will detonate contact. Direct the particle by aiming, shoot it to charge it further. Deals <DT_EXPLOSION_COLOR>Blast Damage with a guaranteed Status Effect."
+          "description": "Launch a large particle of charged antimatter that will detonate on contact. Direct the particle by aiming, shoot it to charge it further. Deals <DT_EXPLOSION_COLOR>Blast Damage with a guaranteed Status Effect."
         },
         {
           "abilityName": "Wormhole",
@@ -4362,7 +4400,7 @@
         {
           "abilityName": "Antimatter Drop",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AntiMatterDrop",
-          "description": "Launch a large particle of charged antimatter that will detonate contact. Direct the particle by aiming, shoot it to charge it further. Deals <DT_EXPLOSION_COLOR>Blast Damage with a guaranteed Status Effect."
+          "description": "Launch a large particle of charged antimatter that will detonate on contact. Direct the particle by aiming, shoot it to charge it further. Deals <DT_EXPLOSION_COLOR>Blast Damage with a guaranteed Status Effect."
         },
         {
           "abilityName": "Wormhole",

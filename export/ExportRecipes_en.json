@@ -6258,40 +6258,6 @@
       "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/InfestedEventIngredientBlueprint"
     },
     {
-      "alwaysAvailable": true,
-      "buildPrice": 7500,
-      "buildTime": 1800,
-      "codexSecret": false,
-      "consumeOnUse": false,
-      "ingredients": [
-        {
-          "ItemCount": 50,
-          "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
-          "ProductCategory": "MiscItems"
-        },
-        {
-          "ItemCount": 50,
-          "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
-          "ProductCategory": "MiscItems"
-        },
-        {
-          "ItemCount": 30,
-          "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
-          "ProductCategory": "MiscItems"
-        },
-        {
-          "ItemCount": 600,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
-          "ProductCategory": "MiscItems"
-        }
-      ],
-      "num": 1,
-      "resultType": "/Lotus/Types/Restoratives/OpenArchwingSummon",
-      "secretIngredients": [],
-      "skipBuildTimePrice": 10,
-      "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/OpenArchwingSummonBlueprint"
-    },
-    {
       "buildPrice": 5000,
       "buildTime": 300,
       "codexSecret": false,
@@ -15440,18 +15406,13 @@
     },
     {
       "buildPrice": 15000,
-      "buildTime": 86400,
+      "buildTime": 60,
       "codexSecret": false,
       "consumeOnUse": true,
       "ingredients": [
         {
           "ItemCount": 500,
           "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
-          "ProductCategory": "MiscItems"
-        },
-        {
-          "ItemCount": 200,
-          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
           "ProductCategory": "MiscItems"
         },
         {
@@ -15468,7 +15429,7 @@
       "num": 1,
       "resultType": "/Lotus/Types/Sentinels/SentinelPowersuits/TnSentinelCrossPowerSuit",
       "secretIngredients": [],
-      "skipBuildTimePrice": 30,
+      "skipBuildTimePrice": 1,
       "uniqueName": "/Lotus/Types/Recipes/SentinelRecipes/TnSentinelCrossBlueprint"
     },
     {
@@ -25461,6 +25422,138 @@
       "ingredients": [
         {
           "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Powersuits/Oraxia/Oraxia",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 400,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 200,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 200,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4,
+          "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 800,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaSystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
           "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/PacifistHelmetComponent",
           "ProductCategory": "MiscItems"
         },
@@ -26803,7 +26896,7 @@
         },
         {
           "ItemCount": 1,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
           "ProductCategory": "MiscItems"
         }
       ],
@@ -26820,8 +26913,8 @@
       "consumeOnUse": true,
       "ingredients": [
         {
-          "ItemCount": 1,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+          "ItemCount": 450,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
           "ProductCategory": "MiscItems"
         },
         {
@@ -26854,7 +26947,7 @@
         },
         {
           "ItemCount": 1,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
           "ProductCategory": "MiscItems"
         },
         {
@@ -27012,23 +27105,23 @@
       "consumeOnUse": true,
       "ingredients": [
         {
-          "ItemCount": 1,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
-          "ProductCategory": "MiscItems"
-        },
-        {
-          "ItemCount": 1,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
-          "ProductCategory": "MiscItems"
-        },
-        {
           "ItemCount": 500,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
           "ProductCategory": "MiscItems"
         },
         {
-          "ItemCount": 600,
-          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ItemCount": 250,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 400,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
           "ProductCategory": "MiscItems"
         }
       ],
@@ -34314,6 +34407,176 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NaginataHandleBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 375,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidBarrel",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidBarrelBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntlet",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntletBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexBlade",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexBladeBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 350,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexHandle",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexHandleBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 900,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 250,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 75,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexString",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexStringBlueprint"
     },
     {
       "buildPrice": 20000,
@@ -43743,6 +44006,35 @@
       "uniqueName": "/Lotus/Types/Recipes/Weapons/ScourgePrimeBlueprint"
     },
     {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntlet",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/ScyotidBlueprint"
+    },
+    {
       "buildPrice": 25000,
       "buildTime": 86400,
       "codexSecret": false,
@@ -44191,6 +44483,35 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/SpectraVandalBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexBlade",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexString",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexHandle",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/Melee/Whips/SpiderWhip/SpiderWhipWeapon",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/SpinnerexBlueprint"
     },
     {
       "buildPrice": 15000,
@@ -47312,6 +47633,40 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 50,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/ZaktiPrimeBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 180,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/Zariman/Melee/HeavyScythe/ZarimanHeavyScythe/ZarimanHeavyScytheWeapon",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/ZarimanHeavyScytheIncarnonBlueprint"
     },
     {
       "buildPrice": 20000,

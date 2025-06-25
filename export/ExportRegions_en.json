@@ -1323,8 +1323,8 @@
     {
       "factionIndex": 1,
       "masteryReq": 0,
-      "maxEnemyLevel": 31,
-      "minEnemyLevel": 29,
+      "maxEnemyLevel": 32,
+      "minEnemyLevel": 30,
       "missionIndex": 4,
       "name": "Sao",
       "nodeType": 0,
