@@ -14609,8 +14609,8 @@
     },
     {
       "codexSecret": true,
-      "description": "[PH] Description",
-      "name": "[PH] Display - TennoCon 2025 Digital Item",
+      "description": "Use this display to mark the arrival of TennoCon 2025.",
+      "name": "TennoCon 2025 Pin Display",
       "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025DigitalItemDisplay"
     },
