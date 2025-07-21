@@ -8971,6 +8971,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Boop enemies with this vicious tube of embarrassment that can be used with any hammer and celebrate Dog Days all year round. WARNING: Not a floatation device.",
+      "name": "Noodletron Hammer Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hammer/NoodleHammerSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Transform any Hammer weapon with this forged steel skin.",
       "name": "Hammers Palatine Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Hammer/RhinoDeluxeHammer"
@@ -17617,6 +17623,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Cool off with this unique emblem.",
+      "name": "Aqua Heart Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/DogDays2025BadgeItem"
+    },
+    {
+      "codexSecret": false,
       "description": "A morbidly festive skin for the Acceltra.",
       "name": "Acceltra Day of the Dead Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/Halloween2023DOTDAcceltraSkin"
@@ -22390,6 +22402,12 @@
       "description": "Beat the heat with this unique Sigil.",
       "name": "Scorcher Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023CSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "Refresh yourself with this unique sigil.",
+      "name": "Splashdown Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2025Sigil"
     },
     {
       "codexSecret": false,

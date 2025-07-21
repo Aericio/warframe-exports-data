@@ -11486,6 +11486,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Ride the waves with Yareli. Beverage not included.",
+      "name": "Dog Days \"Hang Loose\" Poster",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/DogDays2025Poster"
+    },
+    {
+      "codexSecret": false,
       "description": "This statue is strangely familiar.",
       "name": "Long Live the King",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -14180,6 +14187,13 @@
       "name": "Yareli Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardYareli"
+    },
+    {
+      "codexSecret": true,
+      "description": "A small wobbly statue of an Orokin-era Prime Grineer.",
+      "name": "Noggle Statue - Prime Grineer",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TauGrineerLancerBobbleHead"
     },
     {
       "codexSecret": false,

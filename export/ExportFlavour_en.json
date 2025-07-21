@@ -2053,6 +2053,12 @@
       "uniqueName": "/Lotus/Types/Items/Emotes/DisagreeEmote"
     },
     {
+      "codexSecret": true,
+      "description": "Demonstrate control and flow with this fluid emote.",
+      "name": "Dog Days Flow Emote",
+      "uniqueName": "/Lotus/Types/Items/Emotes/DogDays2025Emote"
+    },
+    {
       "codexSecret": false,
       "description": "A Tenno display of power and technique, followed up with a short bow.",
       "name": "Wave",
@@ -8307,7 +8313,7 @@
     {
       "codexSecret": true,
       "description": "A glyph to signify your status, created by Community artist Searyn.",
-      "name": "Registered Loser Glyph\r\n",
+      "name": "Registered Loser Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRegisteredLoserGlyph"
     },
     {
