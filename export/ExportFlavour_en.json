@@ -3799,7 +3799,7 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
-      "name": "Im7heClown Glyph",
+      "name": "7heClown Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIm7heClown"
     },
     {
@@ -3919,13 +3919,6 @@
       "description": "A Glyph for your profile.",
       "name": "Kaoiji Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKaoiji"
-    },
-    {
-      "codexSecret": true,
-      "description": "A Glyph for your profile.",
-      "excludeFromCodex": true,
-      "name": "Kavat's Schroedinger Glyph",
-      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKavatsSchroedinger"
     },
     {
       "codexSecret": true,

@@ -2893,6 +2893,10 @@
       "uniqueName": "/Lotus/Powersuits/YinYang/YinYangTargetAugmentCard"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Objects/BaroTreasureBox.png!00_I9AUagdFYWzZxd5sexVQBA",
+      "uniqueName": "/Lotus/StoreItems/Types/BoosterPacks/BaroTreasureBox"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Slots/SlotRenderWarframe.png!00_Yvd1JP+QArMiPaX47dWbpg",
       "uniqueName": "/Lotus/StoreItems/Types/StoreItems/SlotItems/SuitSlotItem"
     },
@@ -38589,7 +38593,7 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R"
     },
     {
-      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/DEUSGlyph.png!00_EqisGDc6G7GkkKzAYs1dSA",
+      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/DEUSGlyph.png!00_raiPoPbAaDxy04GJKyWsKA",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDEUS"
     },
     {
@@ -39005,16 +39009,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKacchi"
     },
     {
-      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Kalon.png!00_ABeCOqkVcyoHdd93Hnmlfg",
+      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Kalon.png!00_0Jc4NgTEPospxoU7AO4eOw",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKalon"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Kaoiji.png!00_nO5MZFhqBcCCezKtKdETiQ",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKaoiji"
-    },
-    {
-      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/KavatsSchroedinger.png!00_i4ZPHLac3TSYQeGeCUPXRQ",
-      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKavatsSchroedinger"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Kengineer.png!00_z+IapZfvwvhekEBuX7wWZQ",
@@ -39545,7 +39545,7 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSaturnSixBarDiscord"
     },
     {
-      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Scallion.png!00_vU7ULDhAqs5Es24m8YG5Ug",
+      "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Scallion.png!00_Q5fAVZbL0DZ4hdXflOesAQ",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageScallion"
     },
     {

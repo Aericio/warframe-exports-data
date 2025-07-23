@@ -2461,6 +2461,12 @@
   },
   "ExportOther": [
     {
+      "description": "Exactly one item of unlabeled surplus inventory sold sight-unseen. One per customer please.",
+      "excludeFromCodex": true,
+      "name": "Void Surplus",
+      "uniqueName": "/Lotus/StoreItems/Types/BoosterPacks/BaroTreasureBox"
+    },
+    {
       "description": "Doubles the rate at which you earn affinity. Upgrade your weapons and Warframes faster.",
       "excludeFromCodex": true,
       "name": "30 Day Affinity Booster",
