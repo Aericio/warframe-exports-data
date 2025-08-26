@@ -2667,6 +2667,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph depicting the fearsome Hemocyte.",
+      "name": "Hemocyte Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Events/PlagueStarGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph to represent the Amalgam faction.",
       "name": "Amalgam Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionAmalgam"
@@ -5604,6 +5610,18 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeDark"
     },
     {
+      "codexSecret": true,
+      "description": "A glyph depicting Caliban Prime on a bright background.",
+      "name": "Caliban Prime Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Caliban Prime on a dark background.",
+      "name": "Caliban Prime Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeDark"
+    },
+    {
       "codexSecret": false,
       "description": "A glyph depicting Gara Prime on a bright background.",
       "name": "Gara Prime Glyph - Bright",
@@ -6621,6 +6639,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Oraxia In Action Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/OraxiaActionGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A rocking Glyph for your profile.",
       "name": "Temple Horns Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/TempleSupporterGlyph"
@@ -6958,6 +6982,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A symbol of support for the Quest to Conquer Cancer, created by HolisticHiatus.",
+      "name": "Conquera Glyph IX",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphIX"
+    },
+    {
+      "codexSecret": true,
       "description": "Display this Glyph and stand united in support of the Quest To Conquer Cancer.",
       "name": "Conquera United Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphUpdated"
@@ -6973,6 +7003,12 @@
       "description": "A glyph for your profile made by Community Artist OHHONO.",
       "name": "Conquera Glyph VII",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVII"
+    },
+    {
+      "codexSecret": true,
+      "description": "A symbol of support for the Quest to Conquer Cancer, created by HolisticHiatus.",
+      "name": "Conquera Glyph VIII",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVIII"
     },
     {
       "codexSecret": true,

@@ -2582,6 +2582,18 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique chest armor for your Warframe, designed by lex182 and cedd00.",
+      "name": "Xairaks Chest Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWXairaksArmor/SWXairaksArmorC"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique leg armor for your Warframe, designed by lex182 and cedd00.",
+      "name": "Xairaks Leg Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWXairaksArmor/SWXairaksArmorL"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique chest armor for your Warframe, designed by led2012.",
       "name": "Xulatu Chest Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWXulatuChest/SWXulatuChestArmor"
@@ -3629,6 +3641,24 @@
       "excludeFromCodex": true,
       "name": "Wukong Samadhi Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/WukongDeluxeArmArmor"
+    },
+    {
+      "codexSecret": true,
+      "description": "Honor the legacy of the infamous Wolf with this festive armor set.",
+      "name": "Saturn Six Day of the Dead Shoulder Plates",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Wolf/DOTDWolfAArmor"
+    },
+    {
+      "codexSecret": true,
+      "description": "Honor the legacy of the infamous Wolf with this festive armor set.",
+      "name": "Saturn Six Day of the Dead Chest Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Wolf/DOTDWolfCArmor"
+    },
+    {
+      "codexSecret": true,
+      "description": "Honor the legacy of the infamous Wolf with this festive armor set.",
+      "name": "Saturn Six Day of the Dead Knee Plates",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Wolf/DOTDWolfLArmor"
     },
     {
       "codexSecret": false,
@@ -14243,6 +14273,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Regalia (Drifter)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeF"
+    },
+    {
+      "codexSecret": false,
       "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
       "name": "Operator Feldune Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic"
@@ -14393,6 +14429,12 @@
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
       "name": "Necra Prime Cuirass (Operator)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Regalia (Operator)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeF"
     },
     {
       "codexSecret": false,
@@ -15368,6 +15410,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Hood (Drifter)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeF"
+    },
+    {
+      "codexSecret": false,
       "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
       "name": "Operator Feldune Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic"
@@ -15536,6 +15584,12 @@
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
       "name": "Necra Prime Vitalis Hood (Operator)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Hood (Operator)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeF"
     },
     {
       "codexSecret": false,
@@ -15760,6 +15814,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Greaves (Drifter)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeF"
+    },
+    {
+      "codexSecret": false,
       "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
       "name": "Operator Feldune Pants",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic"
@@ -15910,6 +15970,12 @@
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
       "name": "Necra Prime Greaves (Operator)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Greaves (Operator)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeF"
     },
     {
       "codexSecret": false,
@@ -16300,6 +16366,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Sleeves (Drifter)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeF"
+    },
+    {
+      "codexSecret": false,
       "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator.",
       "name": "Operator Feldune Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic"
@@ -16450,6 +16522,12 @@
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
       "name": "Necra Prime Sleeves (Operator)",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
+      "name": "Tauron Prime Sleeves (Operator)",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeF"
     },
     {
       "codexSecret": false,
@@ -19020,6 +19098,18 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique helmet for the Gauss Warframe, designed by malaya, Jadie, and Noxxr.",
+      "name": "Gauss Profitas Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Runner/SWProfitasHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Gauss Warframe, designed by malaya, Jadie, and Noxxr.",
+      "name": "Gauss Profitas Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Runner/SWProfitasSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Inaros Ramses' signature helmet.",
       "name": "Inaros Ramses Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Sandman/InarosDeluxeHelmet"
@@ -19428,6 +19518,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/CrpModularScarf"
     },
     {
+      "codexSecret": true,
+      "description": "Pay tribute to the fallen with this festive syandana.",
+      "name": "Saturn Six Day of the Dead Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DOTDWolfBackpack"
+    },
+    {
       "codexSecret": false,
       "description": "Resembling a butterfly's wings emerging from their chrysalis, this Syandana seems infused with mystical power.",
       "name": "Khrusos Syandana",
@@ -19797,6 +19893,12 @@
       "description": "Flaunt wealth and prosperity with a constant stream of financial data.",
       "name": "Lucra Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NefSyandanaScarf"
+    },
+    {
+      "codexSecret": false,
+      "description": "Painstakingly embellished with scavenged gold as a treaty gift for the Orokin, this Sentient spinal symbiote serves as Caliban Prime’s signature syandana.",
+      "name": "Neurovyre Prime Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NeurovyrePrimeSyandana"
     },
     {
       "codexSecret": false,
@@ -20511,6 +20613,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A syandana for your Warframe, designed by led2012 and daemonstar.",
+      "name": "Xikonos Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWXikonosSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "A syandana for your Warframe, designed by malaya and Cobalt.",
       "name": "Zaikhya Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWZaikhyaScarf"
@@ -21007,6 +21115,26 @@
     },
     {
       "codexSecret": false,
+      "description": "Caliban Prime's floating Sentient wings.",
+      "excludeFromCodex": true,
+      "name": "Caliban Prime Pinions",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentient/CalibanPrimeAuxFloater"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Caliban Prime Warframe.",
+      "name": "Caliban Prime Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentient/CalibanPrimeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Caliban Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Caliban Prime Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentient/CalibanPrimeSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A helmet for the Caliban Warframe, designed by LostEpoch.",
       "name": "Caliban Scion Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Sentient/SWCalibanScionHelmet"
@@ -21249,6 +21377,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The standard issue skin for the Nautilus Sentinel.",
+      "excludeFromCodex": true,
+      "name": "Nautilus Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultEmpyreanSentinelSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue skin for the Helios Prime Sentinel.",
       "excludeFromCodex": true,
       "name": "Helios Prime Skin",
@@ -21265,7 +21400,7 @@
       "codexSecret": false,
       "description": "The standard issue skin for the Nautilus Prime Sentinel.",
       "excludeFromCodex": true,
-      "name": "Nautilus Prime Default Skin",
+      "name": "Nautilus Prime Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultNautilusPrimeSentinelSkin"
     },
     {
@@ -22428,6 +22563,13 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil"
     },
     {
+      "codexSecret": false,
+      "description": "A morbidly festive sigil.",
+      "excludeFromCodex": true,
+      "name": "Shroud of Dynar Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil"
+    },
+    {
       "codexSecret": true,
       "description": "A sigil reminiscent of the elemental Orowyrm.",
       "name": "Orowyrm's Rage Sigil",
@@ -22593,6 +22735,13 @@
       "description": "A sigil that celebrates Valkyr's legacy.",
       "name": "Valkyr Heirloom Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomValkyrSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "Commemorate the fight to defend the Ostron from the Infested during Operation: Plague Star with this sigil.",
+      "excludeFromCodex": true,
+      "name": "Hemocyte Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HemocyteSigil"
     },
     {
       "codexSecret": false,
@@ -24349,6 +24498,12 @@
       "description": "A unique two-handed Nikana skin, designed by kakarrot2812.",
       "name": "Two-Handed Nikana Ksara Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/TwoHandKatana/SWKsaraTwoHandedKatanaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique whip skin, designed by Mz-3.",
+      "name": "Whip Jotunheim Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Whip/SWJotunheimWhipSkin"
     },
     {
       "codexSecret": false,

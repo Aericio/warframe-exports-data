@@ -8624,6 +8624,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The fearsome Hemocyte, now a cuddly floof.",
+      "name": "Hemocyte Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHemocyte"
+    },
+    {
+      "codexSecret": false,
       "description": "They're the squeezy little fellas from the ranges of the Vallis! Take them home today!",
       "name": "Dappled Horrasque Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -8839,6 +8846,13 @@
       "name": "Gral's Pobber Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty"
+    },
+    {
+      "codexSecret": true,
+      "description": "This broody little guy will steal your heart as he stands guard over your most precious things inside your Orbiter.",
+      "name": "Protector Stalker Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyProtectorStalker"
     },
     {
       "codexSecret": false,
@@ -11240,6 +11254,13 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Conquera2024Display"
     },
     {
+      "codexSecret": true,
+      "description": "A display featuring Conquera Zephyr, Protector Stalker, Bird 3 and Conquera Floofs made by Community Artist Nelosart. ",
+      "name": "Conquera 2025 Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Conquera2025Display"
+    },
+    {
       "codexSecret": false,
       "description": "An Alloy Drum resource container to place in your Orbiter.",
       "name": "Alloy Drum Decoration",
@@ -13377,6 +13398,13 @@
       "name": "Wheelie To The Stars Poster",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/OlliesCrashCoursePoster"
+    },
+    {
+      "codexSecret": true,
+      "description": "Nothing is so much to be feared as fear… and Oraxia.",
+      "name": "Mistress of Fear Poster",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/OraxiaDOTDPoster"
     },
     {
       "codexSecret": false,
@@ -16968,6 +16996,30 @@
       "name": "Xaku Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameSystemsComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Chassis component of the Caliban Prime Warframe.",
+      "name": "Caliban Prime Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Caliban Prime Warframe.",
+      "name": "Caliban Prime Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Caliban Prime Warframe.",
+      "name": "Caliban Prime Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent"
     },
     {
       "codexSecret": false,
@@ -21470,6 +21522,30 @@
     {
       "codexSecret": false,
       "description": "A prime weapon-crafting component.",
+      "name": "Vadarya Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Vadarya Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Vadarya Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunStock"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
       "name": "Nami Skyla Prime Blade",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 100,
@@ -22431,6 +22507,22 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 15,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VeloxPrimeReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Venato Prime Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Venato Prime Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeHandle"
     },
     {
       "codexSecret": false,

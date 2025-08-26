@@ -17456,6 +17456,142 @@
       "ingredients": [
         {
           "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Powersuits/Sentient/CalibanPrime",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 7800,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 15,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 4,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1750,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 450,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4750,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1775,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4000,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
           "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ChoirHelmetComponent",
           "ProductCategory": "MiscItems"
         },
@@ -43358,6 +43494,40 @@
       "consumeOnUse": true,
       "ingredients": [
         {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunReceiver",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunStock",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Weapons/Tenno/LongGuns/PrimeLightningGun/PrimeLightningGun",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeLightningGunBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
           "ItemCount": 2,
           "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
           "ProductCategory": "MiscItems"
@@ -47391,6 +47561,35 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 50,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/VeloxPrimeBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeBlade",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeHandle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Weapons/Tenno/Melee/Scythe/PrimeVento/PrimeVentoScythe",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/VentoPrimeBlueprint"
     },
     {
       "buildPrice": 25000,
