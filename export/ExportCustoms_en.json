@@ -22563,9 +22563,8 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil"
     },
     {
-      "codexSecret": false,
+      "codexSecret": true,
       "description": "A morbidly festive sigil.",
-      "excludeFromCodex": true,
       "name": "Shroud of Dynar Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil"
     },
