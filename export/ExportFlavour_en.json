@@ -31097,14 +31097,14 @@
     },
     {
       "codexSecret": true,
-      "description": "This item lets you use Nokko's agile animation set with any Warframe of your choosing.",
+      "description": "This item lets you use Nokko's agile animation set with any Warframe of your choosing. Unique Yareli interactions are exclusive to Nokko.",
       "excludeFromCodex": true,
       "name": "Nokko Agile Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/Nokko/UnlockNokkoAgile"
     },
     {
       "codexSecret": true,
-      "description": "This item lets you use Nokko's Noble Animation set with any Warframe of your choosing.",
+      "description": "This item lets you use Nokko's Noble Animation set with any Warframe of your choosing. Unique Yareli interactions are exclusive to Nokko.",
       "excludeFromCodex": true,
       "name": "Nokko Noble Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/Nokko/UnlockNokkoNoble"

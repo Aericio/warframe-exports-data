@@ -60989,6 +60989,14 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Markings/MarkingsA.png!00_7BBGcAl0ZBRGX+3Utqh5hg",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingA"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Markings/MarkingsB.png!00_pA8H2LbDjFjDMnpQzf-Gpw",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingB"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Markings/MarkingsC.png!00_U6SgDUHRWMW7pMuqeatOQw",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingC"
     },

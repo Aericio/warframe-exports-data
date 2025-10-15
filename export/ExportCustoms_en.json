@@ -14729,6 +14729,20 @@
       "codexSecret": false,
       "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
       "excludeFromCodex": true,
+      "name": "Somatics D11",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Asa-03",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
       "name": "Somatics J-02",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingC"
     },
