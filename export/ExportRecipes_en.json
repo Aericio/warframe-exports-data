@@ -8488,6 +8488,39 @@
       "consumeOnUse": true,
       "ingredients": [
         {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Upgrades/Skins/Nokko/NokkoAltHelmet",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Helmets/NokkoAltHelmetBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
           "ItemCount": 500,
           "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
           "ProductCategory": "MiscItems"
@@ -8678,6 +8711,39 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/Helmets/OberonAltHelmetBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Upgrades/Skins/Oraxia/OraxiaAltHelmet",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Helmets/OraxiaAltHelmetBlueprint"
     },
     {
       "buildPrice": 20000,
@@ -15563,6 +15629,209 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 10,
       "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Arcanes/EyeInTheSkyBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/GasMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/MagneticMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ColdMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterA",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlABlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ToxinMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ElectricMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/HeatMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterB",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlBBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ImpactMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/PunctureMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterC",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlCBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/PlainMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/SlashMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/BlastMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterD",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlDBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ToxinMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/TauMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/RadiationMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterE",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlEBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/GasMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/CorrosiveMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/VoidMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterF",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlFBlueprint"
+    },
+    {
+      "buildPrice": 3500,
+      "buildTime": 3600,
+      "codexSecret": false,
+      "consumeOnUse": false,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/TauMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/VoidMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Items/ShipDecos/NokkoMushroomScrawlPosterG",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 10,
+      "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Nokko/NokkoMushroomScrawlGBlueprint"
     },
     {
       "buildPrice": 3500,
@@ -24629,6 +24898,138 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusSystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Powersuits/Nokko/Nokko",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 30,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 700,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 40,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 20,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 250,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NokkoSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoSystemsBlueprint"
     },
     {
       "buildPrice": 25000,
@@ -34552,6 +34953,108 @@
       "excludeFromCodex": true,
       "ingredients": [
         {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/BlastMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/MagneticMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 30,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunBarrelItem",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunBarrelBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/GasMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/RadiationMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 30,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 300,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunReceiverItem",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunReceiverBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/CorrosiveMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 150,
+          "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunStockItem",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunStockBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
           "ItemCount": 375,
           "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
           "ProductCategory": "MiscItems"
@@ -42706,6 +43209,39 @@
       "uniqueName": "/Lotus/Types/Recipes/Weapons/NinkondiPrimeBlueprint"
     },
     {
+      "buildPrice": 25000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunBarrelItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunReceiverItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunStockItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MushroomJournal/PlainMushroomJournalItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/NokkoArchGunBlueprint"
+    },
+    {
       "buildPrice": 20000,
       "buildTime": 43200,
       "codexSecret": false,
@@ -46704,6 +47240,40 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 35,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/TnHopliteSpearGunWeaponBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 300,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/LongGuns/TnModQuestRifle/TnModQuestRifleWeapon",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/TnModQuestRifleWeaponBlueprint"
     },
     {
       "buildPrice": 15000,

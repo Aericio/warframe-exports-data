@@ -4049,6 +4049,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Legendary ArkonisAelir Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryArkonisAelir"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Legendary Blackdeath Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryBlackdeath"
     },
@@ -4057,6 +4063,12 @@
       "description": "Wombat says hi!",
       "name": "Legendary Elof Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryElof"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Legendary Oculox Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLegendaryOculox"
     },
     {
       "codexSecret": true,
@@ -4246,6 +4258,18 @@
       "description": "A Glyph for your profile.",
       "name": "Mooha Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMooha"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Movember Glyph in black and white, created by Community artist UpsideDownSmore.",
+      "name": "Movember Baruuk Community Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMovemberBaruukBW"
+    },
+    {
+      "codexSecret": true,
+      "description": "Display this Glyph and stand united in support of the Quest To Conquer Cancer.",
+      "name": "Movember Baruuk Community Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMovemberBaruukBright"
     },
     {
       "codexSecret": true,
@@ -5083,6 +5107,12 @@
       "description": "A Glyph for your profile.",
       "name": "TennoGen Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoGen"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph celebrating ten years of TennoGen artistry. ",
+      "name": "TennoGen Decennial Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoGen10Year"
     },
     {
       "codexSecret": false,
@@ -6060,6 +6090,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph of Nora Night wearing festive face paint.",
+      "name": "Nora Night Catrina Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/DOTD2025NoraGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A morbidly festive glyph.",
       "name": "All Mad Here Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019CheshireKavat"
@@ -6344,9 +6380,39 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph depicting Lavos Khymia.",
+      "name": "Lavos Khymia Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageLavosDeluxe"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph depicting Mesa Projectilyst.",
       "name": "Mesa Projectilyst Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageMesaDeluxeB"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Nokko Mycorrhiza on a bright background.",
+      "name": "Nokko Mycorrhiza Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoAltBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Nokko Mycorrhiza on a dark background.",
+      "name": "Nokko Mycorrhiza Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoAltDark"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Nokko on a bright background.",
+      "name": "Nokko Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Nokko on a dark background.",
+      "name": "Nokko Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageNokkoDark"
     },
     {
       "codexSecret": true,
@@ -6590,6 +6656,18 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph depicting Wukong Qitian.",
+      "name": "Wukong Qitian Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageWukongDeluxeB"
+    },
+    {
+      "codexSecret": true,
+      "description": "Born from stone, now immortalized by it in this profile glyph. ",
+      "name": "Wukong Stone Monarch Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageWukongDeluxeBSupporter"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph depicting Yareli Physalia on a bright background.",
       "name": "Yareli Physalia Glyph - Bright",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageYareliAltBright"
@@ -6636,6 +6714,13 @@
       "description": "A Glyph for your profile.",
       "name": "Kullervo In Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/KullervoActionGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Cute from any angle!",
+      "excludeFromCodex": true,
+      "name": "Cheeky Sprodling Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/NokkoBabySecretGlyph"
     },
     {
       "codexSecret": true,
@@ -6880,9 +6965,27 @@
     },
     {
       "codexSecret": true,
+      "description": "A community glyph depicting Hildryn in the style of community artist irisillych.",
+      "name": "Community Hildryn Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHildrynGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Jade in the style of community artist Dyana Smythe.",
+      "name": "Community Jade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityJadeGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A community glyph depicting Kullervo in the style of community artist UpsideDownSmore.",
       "name": "Community Kullervo Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityKullervo"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Lavos in the style of community artist Disfusional.",
+      "name": "Community Lavos Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLavosGlyph"
     },
     {
       "codexSecret": true,
@@ -6895,6 +6998,12 @@
       "description": "A Glyph depicting Mother in the style of graffiti, created by DarikaArt.",
       "name": "Community Mother Graffiti Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityMotherGraffiti"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Nokko in the style of community artist Pyrah. ",
+      "name": "Community Nokko Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityNokkoGlyph"
     },
     {
       "codexSecret": true,
@@ -8414,6 +8523,12 @@
     },
     {
       "codexSecret": true,
+      "description": "Celebrate the launch of Starfinder x Warframe: Operation Orias with this glyph.",
+      "name": "Starfinder Society Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarfinderSocietyGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "Show your loyalty to the Lotus with this exclusive glyph.",
       "excludeFromCodex": true,
       "name": "Kumuda Glyph",
@@ -9108,6 +9223,12 @@
       "description": "A glyph depicting Baro Ki'Teer, himself.",
       "name": "Baro Ki'Teer Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBaroKiteer"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting the inimitable, one-of-a-kind Baro Ki’Teer.",
+      "name": "Eskhatos Ki'Teer Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBaroKiteerEvil"
     },
     {
       "codexSecret": false,
@@ -30430,6 +30551,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Decorate the Skaut’s functional Grineer design with colorful paint and festive designs.",
+      "name": "Skaut Day of the Dead Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/GrineerShip/LisetGrineerShipDOTD"
+    },
+    {
+      "codexSecret": false,
       "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut’s alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad’s health. Each squad member can call one additional Grineer brother to join the fight.\r\n\r\nAlso available in the Market after completing the Veilbreaker quest.",
       "excludeFromCodex": true,
       "name": "Skaut Skin",
@@ -30777,6 +30904,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/MasteryHoodOrnament"
     },
     {
+      "codexSecret": true,
+      "description": "Display this stylish Lander hull ornament proudly.",
+      "name": "Tusker Sumdali",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/Mustache05HoodOrnament"
+    },
+    {
       "codexSecret": false,
       "description": "Adorn your Landing Craft with the Naramon tree.",
       "name": "Naramon Sumdali",
@@ -30961,6 +31094,20 @@
       "description": "This item lets you use Ash's noble animation set with any Warframe of your choosing.",
       "name": "Ash Noble Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/Ninja/UnlockNinjaNoble"
+    },
+    {
+      "codexSecret": true,
+      "description": "This item lets you use Nokko's agile animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Nokko Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/UnlockNokkoAgile"
+    },
+    {
+      "codexSecret": true,
+      "description": "This item lets you use Nokko's Noble Animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Nokko Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/UnlockNokkoNoble"
     },
     {
       "codexSecret": true,

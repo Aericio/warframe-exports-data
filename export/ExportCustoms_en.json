@@ -441,6 +441,25 @@
     },
     {
       "codexSecret": false,
+      "description": "Default armor for Lavos Khymia.",
+      "excludeFromCodex": true,
+      "name": "Lavos Khymia Shoulder Vial",
+      "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistDeluxeAuxShoulder"
+    },
+    {
+      "codexSecret": false,
+      "description": "Lavos Khymia's signature helmet.",
+      "name": "Lavos Khymia Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistDeluxeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The master of transmutation embraces the process that made him, imbued with the volatile quintessence of alchemy.",
+      "name": "Lavos Khymia Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistDeluxeSuit"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Lavos Warframe.",
       "name": "Lavos Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistHelmet"
@@ -1285,6 +1304,24 @@
       "excludeFromCodex": true,
       "name": "Arca Knee Guards",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorL"
+    },
+    {
+      "codexSecret": false,
+      "description": "For no discernable reason, this armor produces a distinct feeling of unease in enemies, as well as the wearer.",
+      "name": "Eskhatos Ki'Teer Shoulder Guards",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/EvilBaroArcaArmorA"
+    },
+    {
+      "codexSecret": false,
+      "description": "For no discernable reason, this armor produces a distinct feeling of unease in enemies, as well as the wearer.",
+      "name": "Eskhatos Ki'Teer Chest Guard",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/EvilBaroArcaArmorC"
+    },
+    {
+      "codexSecret": false,
+      "description": "For no discernable reason, this armor produces a distinct feeling of unease in enemies, as well as the wearer.",
+      "name": "Eskhatos Ki'Teer Knee Guards",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/EvilBaroArcaArmorL"
     },
     {
       "codexSecret": false,
@@ -3553,6 +3590,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique armor for the Voruna Warframe, designed by Erneix.",
+      "name": "Voruna Kuvael Drahkaanis Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWKuvaelArmArmor"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique armor for the Lavos Warframe, designed by Erneix.",
       "excludeFromCodex": true,
       "name": "Lavos Kuvael Alchemist Armor",
@@ -3599,6 +3642,12 @@
       "excludeFromCodex": true,
       "name": "Voruna Demionna Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWWerewolfDemionnaArmArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique armor for the Dagath Warframe, designed by blazingcobalt.",
+      "name": "Dagath Yhavan Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWYhavanDagathAArmor"
     },
     {
       "codexSecret": false,
@@ -5214,6 +5263,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Cute from any angle!",
+      "excludeFromCodex": true,
+      "name": "Cheeky Sprodling Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/NokkoBabySecretEmblemItem"
+    },
+    {
+      "codexSecret": false,
       "description": "Display the mark of Arlo’s devoted with this Emblem.",
       "name": "Emissary Emblem",
       "uniqueName": "/Lotus/Upgrades/Skins/Clan/NoraSeasonTwoBadgeItem"
@@ -5377,6 +5433,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Clan/TennoGenBadgeItem"
     },
     {
+      "codexSecret": true,
+      "description": "Show your support for TennoGen Artists with this emblem.",
+      "name": "TennoGen Decennial Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/Tennogen10YearBadgeItem"
+    },
+    {
       "codexSecret": false,
       "description": "A special emblem worn only by a select few Tenno.",
       "name": "Tenno Translator Emblem",
@@ -5487,6 +5549,12 @@
       "excludeFromCodex": true,
       "name": "Qorvex Noble Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/ConcreteNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique helmet for the Qorvex Warframe, designed by Noxxr.",
+      "name": "Qorvex Sarcophago Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/SWQorvexSarcophagoHelmet"
     },
     {
       "codexSecret": false,
@@ -5839,6 +5907,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Keep the light of knowledge always in view with Lavos Khymia’s signature signa.",
+      "name": "Fumulo Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/LavosDeluxeCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "Show strength through elegance.",
       "name": "Hana Ikada Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/NovaDeluxeAoandonCrown"
@@ -5899,6 +5973,24 @@
       "excludeFromCodex": true,
       "name": "Dagath Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique helmet for the Dagath Warframe, designed by kakarrot2812.",
+      "name": "Dagath Voiddax Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dagath/SWVoiddaxHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Dagath Warframe, designed by blazingcobalt.",
+      "name": "Dagath Yhavan Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dagath/SWYhavanDagathSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique helmet for the Dagath Warframe, designed by blazingcobalt.",
+      "name": "Dagath Yhavan Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dagath/SWYhavanDagathSkinHelmet"
     },
     {
       "codexSecret": false,
@@ -6160,6 +6252,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Prescribe enemies a lethal dose with Lavos Khymia’s signature shotgun skin.",
+      "name": "Veneum Shotgun Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/AlchemistDeluxeShotgunSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Born of heat and cold as death, this is the signature bow skin for Ash Shroud.",
       "name": "Causta Bow Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/AshDeluxeIIBowSkin"
@@ -6273,6 +6371,18 @@
       "description": "Conjure darkness and light with Wisp Somnium's signature Fulmin skin.",
       "name": "Privolv Fulmin Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/WispDeluxeFulminSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Wukong Qitian’s signature skin for the Sun & Moon features expert ornamentation fit for a king, a far cry from the austere origins of the blades.",
+      "name": "Tiandi Sun & Moon Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/WukongDeluxeBDualKatanaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Wukong Qitian’s signature Nikana skin, for use with a single blade.",
+      "name": "Tiandi Nikana Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/WukongDeluxeBKatanaSkin"
     },
     {
       "codexSecret": false,
@@ -6622,6 +6732,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Those in the vicinity of this ephemera claim to hear baneful whispers, but surely these are fanciful tales.",
+      "name": "Eskhatos Ki'Teer Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaroEvilEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Honor your serenity and that of others as you display Baruuk's symbol. In relays, temporarily bestow the Vaaditum Prime Ephemera upon others.",
       "name": "Vaaditum Prime Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaruukPrimeEphemera"
@@ -6632,6 +6748,13 @@
       "excludeFromCodex": true,
       "name": "BaseFootsteps",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaseFootsteps"
+    },
+    {
+      "codexSecret": false,
+      "description": "Item to be infused",
+      "excludeFromCodex": true,
+      "name": "BaseFootsteps",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaseFootstepsFullColor"
     },
     {
       "codexSecret": false,
@@ -6902,6 +7025,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Ethereal serpents slither in your caustic wake with Lavos Khymia’s signature Ephemera.",
+      "name": "Ophodryx Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/LavosDeluxeEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Your Warframe leaves a trail of fragrant petals in its wake.",
       "excludeFromCodex": true,
       "name": "Lotus Ephemera",
@@ -6943,6 +7072,18 @@
       "excludeFromCodex": true,
       "name": "Waveform Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/NightwaveIntermissionEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "Baby sprods just love to have fun! Three bounce around your feet with Nokko’s signature ephemera, a playful reminder of the future of the Deepmines.",
+      "name": "Sprodling Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/NokkoEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "Everything is connected. Spores linger in your footsteps with this ephemera, evoking the underground web of life.",
+      "name": "Rizoma Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/NokkoFootstepsEphemera"
     },
     {
       "codexSecret": false,
@@ -7287,7 +7428,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A unique skin for the Lacera used by the Slayer acolyte.",
+      "description": "A unique skin for the Lacera used by the Stalker's Acolyte, Mania.",
       "name": "Lacera Scorn Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Events/AcolyteStalkerMios"
     },
@@ -8369,6 +8510,18 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique helmet for the Citrine Warframe, designed by malaya, Awk'Q-Luz, and Jadie.",
+      "name": "Citrine Celestis Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/SWCitrineCelestisHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Citrine Warframe, designed by malaya, Awk'Q-Luz, and Jadie.",
+      "name": "Citrine Celestis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/SWCitrineCelestisSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The Immortal Skin for the Gara Warframe.",
       "excludeFromCodex": true,
       "name": "Gara Immortal Skin",
@@ -8668,6 +8821,54 @@
       "description": "A unique skin for the Gyre Warframe, designed by Erneix.",
       "name": "Gyre Kuvael Monarch Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Gyre/SWGyreKuvealMonarchSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Atomos rends enemies to ash, and with this festively painted skin, looks good doing it.",
+      "name": "Atomos Day of the Dead Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025AtomosSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dance across the border between life and death with this skin for the Okina.",
+      "name": "Okina Day of the Dead Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025OkinaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Become the cunning wolf with this festively painted mask.",
+      "name": "Kayota Day of the Dead Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025OperatorMask"
+    },
+    {
+      "codexSecret": false,
+      "description": "A brightly painted skull mask attachment for your sentinel pet.",
+      "name": "Calaverita Sentinel Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025SentinelMask"
+    },
+    {
+      "codexSecret": false,
+      "description": "Brightly painted tail feathers for your sentinel pet.",
+      "name": "Calaverita Sentinel Tail",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025SentinelTail"
+    },
+    {
+      "codexSecret": false,
+      "description": "Brightly painted wings for your sentinel pet.",
+      "name": "Calaverita Sentinel Wing",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025SentinelWings"
+    },
+    {
+      "codexSecret": false,
+      "description": "This festively painted skin for the Shedu transcends its morbid origins.",
+      "name": "Shedu Day of the Dead Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025SheduSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Taxon’s shield restoration could mean the difference between life and death. This festive skin illustrates both.",
+      "name": "Taxon Day of the Dead Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Halloween/DOTD2025TaxonSkin"
     },
     {
       "codexSecret": false,
@@ -9955,6 +10156,24 @@
     {
       "codexSecret": false,
       "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
+      "name": "Roots n’ Fruits",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerNokkoA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
+      "name": "Onemind",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerNokkoB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
+      "name": "Shooms",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerNokkoC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
       "excludeFromCodex": true,
       "name": "SLIPPERY",
       "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerO"
@@ -11128,7 +11347,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator.",
+      "description": "A collar used to honor especially loyal Kubrows in the Orokin era.",
       "name": "Kavasa Prime Kubrow Collar",
       "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Collars/PrimeKubrowCollarA"
     },
@@ -11856,7 +12075,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A helmet for the Limbo Warframe, designed by Volkovyi and Sab531.",
+      "description": "A helmet for the Limbo Warframe, designed by Volkovyi and SabtheRobot.",
       "name": "Limbo Venari Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Magician/SWVenariHelmet"
     },
@@ -12180,6 +12399,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Wukong Qitian’s signature sugatra bestows dignity and poise upon any weapon.",
+      "name": "Immortal Breath Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/WukongDlxSugatra"
+    },
+    {
+      "codexSecret": false,
       "description": "This exclusive sugatra is crisscrossed with an inlay of glowing jade.",
       "excludeFromCodex": true,
       "name": "Jade Follox Sugatra",
@@ -12327,6 +12552,24 @@
     },
     {
       "codexSecret": false,
+      "description": "Wukong Qitian's signature helmet.",
+      "name": "Wukong Qitian Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/WukongDeluxeBHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Trickster, warrior, king. Wukong Qitian emerges supreme to claim his rightful title.",
+      "name": "Wukong Qitian Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/WukongDeluxeBSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Iron Staff skin to match the Wukong Qitian Skin.",
+      "name": "Wukong Qitian Iron Staff Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/WukongDeluxeBStaffSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Wukong Samadhi's signature helmet.",
       "name": "Wukong Samadhi Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/WukongDeluxeHelmet"
@@ -12416,6 +12659,12 @@
       "description": "Just try to be as cool as Ollie with this signature Atomicycle livery.",
       "name": "Ollie’s Rocket Livery",
       "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleOllieSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Void-hardened Prisma crystals of this Atomicyle livery light up the night with a captivating gleam.",
+      "name": "Prisma Livery",
+      "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcyclePrismaSkin"
     },
     {
       "codexSecret": false,
@@ -13159,6 +13408,40 @@
       "description": "A unique skin for the Ash Warframe, designed by Yatus.",
       "name": "Ash Tsukuyomi Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Ninja/SWTsukuyomiSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Agile Animation set for Nokko.",
+      "excludeFromCodex": true,
+      "name": "Nokko Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/NokkoAgileAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "Nokko’s alternate helm proves that the style of a warrior doesn’t have to sacrifice function.",
+      "name": "Nokko Mycorrhiza Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/NokkoAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Nokko Warframe.",
+      "excludeFromCodex": true,
+      "name": "Nokko Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/NokkoHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Noble Animation set for Nokko.",
+      "excludeFromCodex": true,
+      "name": "Nokko Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/NokkoNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Nokko Warframe.",
+      "excludeFromCodex": true,
+      "name": "Nokko Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Nokko/NokkoSkin"
     },
     {
       "codexSecret": false,
@@ -14441,20 +14724,6 @@
       "description": "The suit of an Operator outfit.",
       "name": "Harrier Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe"
-    },
-    {
-      "codexSecret": false,
-      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
-      "excludeFromCodex": true,
-      "name": "Somatics D11",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingA"
-    },
-    {
-      "codexSecret": false,
-      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
-      "excludeFromCodex": true,
-      "name": "Somatics Asa-03",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingB"
     },
     {
       "codexSecret": false,
@@ -19519,6 +19788,12 @@
     },
     {
       "codexSecret": true,
+      "description": "Embody the festive spirit with this brightly painted syandana that evokes a magnificent bird.",
+      "name": "Monarcierro Day of the Dead Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DOTD2025MonarchSyandana"
+    },
+    {
+      "codexSecret": true,
       "description": "Pay tribute to the fallen with this festive syandana.",
       "name": "Saturn Six Day of the Dead Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DOTDWolfBackpack"
@@ -19841,6 +20116,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Many a specimen has felt the sting of this wearable apparatus. Lavos Khymia’s signature syandana.",
+      "name": "Aculea Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/LavosDeluxeSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "A Syandana that dances upon the eddies of battle and void-currents alike.",
       "name": "Sidereal Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/LimboDeluxeCape"
@@ -19930,6 +20211,12 @@
       "excludeFromCodex": true,
       "name": "Opal Imperator Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NintendoTurtleNeckScarf"
+    },
+    {
+      "codexSecret": false,
+      "description": "Nokko’s trusty pack carries everything needed for a long day of caring for the fruits n’ roots. Nokko’s signature syandana.",
+      "name": "Caranthele Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NokkoSyandana"
     },
     {
       "codexSecret": false,
@@ -20283,7 +20570,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A syandana for your Warframe, designed by Volkovyi and Sab531.",
+      "description": "A syandana for your Warframe, designed by Volkovyi and SabtheRobot.",
       "name": "Despot Cape Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWDespotScarf"
     },
@@ -20334,6 +20621,12 @@
       "description": "A syandana for your Warframe, designed by malaya and Jadie.",
       "name": "Fei Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWFeiSyandana"
+    },
+    {
+      "codexSecret": false,
+      "description": "A syandana for your Warframe, designed by malaya, Awk'Q-Luz, and Jadie.",
+      "name": "Gothica Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWGothicaSyandana"
     },
     {
       "codexSecret": false,
@@ -21075,6 +21368,12 @@
       "description": "Dance atop the waves with Yareli's Signature Syandana.",
       "name": "Merulina Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/YareliCape"
+    },
+    {
+      "codexSecret": false,
+      "description": "The wind uplifts this winglike syandana, as it does all who partake in the Quest to Conquer Cancer.",
+      "name": "Conquera Uplift Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ZephyrQTCCSyandana"
     },
     {
       "codexSecret": false,
@@ -22652,6 +22951,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilScarletSpear"
     },
     {
+      "codexSecret": false,
+      "description": "A sigil bearing a twisted yet familiar visage.",
+      "name": "Eskhatos Necraloid Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EvilBaroNecraloidSigil"
+    },
+    {
       "codexSecret": true,
       "description": "This sigil burns with a cold flame.",
       "name": "Flaming Sigil",
@@ -22825,6 +23130,12 @@
       "description": "The sigil of one who has bested an inhuman adversary born of the Old Blood: a Kuva Lich.",
       "name": "Old Blood Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KuvaLichSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia’s signature sigil.",
+      "name": "Vaporis Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil"
     },
     {
       "codexSecret": false,
@@ -23730,6 +24041,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil"
     },
     {
+      "codexSecret": true,
+      "description": "A sigil commemorating ten years of TennoGen artistry.",
+      "name": "TennoGen Decennial Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Tennogen10YearSigil"
+    },
+    {
       "codexSecret": false,
       "description": "A sigil depicting a Sentient Teralyst.",
       "name": "Teralyst Sigil",
@@ -23837,6 +24154,12 @@
       "description": "The mark of an outlaw, once locked away six leagues deep in the gas.",
       "name": "Saturn Six Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WolfSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "Show due respect for Wukong Qitian’s power and cunning with this sigil.",
+      "name": "Wukong Qitian Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WukongDeluxeBSigil"
     },
     {
       "codexSecret": false,
@@ -24809,6 +25132,18 @@
     },
     {
       "codexSecret": false,
+      "description": "An elegant skin for Zephyr with roseate accents, worn in support of the Quest to Conquer Cancer.",
+      "name": "Zephyr Conquera Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrQTCCBodySkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard helmet for Zephyr Conquera.",
+      "name": "Zephyr Conquera Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrQTCCHelmet"
+    },
+    {
+      "codexSecret": false,
       "description": "The hammer falls, the cylinder turns, and the cycle begins once again. Flawless machinery moving in sequence.",
       "name": "Capstan Pistol Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Tennocon2020Skins/DeimosSupporterPistolSkin"
@@ -25562,6 +25897,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The flames emanating from this skin for the Silva & Aegis waver uncertainly, as though they might wish to be elsewhere.",
+      "name": "Silva & Aegis Eskhatos Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/EvilBaroSilvaAndAegis"
+    },
+    {
+      "codexSecret": false,
       "description": "Forged from hardened prisma crystal, these extravagant arrows make a bold statement.",
       "name": "Prisma Arrows",
       "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/PrismaArrow"
@@ -25956,6 +26297,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The seething cover of this skin for the Grimoire does all it can to disinvite touch.",
+      "name": "Eskhatos Grimoire Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Grimoire/GrimoireEvilBaroSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Set watchful eyes upon the battle.",
       "name": "Vitreum Tome Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Grimoire/GrimoireFantasySkin"
@@ -26170,6 +26517,18 @@
       "excludeFromCodex": true,
       "name": "",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/UnrealTournament/StahltaShockRifleSkinSecondaryProjectileSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique helmet for the Voruna Warframe, designed by Erneix.",
+      "name": "Voruna Kuvael Drahkaanis Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/SWVorunaKuvaelDrahkaanisHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Voruna Warframe, designed by Erneix.",
+      "name": "Voruna Kuvael Drahkaanis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/SWVorunaKuvaelDrahkaanislSkin"
     },
     {
       "codexSecret": false,

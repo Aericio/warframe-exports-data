@@ -171,6 +171,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Corpus incursions into Grineer territory lead to showdown with a forgotten rival.",
+      "name": "The Teacher",
+      "parentName": "",
+      "uniqueName": "/Lotus/Types/Keys/ModQuest/ModQuestKeyChain"
+    },
+    {
+      "codexSecret": false,
       "description": "Help Baro Ki'Teer raid an ancient Martian tomb for a mysterious treasure.",
       "name": "Sands of Inaros",
       "parentName": "",

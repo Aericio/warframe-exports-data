@@ -313,6 +313,18 @@
       "uniqueName": "SolNode902"
     },
     {
+      "factionIndex": 1,
+      "masteryReq": 0,
+      "maxEnemyLevel": 40,
+      "minEnemyLevel": 30,
+      "missionIndex": 28,
+      "name": "Deepmines",
+      "nodeType": 0,
+      "systemIndex": 1,
+      "systemName": "Venus",
+      "uniqueName": "NokkoColony"
+    },
+    {
       "factionIndex": 0,
       "masteryReq": 0,
       "maxEnemyLevel": 4,
