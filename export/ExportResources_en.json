@@ -5928,7 +5928,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Fuses with an Archgun weapon to unlock one of it's two available Arcane Slots.",
+      "description": "Fuses with an Archgun weapon to unlock one of its two available Arcane Slots.",
       "excludeFromCodex": true,
       "name": "ARCHGUN ARCANE ADAPTER",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -8523,7 +8523,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A silver fern with geometric leaves and gold designed to look like the flora described in Tales of Duviri.",
+      "description": "A silver fern with geometric leaves and gold tracing designed to look like the flora described in Tales of Duviri.",
       "name": "Duviri Fern (Gold)",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFernA"
