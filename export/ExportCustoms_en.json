@@ -6744,20 +6744,6 @@
     },
     {
       "codexSecret": false,
-      "description": "Item to be infused",
-      "excludeFromCodex": true,
-      "name": "BaseFootsteps",
-      "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaseFootsteps"
-    },
-    {
-      "codexSecret": false,
-      "description": "Item to be infused",
-      "excludeFromCodex": true,
-      "name": "BaseFootsteps",
-      "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaseFootstepsFullColor"
-    },
-    {
-      "codexSecret": false,
       "description": "Spread the membranous wings of night with this haunting Ephemera.",
       "name": "Nyctalus Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/BatWingsEphemera"
