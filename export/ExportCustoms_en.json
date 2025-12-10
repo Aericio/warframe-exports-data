@@ -1409,6 +1409,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Embellished shoulder guards worn by Dax commanders on Tau to signify their elevated rank.",
+      "name": "Dax Lustratus Shoulder Plates",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/DaxFlaredArmor/DaxFlaredAArmor"
+    },
+    {
+      "codexSecret": false,
       "description": "Dazzle friends and enemies alike, with this armor’s solar brilliance.",
       "name": "Daybreak Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/Daybreak/DaybreakArmourA"
@@ -2211,6 +2217,24 @@
     },
     {
       "codexSecret": false,
+      "description": "Gleaming with galvanic crystals, Gyre Prime's signature armor crackles with elegance.",
+      "name": "Vanda Prime Shoulder Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Gleaming with galvanic crystals, Gyre Prime's signature armor crackles with elegance.",
+      "name": "Vanda Prime Chest Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Gleaming with galvanic crystals, Gyre Prime's signature armor crackles with elegance.",
+      "name": "Vanda Prime Leg Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorL"
+    },
+    {
+      "codexSecret": false,
       "description": "A resplendent armor set and a ward against death.",
       "name": "Mittahk Prime Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeInarosArmor/PrimeInarosArmorA"
@@ -2963,6 +2987,152 @@
     },
     {
       "codexSecret": false,
+      "description": "A medallion worn by those who rallied to the banner of Grand Carnus Roathe.",
+      "name": "Loiaus Chest Medallion",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauPurpleHeartMedalC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Tenens X Kalika",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal10C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Tenens XI Phloios",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal11C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Tenens XII Perigone",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal12C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Capit XIII Sporoi",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal13C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Capit XIV Kalika",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal14C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Capit XV Phloios",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal15C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Capit XVI Perigone",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal16C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Grandis XVII Sporoi",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal17C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Grandis XVIII Kalika",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal18C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Grandis XIX Phloios",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal19C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Insign I Sporoi",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal1C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Grandis XX Perigone",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal20C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Insign II Kalika",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal2C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Insign III Phloios",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal3C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Insign IV Perigone",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal4C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Servio V Sporoi",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal5C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Servio VI Kalika",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal6C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Servio VII Phloios",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal7C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Servio VIII Perigone",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal8C"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin military title, awarded to recognize acts of exceptional heroism in battle.",
+      "excludeFromCodex": true,
+      "name": "Tenens IX Sporoi",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TauRankMedal/TauRankMedal9C"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2018.",
       "name": "TennoCon 2018 Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorA"
@@ -3056,6 +3226,24 @@
       "description": "Titania's regal ceremonial armor.",
       "name": "Heartwood Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TitaniaDeluxeArmor/TitaniaDeluxeArmorL"
+    },
+    {
+      "codexSecret": false,
+      "description": "The swooping curves of the Nidina armor set, now rendered in icy style.",
+      "name": "Nidina Armor Solstice Shoulder Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveA"
+    },
+    {
+      "codexSecret": false,
+      "description": "The swooping curves of the Nidina armor set, now rendered in icy style.",
+      "name": "Nidina Armor Solstice Chest Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveC"
+    },
+    {
+      "codexSecret": false,
+      "description": "The swooping curves of the Nidina armor set, now rendered in icy style.",
+      "name": "Nidina Armor Solstice Leg Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveL"
     },
     {
       "codexSecret": false,
@@ -3492,6 +3680,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Default armor set for the Gyre Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Gyre Prime Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/GyrePrimeArmArmor"
+    },
+    {
+      "codexSecret": false,
       "description": "Default chest armor for the Hildryn Prime Warframe.",
       "excludeFromCodex": true,
       "name": "Hildryn Prime Chest Plate",
@@ -3669,6 +3864,13 @@
       "excludeFromCodex": true,
       "name": "Volt Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VoltPrimeArmArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "Default armor set for the Voruna Medeina Skin.",
+      "excludeFromCodex": true,
+      "name": "Voruna Medeina Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VorunaDeluxeArmArmor"
     },
     {
       "codexSecret": false,
@@ -5994,6 +6196,42 @@
     },
     {
       "codexSecret": false,
+      "description": "This Dax skin for the Grattler archgun retracts firing rings down its exposed barrel while attached handles keep the wielder’s hands clear.",
+      "name": "Tau Dax Grattler Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxArchgunSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This bow skin with the enlarged upper limb of Dax design is based on those used by Dax Arcus.",
+      "name": "Tau Dax Bow Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxBowSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A trusty sword is the soul of a warrior. This nikana skin, decorated by flashes of orange, is carried by each Dax Gladius on Tau.",
+      "name": "Tau Dax Nikana Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxKatanaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This thrown weapon skin bears the heavy, distinctive design of the kunai used by Dax Tenebra.",
+      "name": "Tau Dax Thrown Weapon Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxKunaiSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This rifle skin recreates the standard-issue firearm for Dax forces who fight for Tau.\r\n\r\nNote: Not every weapon in the category is compatible with this skin. Compatibility can be verified in the Arsenal > Appearance > Skin list.",
+      "name": "Tau Dax Rifle Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxLeverRifleSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A staff skin that replicates the weapon carried by Dax Capsarii into battle as a symbol of hope for victory.",
+      "name": "Tau Dax Staff Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxMageStaffSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The Shock-Camo skin for the Braton.",
       "name": "Braton Shock-Camo Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/BratonDazzleCamo"
@@ -6389,6 +6627,53 @@
       "description": "Wukong Samadhi's signature whip skin.",
       "name": "Meteor Whip Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/WukongDeluxeWhipSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Agile Animation Set for Uriel.",
+      "excludeFromCodex": true,
+      "name": "Uriel Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameAgileAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "Don the fearsome horns of a legendary commander. The mere rumor of Uriel’s alternate helmet inspired despair on ancient battlefields.",
+      "name": "Uriel Asmodion Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Uriel Warframe.",
+      "excludeFromCodex": true,
+      "name": "Uriel Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Noble Animation Set for Uriel.",
+      "excludeFromCodex": true,
+      "name": "Uriel Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Uriel Warframe.",
+      "excludeFromCodex": true,
+      "name": "Uriel Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Roathe’s signature headgear.",
+      "excludeFromCodex": true,
+      "name": "Roathe's Chyrinth",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/GeminiDemonFrameAuxHat"
+    },
+    {
+      "codexSecret": false,
+      "description": "Grand Carnus Roathe, the Heretic of Xata, brings a human - though Orokin - face to the Uriel Warframe.",
+      "name": "Roathe Gemini Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/DemonFrame/GeminiDemonFrameSkin"
     },
     {
       "codexSecret": false,
@@ -7184,6 +7469,12 @@
       "description": "Thunder erupts from within.",
       "name": "Kaminari Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/VoltDeluxeRaijinEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "The wolf-tail plume of Voruna Medeina’s signature ephemera displays the refined nature of an inner beast.",
+      "name": "Manegarmr Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/VorunaDeluxeEphemera"
     },
     {
       "codexSecret": false,
@@ -8791,6 +9082,19 @@
     },
     {
       "codexSecret": false,
+      "description": "The standard issue helmet for the Gyre Prime Warframe.",
+      "name": "Gyre Prime Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Gyre/GyrePrimeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Gyre Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Gyre Prime Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Gyre/GyrePrimeSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue skin for the Gyre Warframe.",
       "excludeFromCodex": true,
       "name": "Gyre Skin",
@@ -9176,9 +9480,9 @@
     },
     {
       "codexSecret": false,
-      "description": "Those who risked everything to exact justice for the Tenno are honored with this Sekhara.",
-      "name": "Sevati Sekhara",
-      "uniqueName": "/Lotus/Upgrades/Skins/Halos/PrototypeRaidHalo"
+      "description": "A skin for hammers modeled after those wielded by the Anarch Libritor Lustratus on Tau.",
+      "name": "Tau Dax Hammer Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hammer/DaxHammerSkin"
     },
     {
       "codexSecret": false,
@@ -11584,6 +11888,13 @@
     },
     {
       "codexSecret": true,
+      "description": "After being blinded in a tragic accident with one of her charges, Margulis wore the scars as a badge of pride, never turning her back on her beloved children.",
+      "excludeFromCodex": true,
+      "name": "Scarred Margulis",
+      "uniqueName": "/Lotus/Upgrades/Skins/Lotus/ScarredLotusSkin"
+    },
+    {
+      "codexSecret": true,
       "description": "The form Natah took when she reverted to her Sentient nature.",
       "name": "Natah",
       "uniqueName": "/Lotus/Upgrades/Skins/Lotus/SentientLotusSkin"
@@ -13676,6 +13987,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Honor an Archimedean like no other by donning his signature oculus.",
+      "name": "Itzam's Oculus",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/EyepieceOperatorGlassesSensei"
+    },
+    {
+      "codexSecret": false,
       "description": "Augment your reality with this Cephalon-inspired cosmetic.",
       "name": "Cogna Earpiece",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/NightWaveEarPieceA"
@@ -13981,6 +14298,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Worn by Operators to ensure ventilation in the hostile atmosphere of Tau.",
+      "name": "Operator Atmosphor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/TauBreathingShell"
+    },
+    {
+      "codexSecret": false,
       "description": "A fashionable accessory for your Operator.",
       "name": "Cognitive Relay",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/TempleDots"
@@ -14111,145 +14434,145 @@
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
-      "name": "Haztech Pauldrons (Operator)",
+      "name": "Haztech Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Apparatist/ApparatistArmourArms"
     },
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
-      "name": "Haztech Cuirass (Operator)",
+      "name": "Haztech Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Apparatist/ApparatistArmourBody"
     },
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
-      "name": "Haztech Mask (Operator)",
+      "name": "Haztech Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Apparatist/ApparatistArmourHead"
     },
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
-      "name": "Haztech Greaves (Operator)",
+      "name": "Haztech Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Apparatist/ApparatistArmourLegs"
     },
     {
       "codexSecret": false,
       "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Pauldrons (Operator)",
+      "name": "Smelter Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourArms"
     },
     {
       "codexSecret": false,
       "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Cuirass (Operator)",
+      "name": "Smelter Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourBody"
     },
     {
       "codexSecret": false,
       "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Mask (Operator)",
+      "name": "Smelter Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourHead"
     },
     {
       "codexSecret": false,
       "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Greaves (Operator)",
+      "name": "Smelter Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourLegs"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
-      "name": "Zauba Pauldrons (Operator)",
+      "name": "Zauba Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourArms"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
-      "name": "Zauba Cuirass (Operator)",
+      "name": "Zauba Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourBody"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
-      "name": "Zauba Mask (Operator)",
+      "name": "Zauba Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourHead"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
-      "name": "Zauba Greaves (Operator)",
+      "name": "Zauba Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourLegs"
     },
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
-      "name": "Ceno Pauldrons (Operator)",
+      "name": "Ceno Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourArms"
     },
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
-      "name": "Ceno Cuirass (Operator)",
+      "name": "Ceno Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourBody"
     },
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
-      "name": "Ceno Helmet (Operator)",
+      "name": "Ceno Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourHead"
     },
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
-      "name": "Ceno Greaves (Operator)",
+      "name": "Ceno Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourLegs"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Operator suit.",
-      "name": "Commodore Prime Pauldrons (Operator)",
+      "name": "Commodore Prime Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourArms"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Operator suit.",
-      "name": "Commodore Prime Cuirass (Operator)",
+      "name": "Commodore Prime Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourBody"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Operator suit.",
-      "name": "Commodore Prime Mask (Operator)",
+      "name": "Commodore Prime Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourHead"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Operator suit.",
-      "name": "Commodore Prime Greaves (Operator)",
+      "name": "Commodore Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourLegs"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
-      "name": "Vahd Pauldrons (Operator)",
+      "name": "Vahd Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourArms"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
-      "name": "Vahd Cuirass (Operator)",
+      "name": "Vahd Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourBody"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
-      "name": "Vahd Mask (Operator)",
+      "name": "Vahd Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourHead"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
-      "name": "Vahd Greaves (Operator)",
+      "name": "Vahd Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourLegs"
     },
     {
@@ -14303,26 +14626,33 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Pauldrons (Operator)",
+      "name": "Hawk Bishamo Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Teshin/TeshinArmourArms"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Cuirass (Operator)",
+      "name": "Hawk Bishamo Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Teshin/TeshinArmourBody"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Helmet (Operator)",
+      "name": "Hawk Bishamo Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Teshin/TeshinArmourHead"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Greaves (Operator)",
+      "name": "Hawk Bishamo Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Teshin/TeshinArmourLegs"
+    },
+    {
+      "codexSecret": false,
+      "description": "Facial hair for Drifter.",
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Beards/Beard001Cap"
     },
     {
       "codexSecret": false,
@@ -14354,6 +14684,20 @@
     },
     {
       "codexSecret": false,
+      "description": "Item to be infused",
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Bodies/FemaleBody"
+    },
+    {
+      "codexSecret": false,
+      "description": "Item to be infused",
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Bodies/MaleBody"
+    },
+    {
+      "codexSecret": false,
       "description": "A suit of an Operator outfit.",
       "excludeFromCodex": true,
       "name": "Zariman Suit",
@@ -14374,8 +14718,14 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Shirt (Drifter)",
+      "name": "Athletic Shirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit of a Drifter outfit.",
+      "name": "Koppra Suit",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultB"
     },
     {
       "codexSecret": false,
@@ -14391,20 +14741,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit of a Drifter outfit.",
+      "name": "Manduka Suit",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultD"
+    },
+    {
+      "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Cuirass (Drifter)",
+      "name": "Hawk Bishamo Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDaxA"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Cuirass (Drifter)",
+      "name": "Lark Bishamo Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDaxB"
     },
     {
       "codexSecret": false,
       "description": "The suit of a Drifter outfit.",
-      "name": "Harrier Suit (Drifter)",
+      "name": "Harrier Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDeluxeA"
     },
     {
@@ -14428,73 +14784,115 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
-      "name": "Ceno Cuirass (Drifter)",
+      "name": "Ceno Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
-      "name": "Vahd Cuirass (Drifter)",
+      "name": "Vahd Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
-      "name": "Zauba Cuirass (Drifter)",
+      "name": "Zauba Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Jacket (Drifter)",
+      "name": "Grunge Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge"
     },
     {
       "codexSecret": false,
+      "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "name": "Outrider Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultI"
+    },
+    {
+      "codexSecret": false,
+      "description": "The suit of a Drifter outfit.",
+      "name": "Emissary Suit",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultInfested"
+    },
+    {
+      "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
-      "name": "Haztech Cuirass (Drifter)",
+      "name": "Haztech Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ"
     },
     {
       "codexSecret": false,
       "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Cuirass (Drifter)",
+      "name": "Smelter Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultK"
     },
     {
       "codexSecret": false,
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
+      "name": "Vent Rat Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultL"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Suit (Drifter)",
+      "name": "TennoCon 2022 Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultM2022TennoCon"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Vent Pobber Ventkid Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultN"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit of a Drifter outfit.",
+      "name": "Varida Suit",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNewC"
+    },
+    {
+      "codexSecret": false,
       "description": "A suit for all of you Dreamers out there.",
-      "name": "Nightwave Suit (Drifter)",
+      "name": "Nightwave Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNightSuit"
     },
     {
       "codexSecret": false,
       "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
-      "name": "Masker's Theodolite Crewsuit (Drifter)",
+      "name": "Masker's Theodolite Crewsuit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNovaEngineer"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Kubrodon Ventkid Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultO"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Jacket (Drifter)",
+      "name": "Goth Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Jacket (Drifter)",
+      "name": "Stormfall Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
-      "name": "Chymerist Uniform (Drifter)",
+      "name": "Chymerist Uniform",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorLasrianB"
     },
     {
@@ -14512,38 +14910,38 @@
     {
       "codexSecret": false,
       "description": "The suit of a Drifter outfit.",
-      "name": "Saita Prime Suit (Drifter)",
+      "name": "Saita Prime Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeA"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Drifter suit.",
-      "name": "Commodore Prime Cuirass (Drifter)",
+      "name": "Commodore Prime Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
       "excludeFromCodex": true,
-      "name": "Templar Prime Suit (Drifter)",
+      "name": "Templar Prime Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter.",
-      "name": "Clearvoy Prime Suit (Drifter)",
+      "name": "Clearvoy Prime Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Cuirass (Drifter)",
+      "name": "Necra Prime Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Regalia (Drifter)",
+      "name": "Tauron Prime Regalia",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeF"
     },
     {
@@ -14555,7 +14953,7 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Shirt (Operator)",
+      "name": "Athletic Shirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic"
     },
     {
@@ -14588,7 +14986,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Cuirass (Operator)",
+      "name": "Lark Bishamo Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitDaxB"
     },
     {
@@ -14600,7 +14998,7 @@
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Jacket (Operator)",
+      "name": "Grunge Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge"
     },
     {
@@ -14612,7 +15010,7 @@
     {
       "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Suit (Operator)",
+      "name": "TennoCon 2022 Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitM2022TennoCon"
     },
     {
@@ -14624,7 +15022,7 @@
     {
       "codexSecret": false,
       "description": "A suit for all of you Dreamers out there.",
-      "name": "Nightwave Suit (Operator)",
+      "name": "Nightwave Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitNightSuit"
     },
     {
@@ -14641,20 +15039,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Cuirass",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Jacket (Operator)",
+      "name": "Goth Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Jacket (Operator)",
+      "name": "Stormfall Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
-      "name": "Chymerist Uniform (Operator)",
+      "name": "Chymerist Uniform",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorLasrianB"
     },
     {
@@ -14684,25 +15088,25 @@
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
-      "name": "Templar Prime Suit (Operator)",
+      "name": "Templar Prime Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator.",
-      "name": "Clearvoy Prime Suit (Operator)",
+      "name": "Clearvoy Prime Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Cuirass (Operator)",
+      "name": "Necra Prime Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Regalia (Operator)",
+      "name": "Tauron Prime Regalia",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeF"
     },
     {
@@ -14710,6 +15114,102 @@
       "description": "The suit of an Operator outfit.",
       "name": "Harrier Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow I4-7",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow 71-J",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow K5-6",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBC"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow L0-3",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBD"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow M5-9",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBE"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow 80-N",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBF"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow O1-1",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBG"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow P4-X",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowBH"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow Q6-R",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow R7-0",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow S4-J",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCC"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow T3-4",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCD"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow U4-v",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCE"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow V9-5",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCF"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow W2-4",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCG"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Brow X0-9",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/EyeBrows/EyeBrowCH"
     },
     {
       "codexSecret": false,
@@ -14783,6 +15283,104 @@
     },
     {
       "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics D11",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Asa-03",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics J-02",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Dev-64",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingD"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Asa-23",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingE"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Ln2",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingF"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics K5",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingG"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Fa-13",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingH"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Rev-16",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingI"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Tt-11",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingJ"
+    },
+    {
+      "codexSecret": false,
+      "description": "Externalized Somatic Link hardware and resulting facial markings crafted by artisans in the time of The Old War.",
+      "excludeFromCodex": true,
+      "name": "Somatics Zz-70",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/FacialMarkings/NewFacialMarkingK"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Cropped Buzz",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair001Cap"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Short Close",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair002Cap"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Short Spiked",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair029RM"
+    },
+    {
+      "codexSecret": false,
       "description": "Floppy locks, for a classic 90s Emo look.",
       "excludeFromCodex": true,
       "name": "Arthur’s Hairstyle",
@@ -14793,6 +15391,12 @@
       "description": "Casual. Cool. Velimir's signature hairstyle is no muss, no fuss.",
       "name": "Velimir's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Frost"
+    },
+    {
+      "codexSecret": false,
+      "description": "Hair is vanity. Lyon’s signature style is the ultimate in low maintenance.",
+      "name": "Lyon's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Harrow"
     },
     {
       "codexSecret": false,
@@ -14856,6 +15460,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Only the most elite of Orokin could afford the time, and expense, of this intricate beaded style.",
+      "name": "Roathe's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Uriel"
+    },
+    {
+      "codexSecret": false,
       "description": "For that 'couldn't sleep, too wired' look.",
       "excludeFromCodex": true,
       "name": "Amir’s Hairstyle",
@@ -14863,44 +15473,36 @@
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "The wispy tresses of Marie’s signature style are rarely seen, but no less intricate for it.",
+      "name": "Marie's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Wisp"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Crest Forward",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairA"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Bob Sidepart",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairAdultN"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairAdultNightwave"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "excludeFromCodex": true,
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairAdultNightwaveB"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "excludeFromCodex": true,
-      "name": "",
+      "name": "Crest Front",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairB"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Crest Spiked",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairC"
     },
     {
@@ -14917,219 +15519,198 @@
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Short Left Flip",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairD"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Bob Midpart",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairE"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Midlength Bluntcut",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairG"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Short Front Flip",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairH"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Midlength Feathered",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairI"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Undercut Kaithetail",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairJ"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Tied Back Dual",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairK"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Tied Back Topknot",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairL"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Short Right Flip",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairM"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Short Sidecut",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairN"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Undercut Front Flip",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairO"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
+      "description": "A distinct hair style.",
       "excludeFromCodex": true,
-      "name": "",
+      "name": "Crest Full",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairP"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairRBun"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairRBunBraid"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairRPonytail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairS"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairSLong"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairSShort"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairTBraid"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairTBun"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairTPonytail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
+      "description": "A distinct hair style.",
+      "name": "Braid Crest",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairUOneBraid"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairUThreeBraid"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairUTwoBraid"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
+      "description": "A distinct hair style.",
+      "name": "Curls High",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairVOne"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
+      "description": "A distinct hair style.",
+      "name": "Curls Full",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairVThree"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
+      "description": "A distinct hair style.",
+      "name": "Curls Short",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairVTwo"
     },
     {
       "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairWDreadShortTail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairWDreadTail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairWFuzzyBall"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairXDreadShortTail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairXDreadTail"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
-      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairXFuzzyBall"
-    },
-    {
-      "codexSecret": false,
-      "description": "An intricate hair style for your Operator.",
-      "name": "",
+      "description": "A distinct hair style.",
+      "name": "Cropped Waves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairZ"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Cropped Short",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairZB"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Braid Headpiece",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/NewHairA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A distinct hair style.",
+      "excludeFromCodex": true,
+      "name": "Bob Bluntcut",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/NewHairB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion C-P4",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion D-58",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion E-92",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoC"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion F-T6",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoD"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion G-34",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoE"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion H-43",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoF"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion I-29",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoG"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion J-90",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoH"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion K-23",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoI"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion L-77",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoJ"
     },
     {
       "codexSecret": false,
@@ -15224,6 +15805,72 @@
     },
     {
       "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 42",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadARemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 52",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadBRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 47",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadCRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 95",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadDRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 74",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadERemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 67",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadFRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 20",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadGRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 80",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadHRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 96",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadIRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 41",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultHeadJRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion M-3",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultLegacyAlbedo"
+    },
+    {
+      "codexSecret": false,
       "description": "Item to be infused",
       "excludeFromCodex": true,
       "name": "",
@@ -15315,6 +15962,90 @@
     },
     {
       "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion C-P4",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion D-58",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion E-92",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoC"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion F-T6",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoD"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion G-34",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoE"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion H-43",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoF"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion I-29",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoG"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion J-90",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoH"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion K-23",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoI"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion L-77",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoJ"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion A-92",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion B-17",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion A-92",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion B-17",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoB"
+    },
+    {
+      "codexSecret": false,
       "description": "Item to be infused",
       "excludeFromCodex": true,
       "name": "",
@@ -15403,6 +16134,72 @@
       "excludeFromCodex": true,
       "name": "",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/FemaleHeadM"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 42",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadARemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 52",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadBRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 47",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadCRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 95",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadDRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 74",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadERemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 67",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadFRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 20",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadGRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 80",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadHRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 96",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadIRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Visage 41",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/HeadJRemastered"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Complexion M-2",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/LegacyAlbedo"
     },
     {
       "codexSecret": false,
@@ -15516,6 +16313,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A hood belonging to a Drifter outfit.",
+      "name": "Koppra Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultB"
+    },
+    {
+      "codexSecret": false,
       "description": "A ragged old cloth hood and leather mask worn by The Drifter.",
       "name": "Drifter Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultC"
@@ -15528,20 +16331,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A hood belonging to a Drifter outfit.",
+      "name": "Manduka Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultD"
+    },
+    {
+      "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Helmet (Drifter)",
+      "name": "Hawk Bishamo Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDaxA"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Helmet (Drifter)",
+      "name": "Lark Bishamo Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDaxB"
     },
     {
       "codexSecret": false,
       "description": "A hood belonging to a Drifter outfit.",
-      "name": "Harrier Hood (Drifter)",
+      "name": "Harrier Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDeluxeA"
     },
     {
@@ -15565,67 +16374,109 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
-      "name": "Ceno Helmet (Drifter)",
+      "name": "Ceno Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
-      "name": "Vahd Mask (Drifter)",
+      "name": "Vahd Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
-      "name": "Zauba Mask (Drifter)",
+      "name": "Zauba Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Hood (Drifter)",
+      "name": "Grunge Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge"
     },
     {
       "codexSecret": false,
+      "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "name": "Outrider Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultI"
+    },
+    {
+      "codexSecret": false,
+      "description": "A hood belonging to a Drifter outfit.",
+      "name": "Emissary Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultInfested"
+    },
+    {
+      "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
-      "name": "Haztech Mask (Drifter)",
+      "name": "Haztech Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ"
     },
     {
       "codexSecret": false,
       "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Mask (Drifter)",
+      "name": "Smelter Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultK"
     },
     {
       "codexSecret": false,
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
+      "name": "Vent Rat Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultL"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Hood (Drifter)",
+      "name": "TennoCon 2022 Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultM2022TennoCon"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Vent Pobber Ventkid Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultN"
+    },
+    {
+      "codexSecret": false,
+      "description": "A hood belonging to a Drifter outfit.",
+      "name": "Varida Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultNewC"
+    },
+    {
+      "codexSecret": false,
       "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
-      "name": "Masker's Theodolite Crewsuit Hood (Drifter)",
+      "name": "Masker's Theodolite Crewsuit Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultNovaEngineer"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Kubrodon Ventkid Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultO"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Hood (Drifter)",
+      "name": "Goth Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Mask (Drifter)",
+      "name": "Stormfall Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
-      "name": "Chymerist Mask (Drifter)",
+      "name": "Chymerist Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorLasrianB"
     },
     {
@@ -15643,44 +16494,44 @@
     {
       "codexSecret": false,
       "description": "A hood belonging to a Drifter outfit.",
-      "name": "Saita Prime Hood (Drifter)",
+      "name": "Saita Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeA"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Drifter suit.",
-      "name": "Commodore Prime Mask (Drifter)",
+      "name": "Commodore Prime Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
       "excludeFromCodex": true,
-      "name": "Templar Prime Hood (Drifter)",
+      "name": "Templar Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter.",
-      "name": "Clearvoy Prime Hood (Drifter)",
+      "name": "Clearvoy Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Hood (Drifter)",
+      "name": "Necra Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Vitalis Hood (Drifter)",
+      "name": "Necra Prime Vitalis Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Hood (Drifter)",
+      "name": "Tauron Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeF"
     },
     {
@@ -15719,7 +16570,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Helmet (Operator)",
+      "name": "Lark Bishamo Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodDaxB"
     },
     {
@@ -15731,19 +16582,19 @@
     {
       "codexSecret": false,
       "description": "You have seen this face before. You have never seen this face before.",
-      "name": "The Stranger's Hood (Drifter)",
+      "name": "The Stranger's Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodDuviriAdultOperator"
     },
     {
       "codexSecret": false,
       "description": "You have seen this face before. You have never seen this face before.",
-      "name": "The Stranger's Hood (Operator)",
+      "name": "The Stranger's Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Hood (Operator)",
+      "name": "Grunge Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge"
     },
     {
@@ -15761,7 +16612,7 @@
     {
       "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Hood (Operator)",
+      "name": "TennoCon 2022 Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodM2022TennoCon"
     },
     {
@@ -15790,20 +16641,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Hood",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Hood (Operator)",
+      "name": "Goth Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Mask (Operator)",
+      "name": "Stormfall Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
-      "name": "Chymerist Mask (Operator)",
+      "name": "Chymerist Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorLasrianB"
     },
     {
@@ -15833,31 +16690,31 @@
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
-      "name": "Templar Prime Hood (Operator)",
+      "name": "Templar Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator.",
-      "name": "Clearvoy Prime Hood (Operator)",
+      "name": "Clearvoy Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Hood (Operator)",
+      "name": "Necra Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Vitalis Hood (Operator)",
+      "name": "Necra Prime Vitalis Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Hood (Operator)",
+      "name": "Tauron Prime Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeF"
     },
     {
@@ -15915,8 +16772,14 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Leggings (Drifter)",
+      "name": "Athletic Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic"
+    },
+    {
+      "codexSecret": false,
+      "description": "Leggings for a Drifter outfit.",
+      "name": "Koppra Leggings",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultB"
     },
     {
       "codexSecret": false,
@@ -15932,20 +16795,26 @@
     },
     {
       "codexSecret": false,
+      "description": "Leggings for a Drifter outfit.",
+      "name": "Manduka Leggings",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultD"
+    },
+    {
+      "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Greaves (Drifter)",
+      "name": "Hawk Bishamo Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultDaxA"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Greaves (Drifter)",
+      "name": "Lark Bishamo Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultDaxB"
     },
     {
       "codexSecret": false,
       "description": "Leggings for a Drifter outfit.",
-      "name": "Harrier Legs (Drifter)",
+      "name": "Harrier Legs",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultDeluxeA"
     },
     {
@@ -15969,73 +16838,115 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
-      "name": "Ceno Greaves (Drifter)",
+      "name": "Ceno Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
-      "name": "Vahd Greaves (Drifter)",
+      "name": "Vahd Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
-      "name": "Zauba Greaves (Drifter)",
+      "name": "Zauba Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Leggings (Drifter)",
+      "name": "Grunge Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge"
     },
     {
       "codexSecret": false,
+      "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "name": "Outrider Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultI"
+    },
+    {
+      "codexSecret": false,
+      "description": "Leggings for a Drifter outfit.",
+      "name": "Emissary Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultInfested"
+    },
+    {
+      "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
-      "name": "Haztech Greaves (Drifter)",
+      "name": "Haztech Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ"
     },
     {
       "codexSecret": false,
       "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Greaves (Drifter)",
+      "name": "Smelter Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultK"
     },
     {
       "codexSecret": false,
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
+      "name": "Vent Rat Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultL"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Leggings (Drifter)",
+      "name": "TennoCon 2022 Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultM2022TennoCon"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Vent Pobber Ventkid Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultN"
+    },
+    {
+      "codexSecret": false,
+      "description": "Leggings for a Drifter outfit.",
+      "name": "Varida Leggings",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNewC"
+    },
+    {
+      "codexSecret": false,
       "description": "Leggings for all of you Dreamers out there.",
-      "name": "Nightwave Leggings (Drifter)",
+      "name": "Nightwave Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNightSuit"
     },
     {
       "codexSecret": false,
       "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
-      "name": "Masker's Theodolite Crewsuit Leggings (Drifter)",
+      "name": "Masker's Theodolite Crewsuit Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNovaEngineer"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Kubrodon Ventkid Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultO"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Leggings (Drifter)",
+      "name": "Goth Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Pants & Boots (Drifter)",
+      "name": "Stormfall Pants & Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
-      "name": "Chymerist Boots (Drifter)",
+      "name": "Chymerist Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorLasrianB"
     },
     {
@@ -16053,38 +16964,38 @@
     {
       "codexSecret": false,
       "description": "Leggings for a Drifter outfit.",
-      "name": "Saita Prime Leggings (Drifter)",
+      "name": "Saita Prime Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeA"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Drifter suit.",
-      "name": "Commodore Prime Greaves (Drifter)",
+      "name": "Commodore Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
       "excludeFromCodex": true,
-      "name": "Templar Prime Leggings (Drifter)",
+      "name": "Templar Prime Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter.",
-      "name": "Clearvoy Prime Leggings (Drifter)",
+      "name": "Clearvoy Prime Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Greaves (Drifter)",
+      "name": "Necra Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Greaves (Drifter)",
+      "name": "Tauron Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeF"
     },
     {
@@ -16096,7 +17007,7 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Leggings (Operator)",
+      "name": "Athletic Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic"
     },
     {
@@ -16129,7 +17040,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Greaves (Operator)",
+      "name": "Lark Bishamo Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsDaxB"
     },
     {
@@ -16141,7 +17052,7 @@
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Leggings (Operator)",
+      "name": "Grunge Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge"
     },
     {
@@ -16153,7 +17064,7 @@
     {
       "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Leggings (Operator)",
+      "name": "TennoCon 2022 Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsM2022TennoCon"
     },
     {
@@ -16165,7 +17076,7 @@
     {
       "codexSecret": false,
       "description": "Leggings for all of you Dreamers out there.",
-      "name": "Nightwave Leggings (Operator)",
+      "name": "Nightwave Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsNightSuit"
     },
     {
@@ -16182,20 +17093,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Leggings (Operator)",
+      "name": "Goth Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Pants & Boots (Operator)",
+      "name": "Stormfall Pants & Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
-      "name": "Chymerist Boots (Operator)",
+      "name": "Chymerist Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorLasrianB"
     },
     {
@@ -16225,25 +17142,25 @@
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
-      "name": "Templar Prime Leggings (Operator)",
+      "name": "Templar Prime Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator.",
-      "name": "Clearvoy Prime Leggings (Operator)",
+      "name": "Clearvoy Prime Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Greaves (Operator)",
+      "name": "Necra Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Greaves (Operator)",
+      "name": "Tauron Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeF"
     },
     {
@@ -16251,6 +17168,126 @@
       "description": "Leggings for an Operator outfit.",
       "name": "Harrier Legs",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Madurai Paint A",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MaduraiMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Madurai Paint B",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MaduraiMaskB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Bavana Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Virama Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Rocana Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskC"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Yotaka Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskD"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Roshaka Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskE"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Pithata Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskF"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Tarunya Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskG"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Balika Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskH"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Kathaya Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskI"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Sahoda Look",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/MakeupMaskJ"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Naramon Paint A",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/NaramonMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Naramon Paint B",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/NaramonMaskB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Unairu Paint A",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/UnairuMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Unairu Paint B",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/UnairuMaskB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Vazarin Paint A",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/VazarinMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Vazarin Paint B",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/VazarinMaskB"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Zenurik Paint A",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/ZenurikMaskA"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "Zenurik Paint B",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/MakeupMasks/ZenurikMaskB"
     },
     {
       "codexSecret": false,
@@ -16267,8 +17304,14 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Disc Player and Towel (Drifter)",
+      "name": "Athletic Disc Player and Towel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic"
+    },
+    {
+      "codexSecret": false,
+      "description": "A waistband component for a Drifter outfit.",
+      "name": "Koppra Faulds",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultB"
     },
     {
       "codexSecret": false,
@@ -16279,7 +17322,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Gear (Drifter)",
+      "name": "Lark Bishamo Gear",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultDaxB"
     },
     {
@@ -16291,56 +17334,74 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
-      "name": "Ceno Apparel (Drifter)",
+      "name": "Ceno Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
-      "name": "Vahd Apparel (Drifter)",
+      "name": "Vahd Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
-      "name": "Zauba Apparel (Drifter)",
+      "name": "Zauba Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Skirt (Drifter)",
+      "name": "Grunge Skirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge"
     },
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
-      "name": "Haztech Apparel (Drifter)",
+      "name": "Haztech Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ"
     },
     {
       "codexSecret": false,
       "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Apparel (Drifter)",
+      "name": "Smelter Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultK"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
-      "name": "Chymerist Apparel (Drifter)",
+      "name": "Chymerist Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultLasrianB"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Vent Pobber Ventkid Apparel",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultN"
+    },
+    {
+      "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Kubrodon Ventkid Apparel",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultO"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Regalia",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Take command with this regal Drifter suit.",
-      "name": "Commodore Prime Apparel (Drifter)",
+      "name": "Commodore Prime Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
       "excludeFromCodex": true,
-      "name": "Templar Prime Apparel (Drifter)",
+      "name": "Templar Prime Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultPrimeC"
     },
     {
@@ -16352,7 +17413,7 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Disc Player and Towel (Operator)",
+      "name": "Athletic Disc Player and Towel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic"
     },
     {
@@ -16364,7 +17425,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Apparel (Operator)",
+      "name": "Lark Bishamo Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtDaxB"
     },
     {
@@ -16382,43 +17443,43 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
-      "name": "Ceno Apparel (Operator)",
+      "name": "Ceno Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
-      "name": "Vahd Apparel (Operator)",
+      "name": "Vahd Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
-      "name": "Zauba Apparel (Operator)",
+      "name": "Zauba Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Skirt (Operator)",
+      "name": "Grunge Skirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge"
     },
     {
       "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
-      "name": "Haztech Apparel (Operator)",
+      "name": "Haztech Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ"
     },
     {
       "codexSecret": false,
       "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Apparel (Operator)",
+      "name": "Smelter Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtK"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
-      "name": "Chymerist Apparel (Operator)",
+      "name": "Chymerist Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtLasrianB"
     },
     {
@@ -16435,14 +17496,20 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Regalia",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Take command with this regal Operator suit.",
-      "name": "Commodore Prime Apparel (Operator)",
+      "name": "Commodore Prime Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
-      "name": "Templar Prime Apparel (Operator)",
+      "name": "Templar Prime Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtPrimeC"
     },
     {
@@ -16467,8 +17534,14 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Sleeves (Drifter)",
+      "name": "Athletic Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic"
+    },
+    {
+      "codexSecret": false,
+      "description": "Sleeves for a Drifter outfit.",
+      "name": "Koppra Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultB"
     },
     {
       "codexSecret": false,
@@ -16484,20 +17557,26 @@
     },
     {
       "codexSecret": false,
+      "description": "Sleeves for a Drifter outfit.",
+      "name": "Manduka Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultD"
+    },
+    {
+      "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Hawk Bishamo Pauldrons (Drifter)",
+      "name": "Hawk Bishamo Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultDaxA"
     },
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Pauldrons (Drifter)",
+      "name": "Lark Bishamo Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultDaxB"
     },
     {
       "codexSecret": false,
       "description": "Sleeves for a Drifter outfit.",
-      "name": "Harrier Sleeves (Drifter)",
+      "name": "Harrier Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultDeluxeA"
     },
     {
@@ -16521,73 +17600,115 @@
     {
       "codexSecret": false,
       "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Drifter.",
-      "name": "Ceno Pauldrons (Drifter)",
+      "name": "Ceno Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultE"
     },
     {
       "codexSecret": false,
       "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Drifter.",
-      "name": "Vahd Pauldrons (Drifter)",
+      "name": "Vahd Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultF"
     },
     {
       "codexSecret": false,
       "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter.",
-      "name": "Zauba Pauldrons (Drifter)",
+      "name": "Zauba Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultG"
     },
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Sleeves (Drifter)",
+      "name": "Grunge Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge"
     },
     {
       "codexSecret": false,
+      "description": "Drifter armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "name": "Outrider Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultI"
+    },
+    {
+      "codexSecret": false,
+      "description": "Sleeves for a Drifter outfit.",
+      "name": "Emissary Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultInfested"
+    },
+    {
+      "codexSecret": false,
       "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Drifter armor modeled on the daredevils of Fortuna's maintenance crews.",
-      "name": "Haztech Pauldrons (Drifter)",
+      "name": "Haztech Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ"
     },
     {
       "codexSecret": false,
       "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
-      "name": "Smelter Pauldrons (Drifter)",
+      "name": "Smelter Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultK"
     },
     {
       "codexSecret": false,
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Drifter armor designed for flexibility and tight squeezes.",
+      "name": "Vent Rat Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultL"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Sleeves (Drifter)",
+      "name": "TennoCon 2022 Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultM2022Tennocon"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Vent Pobber Ventkid Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultN"
+    },
+    {
+      "codexSecret": false,
+      "description": "Sleeves for a Drifter outfit.",
+      "name": "Varida Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNewC"
+    },
+    {
+      "codexSecret": false,
       "description": "Sleeves and gloves for all of you Dreamers out there.",
-      "name": "Nightwave Sleeves (Drifter)",
+      "name": "Nightwave Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNightSuit"
     },
     {
       "codexSecret": false,
       "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova.",
-      "name": "Masker's Theodolite Crewsuit Sleeves (Drifter)",
+      "name": "Masker's Theodolite Crewsuit Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNovaEngineer"
     },
     {
       "codexSecret": false,
+      "description": "Drifter Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "name": "Kubrodon Ventkid Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultO"
+    },
+    {
+      "codexSecret": false,
+      "description": "A suit for the Drifter embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Sleeves (Drifter)",
+      "name": "Goth Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Gloves (Drifter)",
+      "name": "Stormfall Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
-      "name": "Chymerist Gloves (Drifter)",
+      "name": "Chymerist Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorLasrianB"
     },
     {
@@ -16605,38 +17726,38 @@
     {
       "codexSecret": false,
       "description": "Sleeves for a Drifter outfit.",
-      "name": "Saita Prime Sleeves (Drifter)",
+      "name": "Saita Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeA"
     },
     {
       "codexSecret": false,
       "description": "Take command with this regal Drifter suit.",
-      "name": "Commodore Prime Pauldrons (Drifter)",
+      "name": "Commodore Prime Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeB"
     },
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
       "excludeFromCodex": true,
-      "name": "Templar Prime Sleeves (Drifter)",
+      "name": "Templar Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter.",
-      "name": "Clearvoy Prime Sleeves (Drifter)",
+      "name": "Clearvoy Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Sleeves (Drifter)",
+      "name": "Necra Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Sleeves (Drifter)",
+      "name": "Tauron Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeF"
     },
     {
@@ -16648,7 +17769,7 @@
     {
       "codexSecret": false,
       "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
-      "name": "Athletic Sleeves (Operator)",
+      "name": "Athletic Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic"
     },
     {
@@ -16681,7 +17802,7 @@
     {
       "codexSecret": false,
       "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
-      "name": "Lark Bishamo Pauldrons (Operator)",
+      "name": "Lark Bishamo Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesDaxB"
     },
     {
@@ -16693,7 +17814,7 @@
     {
       "codexSecret": false,
       "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene.",
-      "name": "Grunge Sleeves (Operator)",
+      "name": "Grunge Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge"
     },
     {
@@ -16705,7 +17826,7 @@
     {
       "codexSecret": false,
       "description": "Bestowed upon those who joined together in celebration at TennoCon 2022.",
-      "name": "TennoCon 2022 Sleeves (Operator)",
+      "name": "TennoCon 2022 Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesM2022TennoCon"
     },
     {
@@ -16717,7 +17838,7 @@
     {
       "codexSecret": false,
       "description": "Sleeves and gloves for all of you Dreamers out there.",
-      "name": "Nightwave Sleeves (Operator)",
+      "name": "Nightwave Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesNightSuit"
     },
     {
@@ -16734,20 +17855,26 @@
     },
     {
       "codexSecret": false,
+      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "name": "Grand Carnus Sleeves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDemonframe"
+    },
+    {
+      "codexSecret": false,
       "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments.",
-      "name": "Goth Sleeves (Operator)",
+      "name": "Goth Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth"
     },
     {
       "codexSecret": false,
       "description": "Have the Operator embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
-      "name": "Stormfall Gloves (Operator)",
+      "name": "Stormfall Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorLasrianA"
     },
     {
       "codexSecret": false,
       "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Operator's too.",
-      "name": "Chymerist Gloves (Operator)",
+      "name": "Chymerist Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorLasrianB"
     },
     {
@@ -16777,25 +17904,25 @@
     {
       "codexSecret": false,
       "description": "The dress uniform worn with pride by Harrow's faithful legions. ",
-      "name": "Templar Prime Sleeves (Operator)",
+      "name": "Templar Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeC"
     },
     {
       "codexSecret": false,
       "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator.",
-      "name": "Clearvoy Prime Sleeves (Operator)",
+      "name": "Clearvoy Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeD"
     },
     {
       "codexSecret": false,
       "description": "Necrotic accents define this testament to the Entrati family’s aesthetic. Perhaps there’s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion.",
-      "name": "Necra Prime Sleeves (Operator)",
+      "name": "Necra Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE"
     },
     {
       "codexSecret": false,
       "description": "The Tauron Academy uniform blends Tenno functionality with Sentient design.",
-      "name": "Tauron Prime Sleeves (Operator)",
+      "name": "Tauron Prime Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeF"
     },
     {
@@ -17675,6 +18802,25 @@
     },
     {
       "codexSecret": false,
+      "description": "Lyon’s signature headgear.",
+      "excludeFromCodex": true,
+      "name": "Lyon's Mitre",
+      "uniqueName": "/Lotus/Upgrades/Skins/Priest/HarrowGeminiAuxHat"
+    },
+    {
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Priest/HarrowGeminiHelmetForHat"
+    },
+    {
+      "codexSecret": false,
+      "description": "Father Lyon Allard, a priest of Lua tormented by nightmarish visions, brings a human face to the Harrow Warframe.",
+      "name": "Lyon Gemini Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Priest/HarrowGeminiSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Harrow Prime Warframe.",
       "name": "Harrow Prime Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Priest/HarrowPrimeHelmet"
@@ -18099,6 +19245,12 @@
       "description": "A festive skin for the Paris.",
       "name": "Paris Solstice Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumParis"
+    },
+    {
+      "codexSecret": false,
+      "description": "This festive glaive skin may look like a delicious treat, but don’t be fooled by its whimsical appearance - it is still just as deadly.",
+      "name": "Cychel Glaive Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/XmasGlaiveSkin"
     },
     {
       "codexSecret": false,
@@ -19800,6 +20952,18 @@
     },
     {
       "codexSecret": false,
+      "description": "Reclaimed from the battlefields of Tau, this battle-worn syandana reflects the cost of war.",
+      "name": "Lustratus Conquest Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DaxSquareCape"
+    },
+    {
+      "codexSecret": false,
+      "description": "A syandana once worn to distinguish Dax commanders on Tau; wear it now as a mark of pride.",
+      "name": "Lustratus Warbanner Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DaxTwoTailsCape"
+    },
+    {
+      "codexSecret": false,
       "description": "Resembling a butterfly's wings emerging from their chrysalis, this Syandana seems infused with mystical power.",
       "name": "Khrusos Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DeimosSupporterFireFlyBlueScarf"
@@ -20350,6 +21514,12 @@
       "description": "The signature Syandana of the gilded gourmand, Grendel Prime.",
       "name": "Sumbha Prime Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeGrendelSyandana"
+    },
+    {
+      "codexSecret": false,
+      "description": "Enchant onlookers with the crystalline adornments of Gyre Prime's signature syandana.",
+      "name": "Triodic Prime Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeGyreSyandana"
     },
     {
       "codexSecret": false,
@@ -21196,6 +22366,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This winter rendering is a perfect fit for the geometric patterns of the Broca syandana.",
+      "name": "Broca Solstice Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnLargeCapeWSolstice"
+    },
+    {
+      "codexSecret": false,
       "description": "A next-generation syandana.",
       "name": "Jade Broca Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnLargeCapeXbox"
@@ -21338,6 +22514,12 @@
       "description": "This Hecate Syandana has been threaded with filaments of prisma crystals.",
       "name": "Prisma Hecate Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/VTHornSkullScarf"
+    },
+    {
+      "codexSecret": false,
+      "description": "Honor a great commander by wearing his distinctive syandana.",
+      "name": "Valdur's Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ValdurBackCape"
     },
     {
       "codexSecret": false,
@@ -26460,6 +27642,12 @@
     },
     {
       "codexSecret": true,
+      "description": "This unusual sword skin bears the markings of seekers from distant lands. Faint etchings around the hilt spell the cryptic phrase SOLLOS-I, the meaning of which has been lost to time.",
+      "name": "Envoy's Sphere Longsword Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Swords/SphereSwordSkin"
+    },
+    {
+      "codexSecret": true,
       "description": "An ancient look for a timeless weapon.",
       "name": "Protokol Hira Thrown Weapon Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Throwable/TennoCon2024NinjaStarSkin"
@@ -26529,6 +27717,24 @@
       "description": "A unique skin for the Voruna Warframe, designed by Erneix.",
       "name": "Voruna Kuvael Drahkaanis Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/SWVorunaKuvaelDrahkaanislSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Those who feel the vicious bite of Voruna Medeina’s signature heavy blade skin know why its wielder has no need for subtlety.",
+      "name": "Iltis Heavy Blade Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaDeluxeAxeSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Voruna Medeina's signature helmet.",
+      "name": "Voruna Medeina Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaDeluxeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Voruna appears as a glorious forest goddess, loyal wolves comprising her graceful armor. The savage huntress is also a protector of the innocent, revered by those unjustly hunted.",
+      "name": "Voruna Medeina Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaDeluxeSkin"
     },
     {
       "codexSecret": false,
@@ -26625,6 +27831,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This brumal skin for the Quassus scatters ethereal daggers like snow.",
+      "name": "Quassus Solstice Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/WinterSolstice/SolsticeQuassusSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A festive skin for the Skiajati.",
       "name": "Skiajati Solstice Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/WinterSolstice/SolsticeSkiajatiSkin"
@@ -26634,6 +27846,18 @@
       "description": "A festive skin for the Tatsu.",
       "name": "Tatsu Solstice Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/WinterSolstice/SolsticeTatsuSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This icy skin for the Gammacor elevates it even further beyond its origins as a mining tool.",
+      "name": "Gammacor Solstice Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/WinterSolstice/WinterSolsticeGammacorSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "An icy skin for the iconic Tenno rifle.",
+      "name": "Latron Solstice Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/WinterSolstice/WinterSolsticeLatron"
     },
     {
       "codexSecret": false,
@@ -26736,6 +27960,19 @@
       "description": "A skin for the Wisp Warframe, designed by daemonstar and led2012.",
       "name": "Wisp Zamariu Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Wisp/SWZamariuWispSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Marie’s signature headgear.",
+      "excludeFromCodex": true,
+      "name": "Marie's Cowl",
+      "uniqueName": "/Lotus/Upgrades/Skins/Wisp/WF1999WispAuxHat"
+    },
+    {
+      "codexSecret": false,
+      "description": "Sister Marie Leroux, a nun determined to serve Sol by proving that even the most unrepentant devil can be redeemed, brings a human face to the Wisp Warframe.",
+      "name": "Marie Gemini Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Wisp/WF1999WispSkin"
     },
     {
       "codexSecret": false,

@@ -1477,6 +1477,69 @@
     },
     {
       "codexSecret": false,
+      "description": "The passionate heat of flames fuels the path to redemption.\r\n\r\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
+      "name": "Ignia",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceCommonItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "A core of rage, jealously guarded in a burnished shell.\r\n\r\nLocation: Otained from crates and bosses in the Descendia (Dark Refractory).",
+      "name": "Maphica",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceRareItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "The evolved core of a Dactolyst, bearing its true self-given name and identity. When deprived of Tau pollen, the core becomes susceptible to forcible reprogramming.",
+      "name": "Ren Hypercore",
+      "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceDactolystItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "A delicate paraneural interface allowing a duly evolved Sentient pilot to command the colossal Hunhullus as if it were a second skin.",
+      "name": "Lyroic Bridge",
+      "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceHunhullusItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Technology developed by Executor Ballas to allow remote piloting of a hijacked Warframe for short periods, forcing them to act against even their deepest instincts.",
+      "name": "Ascaris Prime",
+      "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourcePrimesItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "A mark of identification carried by soldiers during The Old War so that their names might be remembered if they never returned home.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
+      "name": "Agnovidisc",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awarded by Grand Carnus Roathe in recognition of valorous deeds past and present.\r\n\r\nObtained from Perita Rebellion (Dark Refractory) and Operation Alerts during Operation: Blood of Perita.\r\nExchange with Roathe after completing The Old Peace Quest.",
+      "name": "Marks of Valiance",
+      "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCurrencyItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+      "name": "Servoris",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awarded to soldiers during the The Old War for distinction in battle.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+      "name": "Laudavi",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem"
+    },
+    {
+      "codexSecret": false,
       "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\r\n\r\nEarn Crisma Toroids by defeating the Profit-Taker Orb on the Orb Vallis (Venus).",
       "name": "Crisma Toroid",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
@@ -1684,6 +1747,14 @@
       "name": "The Citadel Simulacrum",
       "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
       "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDefault"
+    },
+    {
+      "codexSecret": false,
+      "description": "Simulate a battle in the deepest depths of a tormented mind. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "excludeFromCodex": true,
+      "name": "Roathe's Oblivion Arena",
+      "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
+      "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDevilTowerUrielArena"
     },
     {
       "codexSecret": false,
@@ -4884,6 +4955,111 @@
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipOrbitalStrike"
     },
     {
+      "codexSecret": true,
+      "description": "",
+      "name": "Lyon's Temple Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateLyonHarrowRedVeilTemple"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Lyon's Lua Circulus Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateLyonLuasPrey"
+    },
+    {
+      "codexSecret": true,
+      "description": "",
+      "name": "Lyon's Umbra Courtyard Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateLyonUmbraShrine"
+    },
+    {
+      "codexSecret": true,
+      "description": "",
+      "name": "Lyon's Cold Below Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateLyonWraithQuestVallaGlariosArena"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Lyon's Chrysalith Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateLyonZarParkHub"
+    },
+    {
+      "codexSecret": false,
+      "description": "Relive the memory of a date with Marie.",
+      "name": "Marie's Sanctum Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateMarieCapRoomNarrow"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Marie's Cetus Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateMarieCetusTown"
+    },
+    {
+      "codexSecret": true,
+      "description": "",
+      "name": "Marie's Drifter Camp Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateMarieDrifterCamp"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Marie's Amphitheater Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateMarieDuviriIsleSignatureAmphitheatre"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Marie's Ventkid Clubhouse Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateMarieVentKids"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Roathe's Orokin Ruins Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateRoatheDerelictHub"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Roathe's Duviri Throneroom Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateRoatheDuviriThroneRoom"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Roathe's Murex Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateRoatheSentientConTallJunctionOne"
+    },
+    {
+      "codexSecret": true,
+      "description": "",
+      "name": "Roathe's Lua Containment Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateRoatheUmbraChamber"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "name": "Roathe's Zariman Park Date",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDateRoatheZarParkA"
+    },
+    {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "Deck 12 Scene",
@@ -5409,6 +5585,22 @@
       "name": "Orbiter Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseTenno",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTilePlayerShip"
+    },
+    {
+      "codexSecret": true,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Lyon's Room Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomHarrow"
+    },
+    {
+      "codexSecret": true,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Marie's Room Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomWisp"
     },
     {
       "codexSecret": true,
@@ -6226,6 +6418,54 @@
       "name": "Stalker's Lair Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
       "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileStalkerCave"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "La Cathédrale Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Boro Overlook Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntBoroOverlook"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Makvos Cannon Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntMakvossCannon"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "World-Seeder Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntTerraformerEgg"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Trauma Manifestation Arena",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceObjLiminalBossArena"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Fort Tennadis Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceQuestFortTennadis"
     },
     {
       "codexSecret": false,
@@ -8199,6 +8439,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Struck to recognize your achievement in reaching Rank 6 - Legendary.",
+      "name": "Aurichalc Legendary Mastery Slate",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank36Trophy"
+    },
+    {
+      "codexSecret": false,
       "description": "Stripped of its formidable power this trophy of your victory over Ballas and his Narmer forces is a prized decoration for your ship.",
       "excludeFromCodex": true,
       "name": "Ballas' Narmer Staff",
@@ -9918,6 +10165,34 @@
     },
     {
       "codexSecret": false,
+      "description": "Bestow a touch of the festive season with these delightful decorations. Note: these items are for display only.",
+      "name": "Festive Domestik Ornament",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/OrnamentDomestikDrone"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bestow a touch of the festive season with these delightful decorations. Note: these items are for display only.",
+      "name": "Festive Endosphere Ornament",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/OrnamentEndosphere"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bestow a touch of the festive season with these delightful decorations. Note: these items are for display only.",
+      "name": "Festive Cychel Glaive Ornament",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/OrnamentGlaive"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bestow a touch of the festive season with these delightful decorations. Note: these items are for display only.",
+      "name": "Festive Relic Ornament",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/OrnamentRelic"
+    },
+    {
+      "codexSecret": false,
       "description": "These eerie lights are suspended above the ground by no perceptible means.",
       "name": "Naberus Floating Candles",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -10027,6 +10302,146 @@
       "name": "Vitrific Outcrop Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropOrbStone"
+    },
+    {
+      "codexSecret": false,
+      "description": "To one damned within his own mind, a throne can be a prison.",
+      "name": "Infernum Throne",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropRoatheThrone"
+    },
+    {
+      "codexSecret": false,
+      "description": "A 1m patch of Tau Xenoflora to decorate your Orbiter.",
+      "name": "Xenoflora Patch (1m)",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropMetalLotus1mPatch"
+    },
+    {
+      "codexSecret": false,
+      "description": "A 2m patch of Tau Xenoflora to decorate your Orbiter.",
+      "name": "Xenoflora Patch (2m)",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropMetalLotus2mPatch"
+    },
+    {
+      "codexSecret": false,
+      "description": "Wrought in memory of the Xenoflora of Tau, its beauty can be preserved in your Orbiter.",
+      "name": "Xenoflora Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropMetalLotusSingle"
+    },
+    {
+      "codexSecret": false,
+      "description": "Orokin archimedean instruments were status symbols as well as tools of study.",
+      "name": "Gilded Microscope",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropORKxLabTableGenericPropG"
+    },
+    {
+      "codexSecret": false,
+      "description": "Gold assists with conductivity in some areas of study, but here is purely decorative.",
+      "name": "Gilded Alchemy Stand",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropORKxLabTableGenericPropI"
+    },
+    {
+      "codexSecret": false,
+      "description": "While purported to house all manner of precious resources, in truth these containers primarily contained various strong drinks.",
+      "name": "Orokin Cask",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropOroTechPieceB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Tubing used to protect the volatile energy sources the Orokin would often use.",
+      "name": "Orokin Conduit",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropOroTechPieceE"
+    },
+    {
+      "codexSecret": false,
+      "description": "Used to house volatile and dangerous substances in Orokin installations.",
+      "name": "Orokin Sealed Storage",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropOroTechPieceG"
+    },
+    {
+      "codexSecret": false,
+      "description": "A gilded component used in the operation of Orokin infrastructure.",
+      "name": "Orokin Arc Conduit",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropOrokinProbA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Better than the ground, but not by much.",
+      "name": "Camp Bed",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxGrnMedicalStretcherA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A container for all manner of Anarch war supplies.",
+      "name": "Anarch Storage Crate",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxGrnStorageCrateC"
+    },
+    {
+      "codexSecret": false,
+      "description": "A cylindrical storage receptacle used by Anarch forces.",
+      "name": "Anarch Storage Drum",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxGrnStorageDrumAS"
+    },
+    {
+      "codexSecret": false,
+      "description": "A simple trap designed to impede even the most advanced Orokin tank.",
+      "name": "Anarch Anti-tank trap",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxGrnTankTrapA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A desk used at Tauron Academy.",
+      "name": "Tauron Academy Desk",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxOroOrbStationCalRoomDeskA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A double-leaf table used at Tauron Academy.",
+      "name": "Tauron Academy Table",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxOroOrbStationCalRoomDeskB"
+    },
+    {
+      "codexSecret": false,
+      "description": "A stand made for only the most precious of Orokin belongings.",
+      "name": "Gilded Plinth",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxOroPedestal"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ornate writing implement used primarily to sign paperwork.",
+      "name": "Gilded Feather Quill Set",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxOroQuillPenSet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A staked figure used by Anarchs to demarcate an area claimed by a belligerent force.",
+      "name": "Sentient Bone Effigy (Medium)",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxSntTrooperEffigyA"
+    },
+    {
+      "codexSecret": false,
+      "description": "A large staked figure used by Anarchs to demarcate an area claimed by a belligerent force.",
+      "name": "Sentient Bone Effigy (Large)",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxSntTrooperEffigyB"
     },
     {
       "codexSecret": false,
@@ -12196,6 +12611,28 @@
       "name": "The First Five Community Display",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Community10YearRoyalPratDisplay"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display featuring the priest, Lyon. Art by EnergyFalcon (Salt).",
+      "name": "Lyon Allard Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/CommunityLyonDisplay"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display featuring the nun, Marie. Art by EnergyFalcon (Salt).",
+      "name": "Marie Leroux Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/CommunityMarieDisplay"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display featuring the Heretic of Xata, and the demon, Uriel. Art by EnergyFalcon (Salt).",
+      "name": "Roathe and Uriel Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/CommunityRoatheDisplay"
     },
     {
       "codexSecret": false,
@@ -15293,6 +15730,13 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTitania"
     },
     {
+      "codexSecret": false,
+      "description": "The Heretic of Xata",
+      "name": "Uriel Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardUriel"
+    },
+    {
       "codexSecret": true,
       "description": "A regal legacy born from torment.",
       "name": "Valkyr Heirloom Prex",
@@ -15866,6 +16310,13 @@
       "name": "Noggle Statue - Valkyr Prime",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/ValkyrPrimeBobbleHead"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ornate display showcasing the Prime Vanguard by Kevin Glint.",
+      "name": "Prime Vanguard Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/VanguardCommunityPortrait"
     },
     {
       "codexSecret": false,
@@ -17230,6 +17681,15 @@
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Music from The Teacher to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "The Teacher",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/TheTeacherSongItem"
     },
     {
       "codexSecret": false,
@@ -18678,6 +19138,30 @@
     },
     {
       "codexSecret": false,
+      "description": "Chassis component of the Gyre Prime Warframe.",
+      "name": "Gyre Prime Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Gyre Prime Warframe.",
+      "name": "Gyre Prime Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Gyre Prime Warframe.",
+      "name": "Gyre Prime Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsComponent"
+    },
+    {
+      "codexSecret": false,
       "description": "Systems component of the Gyre Warframe.",
       "name": "Gyre Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -20026,6 +20510,27 @@
     },
     {
       "codexSecret": false,
+      "description": "Chassis component of the Uriel Warframe.",
+      "name": "Uriel Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Uriel Warframe.",
+      "name": "Uriel Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Uriel Warframe.",
+      "name": "Uriel Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielSystemsComponent"
+    },
+    {
+      "codexSecret": false,
       "description": "Chassis component of the Volt Warframe.",
       "name": "Volt Chassis",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -20563,6 +21068,30 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 45,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkvastoPrimeLink"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Alternox Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Alternox Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Alternox Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeStock"
     },
     {
       "codexSecret": false,
@@ -21454,6 +21983,20 @@
     {
       "codexSecret": false,
       "description": "A prime weapon-crafting component.",
+      "name": "Galariak Prime Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GalariakPrimeBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Galariak Prime Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GalariakPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
       "name": "Glaive Prime Blade",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 45,
@@ -21787,6 +22330,22 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 45,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KarystPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Kestrel Prime Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KestrelPrimeBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Kestrel Prime Grip",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KestrelPrimeGrip"
     },
     {
       "codexSecret": false,
@@ -22937,6 +23496,27 @@
     {
       "codexSecret": false,
       "description": "A prime weapon-crafting component.",
+      "name": "Sagek Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Sagek Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Sagek Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeStock"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
       "name": "Scourge Prime Barrel",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 100,
@@ -23684,6 +24264,34 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 15,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Vinquibus Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Vinquibus Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Vinquibus Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Vinquibus Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VinquibusStock"
     },
     {
       "codexSecret": false,

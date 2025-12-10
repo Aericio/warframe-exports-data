@@ -3131,6 +3131,90 @@
       "systemIndex": 23,
       "systemName": "Höllvania",
       "uniqueName": "SolNode858"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 70,
+      "minEnemyLevel": 65,
+      "missionIndex": 44,
+      "name": "Recall: Hunhullus",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode250"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 70,
+      "minEnemyLevel": 65,
+      "missionIndex": 44,
+      "name": "Recall: Dactolyst",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode251"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 70,
+      "minEnemyLevel": 65,
+      "missionIndex": 44,
+      "name": "Recall: Vanguard",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode252"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 65,
+      "minEnemyLevel": 65,
+      "missionIndex": 43,
+      "name": "Descend",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode253"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 72,
+      "minEnemyLevel": 72,
+      "missionIndex": 43,
+      "name": "Descend from Marie's Sanctuary",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode254"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 79,
+      "minEnemyLevel": 79,
+      "missionIndex": 43,
+      "name": "Descend from Lyon's Sanctuary",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode255"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 86,
+      "minEnemyLevel": 86,
+      "missionIndex": 43,
+      "name": "Roathe's Oblivion",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode256"
     }
   ]
 }
