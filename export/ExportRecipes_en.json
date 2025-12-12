@@ -35376,7 +35376,7 @@
           "ProductCategory": "MiscItems"
         },
         {
-          "ItemCount": 160,
+          "ItemCount": 65,
           "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
           "ProductCategory": "MiscItems"
         }
@@ -35424,12 +35424,12 @@
       "excludeFromCodex": true,
       "ingredients": [
         {
-          "ItemCount": 850,
+          "ItemCount": 650,
           "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
           "ProductCategory": "MiscItems"
         },
         {
-          "ItemCount": 460,
+          "ItemCount": 160,
           "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
           "ProductCategory": "MiscItems"
         },
