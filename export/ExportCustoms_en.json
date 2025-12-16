@@ -1201,14 +1201,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Dendra Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CorpusFencer/CrpFncAArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Dendra Leg Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CorpusFencer/CrpFncLArmor"
@@ -1229,21 +1229,21 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Porta Shoulder Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/CrpCircA"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "excludeFromCodex": true,
       "name": "Porta Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/CrpCircC"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Porta Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpCircleArmour/CrpCircL"
@@ -1563,38 +1563,38 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "name": "Kuva Shoulder Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourA"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Kuva Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourC"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "name": "Kuva Leg Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourL"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Harkonar Spaulders",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Harkonar Chest Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Harkonar Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesLegArmor"
@@ -1808,27 +1808,27 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Iliac Shoulder Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/InfestedFins/InfestedFinsArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Iliac Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/InfestedFins/InfestedFinsChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Iliac Ankle Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/InfestedFins/InfestedFinsLegArmor"
     },
     {
       "codexSecret": false,
-      "description": "A benign Infestation existing symbiotically with its Warframe host.",
+      "description": "A benign Infestation existing symbiotically with its host.",
       "excludeFromCodex": true,
       "name": "Protosomid Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/InfestedShoulderArmor/InfestedShoulderArmorA"
@@ -2361,19 +2361,19 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "name": "Targis Prime Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative chest armor for your Warframe.",
+      "description": "Decorative chest armor for a stylish Tenno.",
       "name": "Targis Prime Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "name": "Targis Prime Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegArmor"
     },
@@ -2721,19 +2721,19 @@
     },
     {
       "codexSecret": true,
-      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Tenno.",
       "name": "Naktavyre Shoulder Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorA"
     },
     {
       "codexSecret": true,
-      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Tenno.",
       "name": "Naktavyre Chest Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorC"
     },
     {
       "codexSecret": true,
-      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Warframe.",
+      "description": "Once the latest in Sentient defensive technology, now an embellishment for any Tenno.",
       "name": "Naktavyre Leg Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorL"
     },
@@ -2760,127 +2760,127 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Daedalus Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SetThreeArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Daedalus Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Daedalus Spurs",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SetThreeLegArmor"
     },
     {
       "codexSecret": false,
-      "description": "Festive shoulder plates for your Warframe.",
+      "description": "Festive Daedalus shoulder plates.",
       "name": "Solstice Daedalus Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A festive breastplate for your Warframe.",
+      "description": "A festive rendition of the Daedalus breastplate.",
       "name": "Solstice Daedalus Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Festive leg plates for your Warframe.",
+      "description": "Festive Daedalus leg plates.",
       "name": "Solstice Daedalus Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeLegArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Left Prisma Daedalus Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmLeftArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Right Prisma Daedalus Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmRightArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Prisma Daedalus Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Left Prisma Daedalus Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegLeftArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Right Prisma Daedalus Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegRightArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Edo Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Edo Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Edo Shin Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoLegArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Left Prisma Edo Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmLeftArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Right Prisma Edo Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmRightArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "excludeFromCodex": true,
       "name": "Prisma Edo Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Left Prisma Edo Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegLeftArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg plates for your Warframe.",
+      "description": "Decorative leg armor plates.",
       "excludeFromCodex": true,
       "name": "Right Prisma Edo Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegRightArmor"
@@ -2966,21 +2966,21 @@
     },
     {
       "codexSecret": false,
-      "description": "Guide your Warframe with this complete Lodestar armor set.",
+      "description": "Guide your style with this complete Lodestar armor set.",
       "excludeFromCodex": true,
       "name": "Lodestar Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/Sundial/SundialA"
     },
     {
       "codexSecret": false,
-      "description": "Guide your Warframe with this complete Lodestar armor set.",
+      "description": "Guide your style with this complete Lodestar armor set.",
       "excludeFromCodex": true,
       "name": "Lodestar Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/Sundial/SundialC"
     },
     {
       "codexSecret": false,
-      "description": "Guide your Warframe with this complete Lodestar armor set.",
+      "description": "Guide your style with this complete Lodestar armor set.",
       "excludeFromCodex": true,
       "name": "Lodestar Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/Sundial/SundialL"
@@ -3301,19 +3301,19 @@
     },
     {
       "codexSecret": false,
-      "description": "Harden any Warframe, with this ultra sleek composite ceramic armor.",
+      "description": "Harden any look with this ultra sleek composite ceramic armor.",
       "name": "Ceramica Shoulder Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnCeramicArmor/TnCeramicArmorA"
     },
     {
       "codexSecret": false,
-      "description": "Harden any Warframe, with this ultra sleek composite ceramic armor.",
+      "description": "Harden any look with this ultra sleek composite ceramic armor.",
       "name": "Ceramica Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnCeramicArmor/TnCeramicArmorC"
     },
     {
       "codexSecret": false,
-      "description": "Harden any Warframe, with this ultra sleek composite ceramic armor.",
+      "description": "Harden any look with this ultra sleek composite ceramic armor.",
       "name": "Ceramica Leg Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnCeramicArmor/TnCeramicArmorL"
     },
@@ -3337,21 +3337,21 @@
     },
     {
       "codexSecret": false,
-      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Warframe.",
+      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Tenno.",
       "excludeFromCodex": true,
       "name": "Syrinx Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnHvArmour/TnHvArmourA"
     },
     {
       "codexSecret": false,
-      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Warframe.",
+      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Tenno.",
       "excludeFromCodex": true,
       "name": "Syrinx Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnHvArmour/TnHvArmourC"
     },
     {
       "codexSecret": false,
-      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Warframe.",
+      "description": "Styled to match the Baza submachine gun and the Cassowar polearm, this armor gives a regal look to any Tenno.",
       "excludeFromCodex": true,
       "name": "Syrinx Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnHvArmour/TnHvArmourL"
@@ -3415,37 +3415,37 @@
     },
     {
       "codexSecret": false,
-      "description": "Augment your Warframe with this subtle and sturdy armor set.",
+      "description": "Augment your look with this subtle and sturdy armor set.",
       "name": "Oscira Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnNewPlayerArmor/TnNewPlayerAArmor"
     },
     {
       "codexSecret": false,
-      "description": "Augment your Warframe with this subtle and sturdy armor set.",
+      "description": "Augment your look with this subtle and sturdy armor set.",
       "name": "Oscira Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnNewPlayerArmor/TnNewPlayerCArmor"
     },
     {
       "codexSecret": false,
-      "description": "Augment your Warframe with this subtle and sturdy armor set.",
+      "description": "Augment your look with this subtle and sturdy armor set.",
       "name": "Oscira Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnNewPlayerArmor/TnNewPlayerLArmor"
     },
     {
       "codexSecret": false,
-      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Tenno.",
       "name": "Arachna Arm Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorA"
     },
     {
       "codexSecret": false,
-      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Tenno.",
       "name": "Arachna Chest Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorC"
     },
     {
       "codexSecret": false,
-      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Warframe.",
+      "description": "The chitinous spines of Oraxia’s armor lend a menacing aura to any Tenno.",
       "name": "Arachna Leg Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnOraxiaArmor/TnOraxiaArmorL"
     },
@@ -3533,34 +3533,34 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "A decorative shoulder plate.",
       "excludeFromCodex": true,
       "name": "Left Eos Prime Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosALArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "A decorative shoulder plate.",
       "excludeFromCodex": true,
       "name": "Right Eos Prime Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosARArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative chest armor for your Warframe.",
+      "description": "Decorative chest armor.",
       "name": "Eos Prime Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor.",
       "excludeFromCodex": true,
       "name": "Left Eos Prime Spurs",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosLLArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative leg armor for your Warframe.",
+      "description": "Decorative leg armor.",
       "excludeFromCodex": true,
       "name": "Right Eos Prime Spurs",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/VTEos/VTEosLRArmor"
@@ -3931,20 +3931,20 @@
     },
     {
       "codexSecret": false,
-      "description": "Decorative shoulder plates for your Warframe.",
+      "description": "Decorative shoulder plates.",
       "excludeFromCodex": true,
       "name": "Eos Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetOneArmArmor"
     },
     {
       "codexSecret": false,
-      "description": "A decorative breastplate for your Warframe.",
+      "description": "A decorative breastplate.",
       "name": "Eos Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetOneChestArmor"
     },
     {
       "codexSecret": false,
-      "description": "Decorative spurs for your Warframe.",
+      "description": "Decorative leg armor spurs.",
       "excludeFromCodex": true,
       "name": "Eos Spurs",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetOneLegArmor"
@@ -6992,7 +6992,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A grisly blood effect emanates from your Warframe.",
+      "description": "Emanate a grisly blood effect.",
       "name": "Bleeding Body Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/AvatarBloodA"
     },
@@ -7181,7 +7181,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Your Warframe leaves a trail of fireflies and forest leaves in its wake.",
+      "description": "Leave a trail of fireflies and forest leaves in your wake.",
       "name": "Fae Path Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/FootstepsMaple"
     },
@@ -7211,7 +7211,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Infested spores emanate from your Warframe.",
+      "description": "Emanate Infested spores.",
       "name": "Spore Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedEphemeraA"
     },
@@ -7302,7 +7302,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Your Warframe leaves a trail of fragrant petals in its wake.",
+      "description": "Leave a trail of fragrant petals in your wake.",
       "excludeFromCodex": true,
       "name": "Lotus Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers"
@@ -7358,7 +7358,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The perfect flourish for a graceful frame.",
+      "description": "The perfect flourish for a graceful Tenno.",
       "name": "Maru Obi Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/NovaDeluxeAoandonEphemera"
     },
@@ -14053,7 +14053,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Adorn the Operator with these horns, an ancient symbol of power, both sacred and profane.",
+      "description": "An ancient symbol of power, both sacred and profane.",
       "name": "Revenant Mephisto Diadem",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/RevenantDeluxeCrown"
     },
@@ -14457,73 +14457,73 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
+      "description": "Armor inspired by those Solaris who must work in searing heat.",
       "name": "Smelter Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
+      "description": "Armor inspired by those Solaris who must work in searing heat.",
       "name": "Smelter Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
+      "description": "Armor inspired by those Solaris who must work in searing heat.",
       "name": "Smelter Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
+      "description": "Armor inspired by those Solaris who must work in searing heat.",
       "name": "Smelter Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/GreaseWitch/GreaseArmourLegs"
     },
     {
       "codexSecret": false,
-      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
+      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
       "name": "Zauba Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
+      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
       "name": "Zauba Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
+      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
       "name": "Zauba Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
+      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
       "name": "Zauba Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourLegs"
     },
     {
       "codexSecret": false,
-      "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
+      "description": "An armor design honoring the monastic legacy of the Quills.",
       "name": "Ceno Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
+      "description": "An armor design honoring the monastic legacy of the Quills.",
       "name": "Ceno Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
+      "description": "An armor design honoring the monastic legacy of the Quills.",
       "name": "Ceno Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
+      "description": "An armor design honoring the monastic legacy of the Quills.",
       "name": "Ceno Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourLegs"
     },
@@ -14553,73 +14553,73 @@
     },
     {
       "codexSecret": false,
-      "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
+      "description": "Crafted with surety of purpose, and clarity of vision.",
       "name": "Vahd Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
+      "description": "Crafted with surety of purpose, and clarity of vision.",
       "name": "Vahd Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
+      "description": "Crafted with surety of purpose, and clarity of vision.",
       "name": "Vahd Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
+      "description": "Crafted with surety of purpose, and clarity of vision.",
       "name": "Vahd Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourLegs"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "description": "Armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
       "name": "Outrider Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Smelter/SmelterArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "description": "Armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
       "name": "Outrider Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Smelter/SmelterArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "description": "Armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
       "name": "Outrider Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Smelter/SmelterArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "Operator armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
+      "description": "Armor modeled on enviro-gear worn by the surveyors and scouts of the Orb Vallis. Protected by an all-weather cloak they catalogue the wildlife, seek out resources and chart safe routes for patrols and miners.",
       "name": "Outrider Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Smelter/SmelterArmourLegs"
     },
     {
       "codexSecret": false,
-      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Operator armor designed for flexibility and tight squeezes.",
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. This lightweight and practical armor is designed for flexibility and tight squeezes.",
       "name": "Vent Rat Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Technomancer/TechnomancerArmourArms"
     },
     {
       "codexSecret": false,
-      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Operator armor designed for flexibility and tight squeezes.",
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. This lightweight and practical armor is designed for flexibility and tight squeezes.",
       "name": "Vent Rat Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Technomancer/TechnomancerArmourBody"
     },
     {
       "codexSecret": false,
-      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Operator armor designed for flexibility and tight squeezes.",
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. This lightweight and practical armor is designed for flexibility and tight squeezes.",
       "name": "Vent Rat Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Technomancer/TechnomancerArmourHead"
     },
     {
       "codexSecret": false,
-      "description": "Living in Fortuna a lot of repairs need to happen in the vents. Lightweight and practical Operator armor designed for flexibility and tight squeezes.",
+      "description": "Living in Fortuna a lot of repairs need to happen in the vents. This lightweight and practical armor is designed for flexibility and tight squeezes.",
       "name": "Vent Rat Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Technomancer/TechnomancerArmourLegs"
     },
@@ -14717,7 +14717,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Shirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic"
     },
@@ -14885,13 +14885,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
+      "description": "Embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
       "name": "Stormfall Jacket",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
-      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
+      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own.",
       "name": "Chymerist Uniform",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorLasrianB"
     },
@@ -14952,7 +14952,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Shirt",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic"
     },
@@ -15015,7 +15015,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "description": "Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
       "name": "Vent Pobber Ventkid Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitN"
     },
@@ -15033,13 +15033,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
+      "description": "Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
       "name": "Kubrodon Ventkid Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitO"
     },
     {
       "codexSecret": false,
-      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "description": "A suit embodying the ultimate in Orokin style and luxury.",
       "name": "Grand Carnus Cuirass",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDemonframe"
     },
@@ -16469,13 +16469,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
+      "description": "Embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
       "name": "Stormfall Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
-      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
+      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own.",
       "name": "Chymerist Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorLasrianB"
     },
@@ -16617,7 +16617,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "description": "Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
       "name": "Vent Pobber Ventkid Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodN"
     },
@@ -16635,13 +16635,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
+      "description": "Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
       "name": "Kubrodon Ventkid Mask",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodO"
     },
     {
       "codexSecret": false,
-      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "description": "A suit embodying the ultimate in Orokin style and luxury.",
       "name": "Grand Carnus Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDemonframe"
     },
@@ -16771,7 +16771,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic"
     },
@@ -16939,13 +16939,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
+      "description": "Embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
       "name": "Stormfall Pants & Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
-      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
+      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own.",
       "name": "Chymerist Boots",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorLasrianB"
     },
@@ -17006,7 +17006,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Leggings",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic"
     },
@@ -17069,7 +17069,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "description": "Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
       "name": "Vent Pobber Ventkid Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsN"
     },
@@ -17087,13 +17087,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
+      "description": "Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
       "name": "Kubrodon Ventkid Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsO"
     },
     {
       "codexSecret": false,
-      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "description": "A suit embodying the ultimate in Orokin style and luxury.",
       "name": "Grand Carnus Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDemonframe"
     },
@@ -17313,7 +17313,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Disc Player and Towel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic"
     },
@@ -17379,7 +17379,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
+      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own.",
       "name": "Chymerist Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultLasrianB"
     },
@@ -17422,7 +17422,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Disc Player and Towel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic"
     },
@@ -17452,19 +17452,19 @@
     },
     {
       "codexSecret": false,
-      "description": "An armor design honoring the monastic legacy of the Quills. Fitted for the Operator.",
+      "description": "An armor design honoring the monastic legacy of the Quills.",
       "name": "Ceno Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtE"
     },
     {
       "codexSecret": false,
-      "description": "Crafted with surety of purpose, and clarity of vision. Fitted for the Operator.",
+      "description": "Crafted with surety of purpose, and clarity of vision.",
       "name": "Vahd Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtF"
     },
     {
       "codexSecret": false,
-      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator.",
+      "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind.",
       "name": "Zauba Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtG"
     },
@@ -17482,7 +17482,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator armor inspired by those Solaris who must work in searing heat. ",
+      "description": "Armor inspired by those Solaris who must work in searing heat.",
       "name": "Smelter Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtK"
     },
@@ -17494,19 +17494,19 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "description": "Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
       "name": "Vent Pobber Ventkid Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtN"
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
+      "description": "Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
       "name": "Kubrodon Ventkid Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtO"
     },
     {
       "codexSecret": false,
-      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "description": "A suit embodying the ultimate in Orokin style and luxury.",
       "name": "Grand Carnus Regalia",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtOperatorDemonframe"
     },
@@ -17543,7 +17543,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic"
     },
@@ -17711,13 +17711,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Have the Drifter embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
+      "description": "Embody Scaldra's intimidating military style in the uniform of their elusive elite commanders.",
       "name": "Stormfall Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorLasrianA"
     },
     {
       "codexSecret": false,
-      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own. Now it can be the Drifter's too.",
+      "description": "The mysterious technicians who staff Scaldra's secret Efervon distilleries have a style all their own.",
       "name": "Chymerist Gloves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorLasrianB"
     },
@@ -17778,7 +17778,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories.",
+      "description": "Get your game on with this exclusive line of sportswear-inspired garments and accessories.",
       "name": "Athletic Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic"
     },
@@ -17841,7 +17841,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+      "description": "Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
       "name": "Vent Pobber Ventkid Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesN"
     },
@@ -17859,13 +17859,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
+      "description": "Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids.",
       "name": "Kubrodon Ventkid Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesO"
     },
     {
       "codexSecret": false,
-      "description": "A suit for the Operator embodying the ultimate in Orokin style and luxury.",
+      "description": "A suit embodying the ultimate in Orokin style and luxury.",
       "name": "Grand Carnus Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDemonframe"
     },
@@ -19168,19 +19168,19 @@
     },
     {
       "codexSecret": false,
-      "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
+      "description": "Strike fear into the hearts of your enemies by cladding yourself in this ancient battle attire.",
       "name": "Vetala Day of the Dead Shoulder Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/Halloween2023DOTDVetalaRevenantArmorA"
     },
     {
       "codexSecret": false,
-      "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
+      "description": "Strike fear into the hearts of your enemies by cladding yourself in this ancient battle attire.",
       "name": "Vetala Day of the Dead Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/Halloween2023DOTDVetalaRevenantArmorC"
     },
     {
       "codexSecret": false,
-      "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
+      "description": "Strike fear into the hearts of your enemies by cladding yourself in this ancient battle attire.",
       "name": "Vetala Day of the Dead Ankle Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/Halloween2023DOTDVetalaRevenantArmorL"
     },
@@ -22238,7 +22238,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Envelope a Warframe in this silky nature inspired Syandana.",
+      "description": "Envelop yourself in this silky nature-inspired syandana.",
       "name": "Bombyx Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TennoAngleCapeScarf"
     },
@@ -22274,13 +22274,13 @@
     },
     {
       "codexSecret": false,
-      "description": "Envelope a Warframe in this silky nature inspired Syandana.",
+      "description": "Envelop yourself in this silky nature-inspired syandana.",
       "name": "Foxglove Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TennoFeathersCapeScarf"
     },
     {
       "codexSecret": false,
-      "description": "Envelope a Warframe in this silky nature inspired Syandana.",
+      "description": "Envelop yourself in this silky nature-inspired syandana.",
       "name": "Samia Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TennoLeafDotCapeScarf"
     },
@@ -22322,7 +22322,7 @@
     },
     {
       "codexSecret": false,
-      "description": "This techno-organic syandana fits over the shoulder, giving your Warframe a unique, spiked silhouette.",
+      "description": "This techno-organic syandana fits over the shoulder, producing a unique, spiked silhouette.",
       "name": "Artifex Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnBrokenFrameSyandana"
     },

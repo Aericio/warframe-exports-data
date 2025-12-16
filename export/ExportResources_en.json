@@ -6455,7 +6455,7 @@
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "excludeFromCodex": true,
-      "name": "Trauma Manifestation Arena",
+      "name": "Perita Manifestation Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
       "uniqueName": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceObjLiminalBossArena"
     },
