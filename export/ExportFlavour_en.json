@@ -9318,9 +9318,27 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Lyon Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysLyonGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "An adorable glyph by TadaCharly.",
       "name": "Star Days Qorvex Heart Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysQorvexHeart"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Roathe Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysRoatheGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Marie Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysStarDaysMarieGlyph"
     },
     {
       "codexSecret": true,
@@ -9344,8 +9362,14 @@
     {
       "codexSecret": true,
       "description": "A glyph for VIP Tenno.",
-      "name": "Tenno VIP East Glyph",
+      "name": "TennoVIP East Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for VIP Tenno.",
+      "name": "TennoVIP Glyph III",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP2026Glyph"
     },
     {
       "codexSecret": true,

@@ -12485,6 +12485,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A small wobbly statue of Caliban Prime.",
+      "name": "Noggle Statue - Caliban Prime",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/CalibanPrimeBobbleHead"
+    },
+    {
+      "codexSecret": false,
       "description": "A small wobbly statue of Anna Ki.",
       "name": "Noggle Statue - Anna Ki",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -13818,6 +13825,13 @@
       "name": "Transmutation Probe Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LavosDeviceDeco"
+    },
+    {
+      "codexSecret": false,
+      "description": "A small wobbly statue of Lavos Prime.",
+      "name": "Noggle Statue - Lavos Prime",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LavosPrimeBobbleHead"
     },
     {
       "codexSecret": false,
@@ -16509,6 +16523,13 @@
       "name": "Noggle Statue - Yareli And Merulina",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliMerulinaBobbleHead"
+    },
+    {
+      "codexSecret": false,
+      "description": "A small wobbly statue of Yareli Prime.",
+      "name": "Noggle Statue - Yareli Prime",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliPrimeBobbleHead"
     },
     {
       "codexSecret": false,

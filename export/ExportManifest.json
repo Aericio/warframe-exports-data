@@ -22149,6 +22149,10 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/CalibanBobbleHead"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadCalibanPrime.png!00_b2-rRnLaGlUgiukemv7HjA",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/CalibanPrimeBobbleHead"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksAnnaKiBobbleHead.png!00_rhBrWMVBbixsaYaYpf+Pzw",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead"
     },
@@ -23427,6 +23431,10 @@
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/LavosDeviceDeco.png!00_FYaCeSn5Kl-njxWgiPoYTA",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LavosDeviceDeco"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadLavosPrime.png!00_SsnxIcosJMapE0UfvwsS1w",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LavosPrimeBobbleHead"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/LavosPrimeDeviceDeco.png!00_Bf+-1m1-e9Myc3r73+hJYQ",
@@ -26539,6 +26547,10 @@
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadYareliMerulina.png!00_9REnSsFidLoyN5oHNi83lg",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliMerulinaBobbleHead"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadYareliPrime.png!00_oGPZRxnz3twYFEC9gOG51g",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliPrimeBobbleHead"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/YareliQuestComic.png!00_gGj3sEJGbNgX20aJpSubrQ",
@@ -40281,8 +40293,20 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/Player/StarDaysLyonGlyph.png!00_GG03wuBivHEbwlHrPyQigw",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysLyonGlyph"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/Player/StarDaysQorvexHeartGlyph.png!00_vB4S9DbvrKV3rf1zRpGjPQ",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysQorvexHeart"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/Player/StarDaysRoatheGlyph.png!00_haRfZOlP1kXeccDfvPjBtw",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysRoatheGlyph"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/Player/StarDaysMarieGlyph.png!00_4x1GAUz5sdR3ncLzX7dJjQ",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysStarDaysMarieGlyph"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/Player/StarfinderSocietyGlyph.png!00_ssP+rAvbs2fKuYGvDFz+Zg",
@@ -40299,6 +40323,10 @@
     {
       "textureLocation": "/Lotus/Interface/Icons/Player/TennoVIP2024.png!00_eBFBC2sRPUxwhzyXIGYIsA",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP"
+    },
+    {
+      "textureLocation": "/Lotus/Interface/Icons/Player/TennoVIP2026.png!00_usJPPPUm5kZBfsvF5KJ+xg",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP2026Glyph"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/Player/TennoVIP2025.png!00_01v6KDCwc1g0h7c9Un9fUQ",
