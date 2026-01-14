@@ -10193,6 +10193,27 @@
     },
     {
       "codexSecret": false,
+      "description": "A display created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Circle Frame Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026CirclePictureFrame"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Heart Frame Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026HeartPictureFrame"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display created for Star Days by Community Artist DarikaArt.",
+      "name": "Star Days Square Frame Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/StarDays2026SquarePictureFrame"
+    },
+    {
+      "codexSecret": false,
       "description": "These eerie lights are suspended above the ground by no perceptible means.",
       "name": "Naberus Floating Candles",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
