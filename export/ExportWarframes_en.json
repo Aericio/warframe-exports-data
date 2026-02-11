@@ -757,22 +757,22 @@
         {
           "abilityName": "Tesla Nervos",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ZapTrapAbility",
-          "description": "Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing electricity to anything in the immediate area."
+          "description": "Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing <DT_ELECTRICITY_COLOR> Electricity Damage to anything in the immediate area."
         },
         {
           "abilityName": "Minelayer",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TrapperMultinadeAbility",
-          "description": "Cycle through four deployable mines. Tether Coil immobilizes and groups enemies together. Flechette Orb fires out deadly nails in all directions. Vector Pad accelerates enemies and allies in the pad's direction. Overdriver latches onto the nearest ally and boosts their weapon damage."
+          "description": "Control the battlefield with masterful mines. Vauban's Tether-Flechette orb immobilizes and draws in enemies while launching deadly nails in all directions.\r\n\r\nHOLD to launch a Vector-Overdrive pad that accelerates foes and allies alike in the pad's direction, increasing ally Movement Speed and Weapon Damage."
         },
         {
           "abilityName": "Photon Strike",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TrapperStrikeAbility",
-          "description": "Drop a targeting beacon that calls in a devastating laser artillery strike."
+          "description": "Drop a targeting beacon that calls in a devastating laser artillery strike. Deals doubled damage to enemies with Overguard."
         },
         {
           "abilityName": "Bastille",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/LevTrapAbility",
-          "description": "Erect a containment field to capture enemies and suspended them in stasis, stripping their armor. Hold to collapse all Bastilles into a single damaging vortex."
+          "description": "Erect a containment field to capture enemies and suspended them in stasis, stripping their armor. \r\n\r\nHOLD to collapse all Bastilles into a single damaging vortex."
         }
       ],
       "armor": 210,
@@ -782,7 +782,7 @@
       "masteryReq": 0,
       "name": "Vauban Prime",
       "parentName": "/Lotus/Powersuits/Trapper/TrapperBaseSuit",
-      "passiveDescription": "Deal |DAMAGE|% Extra Damage to incapacitated enemies.",
+      "passiveDescription": "Deal x|DAMAGE| Damage to incapacitated enemies.",
       "power": 175,
       "productCategory": "Suits",
       "shield": 270,
@@ -795,22 +795,22 @@
         {
           "abilityName": "Tesla Nervos",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ZapTrapAbility",
-          "description": "Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing electricity to anything in the immediate area."
+          "description": "Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing <DT_ELECTRICITY_COLOR> Electricity Damage to anything in the immediate area."
         },
         {
           "abilityName": "Minelayer",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TrapperMultinadeAbility",
-          "description": "Cycle through four deployable mines. Tether Coil immobilizes and groups enemies together. Flechette Orb fires out deadly nails in all directions. Vector Pad accelerates enemies and allies in the pad's direction. Overdriver latches onto the nearest ally and boosts their weapon damage."
+          "description": "Control the battlefield with masterful mines. Vauban's Tether-Flechette orb immobilizes and draws in enemies while launching deadly nails in all directions.\r\n\r\nHOLD to launch a Vector-Overdrive pad that accelerates foes and allies alike in the pad's direction, increasing ally Movement Speed and Weapon Damage."
         },
         {
           "abilityName": "Photon Strike",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TrapperStrikeAbility",
-          "description": "Drop a targeting beacon that calls in a devastating laser artillery strike."
+          "description": "Drop a targeting beacon that calls in a devastating laser artillery strike. Deals doubled damage to enemies with Overguard."
         },
         {
           "abilityName": "Bastille",
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/LevTrapAbility",
-          "description": "Erect a containment field to capture enemies and suspended them in stasis, stripping their armor. Hold to collapse all Bastilles into a single damaging vortex."
+          "description": "Erect a containment field to capture enemies and suspended them in stasis, stripping their armor. \r\n\r\nHOLD to collapse all Bastilles into a single damaging vortex."
         }
       ],
       "armor": 160,
@@ -820,7 +820,7 @@
       "masteryReq": 0,
       "name": "Vauban",
       "parentName": "/Lotus/Powersuits/Trapper/TrapperBaseSuit",
-      "passiveDescription": "Deal |DAMAGE|% Extra Damage to incapacitated enemies.",
+      "passiveDescription": "Deal x|DAMAGE| Damage to incapacitated enemies.",
       "power": 175,
       "productCategory": "Suits",
       "shield": 180,

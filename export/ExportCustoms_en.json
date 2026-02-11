@@ -5342,6 +5342,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Celebrate the Lunar Renewal with this emblem that evokes the horse’s noble willpower.",
+      "name": "Lunar Renewal Horse Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/Horse2026BadgeItem"
+    },
+    {
+      "codexSecret": false,
       "description": "A memento of The Index.",
       "excludeFromCodex": true,
       "name": "The Index Emblem",
@@ -6061,6 +6067,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A gift from the Lotus to commemorate the thirteenth anniversary of the first Tenno waking from Cryo stasis.",
+      "name": "Dex Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/Dex2026LotusHaloCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "Bring elegance to your look with this regal wreath.",
       "name": "Envine Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/DexVinesCrown"
@@ -6094,6 +6106,12 @@
       "description": "This crowning signa of gilded spikes creates beauty out of suffering.",
       "name": "Valkyr Heirloom Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomValkyrCrown"
+    },
+    {
+      "codexSecret": false,
+      "description": "Vauban Heirloom’s signa, fashioned from coils of living energy.",
+      "name": "Vauban Heirloom Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomVaubanCrown"
     },
     {
       "codexSecret": true,
@@ -6155,6 +6173,18 @@
       "description": "Glory in the ghoulish splendor of a pierced skull.",
       "name": "Dagath Ganceann Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dagath Yfari's signature helmet",
+      "name": "Dagath Yfari Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathDeluxeLNYHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dagath Yfari alights with ghostly flames. Her phantom cavalry also assumes a new and macabre aspect, their haunting visitation betiding woe for those who unwisely turn them away.",
+      "name": "Dagath Yfari Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Dagath/DagathDeluxeLNYSkin"
     },
     {
       "codexSecret": false,
@@ -7289,6 +7319,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Bring forth the fiery steeds of Dagath Yfari’s signature ephemera to follow in your footsteps.",
+      "name": "Malaen Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYKaitheDagathEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Step lightly with stones that could mend the very fabric of the heavens.",
       "excludeFromCodex": true,
       "name": "Heaven Stones Ephemera",
@@ -7368,6 +7404,12 @@
       "excludeFromCodex": true,
       "name": "Obsidian Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/ObsidianEphemeraA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Surround yourself with the dancing light of full spectrum flames.",
+      "name": "Opula Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/OpulaEphemera"
     },
     {
       "codexSecret": false,
@@ -10199,6 +10241,18 @@
     },
     {
       "codexSecret": false,
+      "description": "The Tales of Duviri tell of the Gynfas Kaithe visiting homes on a moonless night. To deny it entry is to invite dire misfortune. A fitting steed for Dagath Yfari.",
+      "name": "Gynfas Kaithe",
+      "uniqueName": "/Lotus/Upgrades/Skins/Horse/DagathDeluxeLNYHorseBodySkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The macabre light of the Gynfas Kaithe’s tail has haunted many a moor and battlefield.",
+      "name": "Gynfas Tail",
+      "uniqueName": "/Lotus/Upgrades/Skins/Horse/DagathDeluxeLNYHorseTail"
+    },
+    {
+      "codexSecret": false,
       "description": "Aetigo Kaithes are a native species of Duviri’s southernmost island. Their emerald eyes once reflected the verdant plains they roamed, but when the island was reduced to ash, their eyes faded to nothing.",
       "name": "Aetigo Kaithe",
       "uniqueName": "/Lotus/Upgrades/Skins/Horse/ErsatzBodySkinA"
@@ -11493,6 +11547,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The deceptive delicacy of the warfan belies the danger within; this stark warfan skin is proof of both.",
+      "name": "Akomeogi Warfan Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Koumei/KoumeiWarfanSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts.",
       "name": "Kuva Kubrow Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/GrineerQueenArmor"
@@ -12523,6 +12583,12 @@
       "description": "A weapon decoration in the form of two circling carp.",
       "name": "Lunar Renewal Carp Sugatra",
       "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYCarpSugatra"
+    },
+    {
+      "codexSecret": false,
+      "description": "The entrancing light of this fiery sugatra will lead the unwary astray.",
+      "name": "Tanau Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYFireSugatra"
     },
     {
       "codexSecret": false,
@@ -20871,6 +20937,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The refined Razza Syandana, enriched further by the sheen of this bronzed Elixis skin.",
+      "name": "Ki'teer Razza Elixis Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/BaroCape2RazzaExilisScarf"
+    },
+    {
+      "codexSecret": false,
       "description": "Exude style and poise with this refined accessory.",
       "name": "Ki'Teer Razza Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/BaroCape2Scarf"
@@ -22943,6 +23015,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/DesertTaxonSkin"
     },
     {
+      "codexSecret": false,
+      "description": "Investigate in style with this bronzed Elixis skin for the Helios.",
+      "name": "Helios Elixis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/ExilisHelios"
+    },
+    {
       "codexSecret": true,
       "description": "In this skin, your Sentinel will be indistinguishable from the air sentries that surrounded the ancient tower of Altra, as described by Drusus Leverian.",
       "name": "Altra Sentinel Skin",
@@ -24234,6 +24312,19 @@
     },
     {
       "codexSecret": false,
+      "description": "A sigil that celebrates Vauban's legacy.",
+      "name": "Vauban Heirloom Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "A sigil that celebrates Vauban’s ingenuity.",
+      "excludeFromCodex": true,
+      "name": "Vauban Heirloom Schema Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomVaubanSigilSumo"
+    },
+    {
+      "codexSecret": false,
       "description": "Commemorate the fight to defend the Ostron from the Infested during Operation: Plague Star with this sigil.",
       "excludeFromCodex": true,
       "name": "Hemocyte Sigil",
@@ -24634,6 +24725,12 @@
       "description": "Pay respect to The Lotus with this elegant sigil.",
       "name": "Kumuda Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackLotusSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "Display the faces of leadership with this sigil.",
+      "name": "Broadsword Past/Future Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Switch2Sigil"
     },
     {
       "codexSecret": false,
@@ -25219,18 +25316,22 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLivePromoSigil"
     },
     {
-      "codexSecret": false,
+      "codexSecret": true,
       "description": "A sigil for VIP Tenno",
-      "excludeFromCodex": true,
       "name": "TennoVIP East Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil"
     },
     {
-      "codexSecret": false,
+      "codexSecret": true,
       "description": "A sigil for VIP Tenno.",
-      "excludeFromCodex": true,
       "name": "TennoVIP 2025 Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil"
+    },
+    {
+      "codexSecret": true,
+      "description": "A sigil for VIP Tenno.",
+      "name": "TennoVIP 2026 Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2026Sigil"
     },
     {
       "codexSecret": true,
@@ -25303,6 +25404,12 @@
       "description": "Celebrate the Lunar Renewal with the bravery of the legendary tiger.",
       "name": "Lunar Renewal Tiger Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "Gallop into the coming year with the freedom of the loyal horse.",
+      "name": "Lunar Renewal Horse Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearHorseSigil"
     },
     {
       "codexSecret": false,
@@ -26838,6 +26945,32 @@
     },
     {
       "codexSecret": false,
+      "description": "Vauban Heirloom’s signature overcoat.",
+      "excludeFromCodex": true,
+      "name": "Vauban Heirloom Overcoat",
+      "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomAux"
+    },
+    {
+      "codexSecret": false,
+      "description": "Vauban Heirloom’s signature overcoat without sleeves.",
+      "excludeFromCodex": true,
+      "name": "Vauban Heirloom Sleeveless Overcoat",
+      "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomAuxSleeveless"
+    },
+    {
+      "codexSecret": false,
+      "description": "Vauban Heirloom's signature helmet.",
+      "name": "Vauban Heirloom Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Honor Vauban's legacy of ingenuity in bold style. Heirloom skins signify the passage of time and the dedication of the Tenno.",
+      "name": "Vauban Heirloom Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Vauban Prime Warframe.",
       "name": "Vauban Prime Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanPrimeHelmet"
@@ -27105,6 +27238,12 @@
       "excludeFromCodex": true,
       "name": "Boar Phosphor Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTBoar"
+    },
+    {
+      "codexSecret": false,
+      "description": "Elevate the Boar’s rough and ready functionality with this bronzed Elixis skin.",
+      "name": "Boar Elixis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/VTBoarExilis"
     },
     {
       "codexSecret": false,
@@ -27459,6 +27598,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Give the Xoris a dose of old world class with this bronzed Elixis skin.",
+      "name": "Xoris Elixis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Glaives/XorisExilisSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A next-generation skin for the Paracesis.",
       "name": "Paracesis Obsidian Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/GreatSword/PS4BallasSword"
@@ -27576,6 +27721,12 @@
       "description": "As no Zundi weapons survive from the Old War this formidable pistol skin was created to honor them. Stout, distinctive and intimidating it is a reminder of times past.",
       "name": "Zundi Pistol Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/TnSubmachinegunPistolSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This bronzed Elixis skin for the Zylok is a heavy hitter of style.",
+      "name": "Zylok Elixis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/ZylokExilisSkin"
     },
     {
       "codexSecret": false,

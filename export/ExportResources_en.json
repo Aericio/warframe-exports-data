@@ -9106,7 +9106,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A light-shunning moss that grows on the rocky terrain of asteroids",
+      "description": "A light-shunning moss that grows on the rocky terrain of asteroids.",
       "name": "Vestan Moss Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropMossGroundCoverA"
@@ -9743,6 +9743,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A cuddly kaithe floof, to honor the most steadfast of the zodiac animals.",
+      "name": "Indomitable Kaithe Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYKaithe"
+    },
+    {
+      "codexSecret": false,
       "description": "Enjoy Lunar Renewal with this cute and cuddly Mirage by your side.",
       "excludeFromCodex": true,
       "name": "Mirage Nuwa Floof",
@@ -9769,6 +9776,20 @@
       "name": "Lotus Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus"
+    },
+    {
+      "codexSecret": false,
+      "description": "“I do not understand the purpose behind crafting such an image. No, I will not give it back.” - F. Lyon Allard",
+      "name": "Lyon Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLyon"
+    },
+    {
+      "codexSecret": false,
+      "description": "“Regardez! Mon visage, but surely far more adorable, n’est-ce pas? I simply must squish mes petites joues!” - Marie Leroux",
+      "name": "Marie Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyMarie"
     },
     {
       "codexSecret": false,
@@ -9874,6 +9895,13 @@
       "name": "Quincy Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy"
+    },
+    {
+      "codexSecret": false,
+      "description": "“What’s this? My likeness, rendered in some sort of squishy textile? The indignity.” - Vice Regent Grand Carnus Roathe",
+      "name": "Roathe Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyRoathe"
     },
     {
       "codexSecret": false,
@@ -10463,6 +10491,14 @@
       "name": "Sentient Bone Effigy (Large)",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSTMxSntTrooperEffigyB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Honor the memory of Old Tau and the Somatic Bearers who fought at your side with this interactive Xenoflora decoration.",
+      "excludeFromCodex": true,
+      "name": "Somatic Bearer Memorial",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tau/LisetPropSomaticBearerFlowerPostQuestItem"
     },
     {
       "codexSecret": false,
@@ -15787,6 +15823,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Fight smarter and harder.",
+      "name": "Vauban Heirloom Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardVaubanHeirloom"
+    },
+    {
+      "codexSecret": false,
       "description": "The Heart of the Pack",
       "name": "Voruna Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -16137,12 +16180,18 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoPlanterF"
     },
     {
-      "codexSecret": false,
+      "codexSecret": true,
       "description": "A decoration for VIP Tenno.",
-      "excludeFromCodex": true,
       "name": "TennoVIP 2025 Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoVIP2025Deco"
+    },
+    {
+      "codexSecret": true,
+      "description": "A decoration for VIP Tenno.",
+      "name": "TennoVIP 2026 Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoVIP2026Deco"
     },
     {
       "codexSecret": false,
