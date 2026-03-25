@@ -1886,6 +1886,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A time of mourning.",
+      "excludeFromCodex": true,
+      "name": "Lament",
+      "uniqueName": "/Lotus/Types/Items/Emotes/CryForYouEmote"
+    },
+    {
+      "codexSecret": false,
       "description": "Display balance and finesse with these rhythmic movements.",
       "name": "Tempo Narta",
       "uniqueName": "/Lotus/Types/Items/Emotes/Dance2Emote"
@@ -2072,9 +2079,21 @@
     },
     {
       "codexSecret": false,
+      "description": "Grendel Turbis drops in for a race.",
+      "name": "Rev-Up ft. Grendel",
+      "uniqueName": "/Lotus/Types/Items/Emotes/GaussDeluxeIILetsRaceEmote"
+    },
+    {
+      "codexSecret": false,
       "description": "Taunt your enemies.",
       "name": "Redliner Emote",
       "uniqueName": "/Lotus/Types/Items/Emotes/GaussGonnaGetchaEmote"
+    },
+    {
+      "codexSecret": false,
+      "description": "Gauss Moto drops in to kick it real quick.",
+      "name": "Hyper Juggle ft. Gauss",
+      "uniqueName": "/Lotus/Types/Items/Emotes/GrendelDeluxeIILetsRollEmote"
     },
     {
       "codexSecret": false,
@@ -2166,6 +2185,12 @@
       "description": "Awarded for completing The Steel Path: Neptune.",
       "name": "The Steel Path: Neptune",
       "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeNeptuneEmote"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awarded for completing The Steel Path: Dark Refractory.",
+      "name": "The Steel Path: Dark Refractory",
+      "uniqueName": "/Lotus/Types/Items/Emotes/HardmodePeritaEmote"
     },
     {
       "codexSecret": false,
@@ -2284,7 +2309,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A sprightly dance reminiscent of the kaithe’s ambling prance, suitable for the Lunar Renewal.\r\n\r\nEquip this emote using the Gear Wheel tab in your Arsenal.",
+      "description": "A sprightly dance reminiscent of the kaithe's ambling prance, suitable for the Lunar Renewal.\r\n\r\nEquip this emote using the Gear Wheel tab in your Arsenal.",
       "name": "Lunar Renewal Kaithe Flourish",
       "uniqueName": "/Lotus/Types/Items/Emotes/LNY2026HorseEmote"
     },
@@ -2386,6 +2411,12 @@
       "description": "A pose to focus one's mind.",
       "name": "Meditate",
       "uniqueName": "/Lotus/Types/Items/Emotes/MeditateEmote"
+    },
+    {
+      "codexSecret": false,
+      "description": "A stately dance worthy of polite society.\r\n\r\nEquip this emote using the Gear Wheel tab in your Arsenal.",
+      "name": "Rondelet Emote",
+      "uniqueName": "/Lotus/Types/Items/Emotes/NightwaveDanceEmote"
     },
     {
       "codexSecret": false,
@@ -2491,6 +2522,18 @@
       "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2025Emote"
     },
     {
+      "codexSecret": true,
+      "description": "A dramatic ascent evoking the Hunhullus' entry into battle.",
+      "name": "TennoCon 2026",
+      "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2026Emote"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awarded to Tenno who have shown unyielding dedication.",
+      "name": "Thousand Days",
+      "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote"
+    },
+    {
       "codexSecret": false,
       "description": "Summon the pack.",
       "name": "Wolf Howl",
@@ -2526,6 +2569,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Gain access to Baro's entire inventory in his TennoCon 2026 Relay:\r\nJuly 11, 2026 at 11 a.m. ET to July 18, 2026 at 11 a.m. ET.",
+      "excludeFromCodex": true,
+      "name": "Baro's Relay Ticket",
+      "uniqueName": "/Lotus/Types/Items/Events/TennoConRelay2026EarlyAccess"
+    },
+    {
+      "codexSecret": false,
       "description": "An Honoria for your profile.",
       "name": "Forever Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleArgon"
@@ -2535,6 +2585,13 @@
       "description": "An Honoria for your profile.",
       "name": "Hive-kin Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleAscarisPrime"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "The Heir of Two Kingdoms Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCaliban"
     },
     {
       "codexSecret": false,
@@ -2565,6 +2622,13 @@
       "description": "An Honoria for your profile.",
       "name": "Biggest Spender Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCreditsBiggest"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Oblivion's Kiss Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleCyteZeroNine"
     },
     {
       "codexSecret": false,
@@ -2611,8 +2675,36 @@
     {
       "codexSecret": false,
       "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Conscience Painter Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleFollie"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
       "name": "The Maniac of Deimos Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGanglion"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "The Scarlet Queen Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGaruda"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Saint of Altra Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGauss"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Who Devours All Honoria ",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleGrendel"
     },
     {
       "codexSecret": false,
@@ -2625,6 +2717,13 @@
       "description": "An Honoria for your profile.",
       "name": "Mayor of Corpus City Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHexenon"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Marauder of the Deep Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleHydroid"
     },
     {
       "codexSecret": false,
@@ -2678,6 +2777,13 @@
     {
       "codexSecret": false,
       "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "The Warden of Alchemy Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLavos"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
       "name": "On That Far Shore Forlorn Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleLyoricBridge"
     },
@@ -2726,6 +2832,13 @@
     {
       "codexSecret": false,
       "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Heart of Concrete Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleQorvex"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
       "name": "Voyager Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleRailjack"
     },
@@ -2740,6 +2853,13 @@
       "description": "An Honoria for your profile.",
       "name": "The Scavenger Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSalvage"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Matron of Malaise Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RoatheTitles/TitleSaryn"
     },
     {
       "codexSecret": false,
@@ -2800,8 +2920,22 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Seeker of Truth Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/ArbitersOfHexisTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/ArcaneCollectorTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Thirst for Knowledge Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/CephalonSudaTitle"
     },
     {
       "codexSecret": false,
@@ -2816,6 +2950,13 @@
       "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/CodaKillerTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/CodaMasteryTitle"
     },
     {
       "codexSecret": false,
@@ -2844,6 +2985,13 @@
       "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/CompleteDescendiaWispTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/DanteDescendiaTitle"
     },
     {
       "codexSecret": false,
@@ -2933,6 +3081,27 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntCompleteTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntOneTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/FollieHuntTenTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Disciple Founder Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/FounderLvl1Title"
     },
@@ -3011,6 +3180,13 @@
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
       "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/KuvaMasteryTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/LichKillerTitle"
     },
     {
@@ -3026,6 +3202,83 @@
       "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/LoverTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR10Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR13Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR16Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR19Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR1Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR22Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR25Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR28Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR30Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR4Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/MR7Title"
     },
     {
       "codexSecret": false,
@@ -3122,6 +3375,13 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Defender of the Earth Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/NewLokaTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/OldPeaceTeaserTitle"
     },
@@ -3138,6 +3398,34 @@
       "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/OraxiaPreyTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeSoloTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/PeritaHardModeTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Diplomatic Merchant Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/PerrinSequenceTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Eradicator of Corruption Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/RedVeilTitle"
     },
     {
       "codexSecret": false,
@@ -3164,8 +3452,22 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Shadow Conservator Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/ShadowgrapherEventVendorTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/SisterKillerTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Liberated Grineer Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/SteelMeridianTitle"
     },
     {
       "codexSecret": false,
@@ -3179,7 +3481,35 @@
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
       "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/TenetMasteryTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/TheNewWarTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Tenno of a Thousand Days Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/ThousandDaysLoginRewardTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/TitleGaussPrime"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/TitleGrendelPrime"
     },
     {
       "codexSecret": false,
@@ -3234,6 +3564,13 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/VorHardModeTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Zenurik Vanguard Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/ZenurikFocusHoarderTitle"
     },
@@ -3274,7 +3611,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Raff Seglass’ enchanting Vistagraph offers respite from the wandering mind.",
+      "description": "Raff Seglass' enchanting Vistagraph offers respite from the wandering mind.",
       "excludeFromCodex": true,
       "name": "Only Beyond",
       "uniqueName": "/Lotus/Types/Items/VideoWallBackdrops/ZarimanApartment/VideoWallBackDropI"
@@ -3499,6 +3836,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "4MORI4N Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage4MORI4N"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "A H R Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAHR"
     },
@@ -3591,8 +3934,20 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Amazing Buri Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAmazingBuriGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "AnJetCat Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAnJetCat"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Anavi_Ivy Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAnaviIvy"
     },
     {
       "codexSecret": true,
@@ -3780,6 +4135,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Brighan Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBrighan"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Brozime Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBrozime"
     },
@@ -3863,6 +4224,12 @@
       "excludeFromCodex": true,
       "name": "Casardis Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCasardis"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "CautionaryTail Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCautionaryTail"
     },
     {
       "codexSecret": false,
@@ -4004,6 +4371,12 @@
       "description": "A Glyph for your profile.",
       "name": "Crusader Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCrusader"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Cyanfacade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCyanfacade"
     },
     {
       "codexSecret": true,
@@ -4182,6 +4555,18 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Dyana.Csmythe Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDyanaCsmythe"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Dynoes Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDynoes"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "Edrick Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEdrick"
@@ -4249,6 +4634,12 @@
       "description": "A Glyph for your profile.",
       "name": "Endotti_ Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEndotti"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Endquar Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEndquar"
     },
     {
       "codexSecret": true,
@@ -4349,6 +4740,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Flad Box Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFladBox"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "Floofy Dwagon Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFloofyDwagon"
@@ -4364,6 +4761,12 @@
       "description": "A Glyph for your profile.",
       "name": "Francois878 Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFrancois"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "FreddyCaps Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFreddyCaps"
     },
     {
       "codexSecret": true,
@@ -4496,6 +4899,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Hjemdg Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHjemdgGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "Hoku Props - Official TennoCon Cosplayer Glyph",
       "name": "Hoku Props Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHokuProps"
@@ -4583,6 +4992,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Irisillych Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIrisillych"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "IvorysMoon Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIvorysMoon"
     },
@@ -4642,6 +5057,12 @@
       "description": "A Glyph for your profile.",
       "name": "JustHailey Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageJustHailey"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "JustOldPrime Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageJustOldPrime"
     },
     {
       "codexSecret": true,
@@ -4906,6 +5327,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Luality Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLuality"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "LucianPlaysAllDay Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLucianPlaysAllDay"
@@ -4969,6 +5396,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "MarcoMeatball Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMarcoMeatball"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "Mecore Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMeCore"
@@ -4985,6 +5418,12 @@
       "description": "A Glyph for your profile.",
       "name": "Meme Sage Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMemeSage"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Mischka Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMischka"
     },
     {
       "codexSecret": false,
@@ -5054,6 +5493,12 @@
       "description": "A Glyph for your profile.",
       "name": "MrWarframeGuy Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMrWarframeGuy"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "MuSingTian Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMuSingTian"
     },
     {
       "codexSecret": true,
@@ -5452,6 +5897,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Riesling Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRiesling"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Rippz0r Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRippz0r"
     },
@@ -5602,6 +6053,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Shenpai Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShenpai"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "ShenZhao Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShenzhao"
@@ -5623,6 +6080,12 @@
       "description": "A Glyph for your profile.",
       "name": "Shul Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShulGaming"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Shy_AnaBanana Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShyAnaBanana"
     },
     {
       "codexSecret": true,
@@ -5689,6 +6152,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Smettbonia Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSmettbonia"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "Smoodie Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSmoodie"
     },
@@ -5697,6 +6166,12 @@
       "description": "A Glyph for your profile.",
       "name": "Sn0wRC Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSn0wRC"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "SnootyDeath Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSnootyDeath"
     },
     {
       "codexSecret": true,
@@ -6009,6 +6484,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageUnrealYuki"
     },
     {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "UpsideDownSmore Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageUpsideDownSmore"
+    },
+    {
       "codexSecret": false,
       "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
@@ -6313,6 +6794,12 @@
       "description": "A Glyph for your profile.",
       "name": "xOGxSkeezy Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagexOGxSkeezy"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "zKoichi Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagezKoichi"
     },
     {
       "codexSecret": true,
@@ -7019,6 +7506,30 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph depicting Follie Sfumato on a bright background.",
+      "name": "Follie Sfumato Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFollieAltBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Follie Sfumato on a dark background.",
+      "name": "Follie Sfumato Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFollieAltDark"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Follie on a bright background.",
+      "name": "Follie Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFollieBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Follie on a dark background.",
+      "name": "Follie Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFollieDark"
+    },
+    {
+      "codexSecret": true,
       "description": "A glyph depicting Cyte-09 Espricor on a bright background.",
       "name": "Cyte-09 Espricor Glyph - Bright",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright"
@@ -7046,6 +7557,30 @@
       "description": "A glyph depicting Gauss Kresnik.",
       "name": "Gauss Kresnik Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGaussDeluxe"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Gauss Moto.",
+      "name": "Gauss Moto Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGaussDeluxeII"
+    },
+    {
+      "codexSecret": true,
+      "description": "Your profile, endorsed by Gauss Moto.",
+      "name": "Gauss Speedway Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGaussDeluxeIISupporter"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Grendel Turbis.",
+      "name": "Grendel Turbis Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGrendelDeluxeII"
+    },
+    {
+      "codexSecret": true,
+      "description": "Your profile seems to rumble with the sound of Grendel Turbis' treads… or his stomach.",
+      "name": "Grendel Roll Out Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGrendelDeluxeIISupporter"
     },
     {
       "codexSecret": true,
@@ -7579,6 +8114,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Ash Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAccoladeGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph for your profile.",
       "name": "Ash in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction"
@@ -7682,6 +8223,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Caliban Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCalibanAccoladeGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph for your profile.",
       "name": "Chat Moderator Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageChatModerator"
@@ -7691,6 +8238,12 @@
       "description": "A Glyph for your profile.",
       "name": "Clem in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageClemKawaii"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Baruuk in the style of community artist TBGKaru.",
+      "name": "Community Baruuk Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityBaruuk"
     },
     {
       "codexSecret": true,
@@ -7736,6 +8289,12 @@
     },
     {
       "codexSecret": true,
+      "description": "A community glyph depicting Follie in the style of community artist shiro_kosh_a.",
+      "name": "Community Follie Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityFollie"
+    },
+    {
+      "codexSecret": true,
       "description": "A community glyph depicting Garuda in the style of community artist ibumuc.",
       "name": "Community Garuda Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda"
@@ -7778,9 +8337,21 @@
     },
     {
       "codexSecret": true,
+      "description": "A community glyph depicting Limbo in the style of community artist RoboMythos.",
+      "name": "Community Limbo Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLimbo"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph depicting Little Duck in the style of graffiti, created by DarikaArt.",
       "name": "Community Little Duck Graffiti Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLittleDuckGraffiti"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Mag in the style of community artist RoyalPrat.",
+      "name": "Community Mag Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityMag"
     },
     {
       "codexSecret": true,
@@ -7877,6 +8448,12 @@
       "description": "A community glyph depicting Wisp in the style of community artist Finlaena.",
       "name": "Community Wisp Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityWisp"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph depicting Wukong in the style of community artist AesopYOLIAN.",
+      "name": "Community Wukong Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityWukong"
     },
     {
       "codexSecret": true,
@@ -8095,6 +8672,12 @@
       "description": "A glyph created for Star Days by Community Artist 4MORI4N",
       "name": "Star Days Eleanor Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorValentine"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Ember Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAccoladeGlyph"
     },
     {
       "codexSecret": true,
@@ -9075,6 +9658,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightwaveAoi"
     },
     {
+      "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Nokko Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNokkoAccoladeGlyph"
+    },
+    {
       "codexSecret": false,
       "description": "A glyph for all you Dreamers out there.",
       "name": "Nora Night Frequency Glyph",
@@ -9097,6 +9686,12 @@
       "description": "A Glyph for your profile.",
       "name": "Nyx in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNyxAction"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Oberon Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageOberonAccoladeGlyph"
     },
     {
       "codexSecret": true,
@@ -9217,6 +9812,12 @@
       "description": "This Glyph celebrates Pride. Designed by NimkeArts.",
       "name": "Pride Glyph III",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This Glyph celebrates Pride.",
+      "name": "Pride Lotus Symbol Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideLotusSymbolGlyph"
     },
     {
       "codexSecret": true,
@@ -9825,6 +10426,12 @@
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinterB2016G"
     },
     {
+      "codexSecret": true,
+      "description": "A glyph representing a feat of strength by community artist Vik Hayes.",
+      "name": "Wisp Accolade Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWispAccoladeGlyph"
+    },
+    {
       "codexSecret": false,
       "description": "A Glyph for your profile.",
       "name": "Xaku in Action Glyph",
@@ -10191,6 +10798,12 @@
       "excludeFromCodex": true,
       "name": "Xaku Glyph - Dark",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrokenFrameDark"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Caliban Orfeo in Action Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCalibanDeluxeInAction"
     },
     {
       "codexSecret": true,
@@ -11901,6 +12514,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Protea Caladrius in Action Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageProteaDeluxeInAction"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "excludeFromCodex": true,
       "name": "Railjack In Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRailjackInAction"
@@ -12927,35 +13546,35 @@
       "codexSecret": false,
       "description": "Congratulations on winning Best in Show in the TennoCon 2023 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2023 - Best In Show Award",
+      "name": "TennoCon 2023 - Best In Show Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestInShowAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Master Teasonai Award in the TennoCon 2023 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2023 - Master Teasonai Award",
+      "name": "TennoCon 2023 - Master Teasonai Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestPetAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Solaris Workmanship Award in the TennoCon 2023 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2023 - Solaris Workmanship Award",
+      "name": "TennoCon 2023 - Solaris Workmanship Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestWorkmanshipAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Floofy Cuteness Award in the TennoCon 2023 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2023 - Floofy Cuteness Award",
+      "name": "TennoCon 2023 - Floofy Cuteness Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023CutenessAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Ordis Punny Award in the TennoCon 2023 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2023 - Ordis Punny Award",
+      "name": "TennoCon 2023 - Ordis Punny Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023FunniestAwardGlyph"
     },
     {
@@ -12974,35 +13593,35 @@
       "codexSecret": false,
       "description": "Congratulations on winning the Orokin Gold Award in the TennoCon 2024 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2024 - Orokin Gold Award",
+      "name": "TennoCon 2024 - Orokin Gold Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestInShowAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Master Teasonai Award in the TennoCon 2024 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2024 - Master Teasonai Award",
+      "name": "TennoCon 2024 - Master Teasonai Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestPetAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Solaris Workmanship Award in the TennoCon 2024 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2024 - Solaris Workmanship Award",
+      "name": "TennoCon 2024 - Solaris Workmanship Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestWorkmanshipAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Floofy Cuteness Award in the TennoCon 2024 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2024 - Floofy Cuteness Award",
+      "name": "TennoCon 2024 - Floofy Cuteness Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024CutenessAwardGlyph"
     },
     {
       "codexSecret": false,
       "description": "Congratulations on winning the Ordis Punny Award in the TennoCon 2024 Cosplay Contest!",
       "excludeFromCodex": true,
-      "name": "TennoCon 2024 - Ordis Punny Award",
+      "name": "TennoCon 2024 - Ordis Punny Award Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024FunniestAwardGlyph"
     },
     {
@@ -13021,7 +13640,7 @@
     {
       "codexSecret": true,
       "description": "Awarded to the first place cosplayer at TennoCon 2025.",
-      "name": "TennoCon 2025 - 1st Place",
+      "name": "TennoCon 2025 - 1st Place Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025FirstPlaceAwardGlyph"
     },
     {
@@ -13033,14 +13652,74 @@
     {
       "codexSecret": true,
       "description": "Awarded to the second place cosplayer at TennoCon 2025.",
-      "name": "TennoCon 2025 - 2nd Place",
+      "name": "TennoCon 2025 - 2nd Place Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025SecondPlaceAwardGlyph"
     },
     {
       "codexSecret": true,
       "description": "Awarded to the third place cosplayer at TennoCon 2025.",
-      "name": "TennoCon 2025 - 3rd Place",
+      "name": "TennoCon 2025 - 3rd Place Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025ThirdPlaceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with primo workmanship. ",
+      "name": "TennoCon 2026 - Solaris Worksmanship Award Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026BestWorkmanshipAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with an outstanding on-stage performance.",
+      "name": "TennoCon 2026 - Bombastic Performance Award Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026BombasticAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "[PH] community art showcase desc. ",
+      "name": "[PH] TennoCon 2026 - Community Art Showcase Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026CommunityArtShowcaseGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the first place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 1st Place Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026FirstPlaceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph created to celebrate eleven years of TennoCon.",
+      "name": "TennoCon 2026 Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026Glyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay chosen by judges as a strong overall entry.",
+      "name": "TennoCon 2026 - Lotus' Choice Award Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026LotusChoiceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award is for a person who created an exceptional Cosplay in the non-competitive category.",
+      "name": "TennoCon 2026 - Orokin Gold Award Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026OrokinGoldAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes creative use of materials and interpretation of the Cosplay's subject matter!",
+      "name": "TennoCon 2026 - Ostron Ingenuity Award Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026OstronIngenuityAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the second place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 2nd Place Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026SecondPlaceAwardGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the third place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 3rd Place Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2026ThirdPlaceAwardGlyph"
     },
     {
       "codexSecret": true,
@@ -32657,6 +33336,20 @@
     },
     {
       "codexSecret": true,
+      "description": "This item lets you use Follie's agile animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Follie Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/UnlockInkblotAgile"
+    },
+    {
+      "codexSecret": true,
+      "description": "This item lets you use Follie's noble animation set with any Warframe of your choosing.",
+      "excludeFromCodex": true,
+      "name": "Follie Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Inkblot/UnlockInkblotNoble"
+    },
+    {
+      "codexSecret": true,
       "description": "This item lets you use Hildryn's agile animation set with any Warframe of your choosing.",
       "name": "Hildryn Agile Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/UnlockIronFrameAgile"
@@ -32729,7 +33422,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut’s alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad’s health. Each squad member can call one additional Grineer brother to join the fight.\r\n\r\nAlso available in the Market after completing the Veilbreaker quest.",
+      "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut's alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad's health. Each squad member can call one additional Grineer brother to join the fight.\r\n\r\nAlso available in the Market after completing the Veilbreaker quest.",
       "excludeFromCodex": true,
       "name": "Skaut Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/GrineerShip/LisetGrineerShipDefault"
@@ -33093,6 +33786,18 @@
       "excludeFromCodex": true,
       "name": "Nightwave Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/NoraShipDefault"
+    },
+    {
+      "codexSecret": false,
+      "description": "Lead the charge with this chivalrous sumdali.",
+      "name": "Chivaler Sumdali",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/OrfeoHoodOrnament"
+    },
+    {
+      "codexSecret": true,
+      "description": "Bestowed in commemoration of exceptional battlefield achievement. Purged of any malicious code.",
+      "name": "Mentor Ayatan Sumdali",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/PeritaHoodOrnament"
     },
     {
       "codexSecret": false,

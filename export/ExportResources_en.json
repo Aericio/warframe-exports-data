@@ -152,9 +152,105 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
+      "name": "Lith A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
       "name": "Meso Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjection"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso A11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso Z6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso Z6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso Z6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso Z6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBSilver"
     },
     {
       "codexSecret": false,
@@ -168,9 +264,105 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
+      "name": "Neo G10 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo G10 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo G10 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo G10 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo M6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo M6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo M6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo M6 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBSilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
       "name": "Axi Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjection"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi G15 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi G15 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi G15 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi G15 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultASilver"
     },
     {
       "codexSecret": false,
@@ -179,6 +371,14 @@
       "name": "Requiem Relic",
       "parentName": "/Lotus/Types/Game/VoidProjectionItem",
       "uniqueName": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortal"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Void Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortal",
+      "uniqueName": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalOmni"
     },
     {
       "codexSecret": false,
@@ -748,7 +948,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The Seonn’s ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
+      "description": "The Seonn's ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
       "excludeFromCodex": true,
       "name": "Seonn",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
@@ -1129,7 +1329,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A crucial sub-component in the construction of Albrecht Entrati’s vessels.\r\n\r\nObtained from Disruption missions on Armatus, Deimos.",
+      "description": "A crucial sub-component in the construction of Albrecht Entrati's vessels.\r\n\r\nObtained from Disruption missions on Armatus, Deimos.",
       "name": "Vessel Capillaries",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/VesselCapillaries"
@@ -1143,14 +1343,14 @@
     },
     {
       "codexSecret": false,
-      "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.\r\n\r\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+      "description": "An engine designed for use in a Necramech. Unfortunately, it's damaged.\r\n\r\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
       "name": "Damaged Necramech Engine",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem"
     },
     {
       "codexSecret": false,
-      "description": "A modular component for a Necramech. It’s damaged and in need of repair.\r\n\r\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+      "description": "A modular component for a Necramech. It's damaged and in need of repair.\r\n\r\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
       "name": "Damaged Necramech Pod",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem"
@@ -1286,7 +1486,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A spatial orientation matrix to aid with a mechs’ guidance, balance and movement.\r\n\r\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 1 Isolation Vault Bounties",
+      "description": "A spatial orientation matrix to aid with a mechs' guidance, balance and movement.\r\n\r\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 1 Isolation Vault Bounties",
       "name": "OROKIN ORIENTATION MATRIX",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingCommonItem"
@@ -1300,7 +1500,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A mech matrix that assists with the machine’s weapon accuracy and control.\r\n\r\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties",
+      "description": "A mech matrix that assists with the machine's weapon accuracy and control.\r\n\r\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties",
       "name": "OROKIN BALLISTICS MATRIX",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingUncommonItem"
@@ -1477,6 +1677,20 @@
     },
     {
       "codexSecret": false,
+      "description": "The ragged remnants of hopes and dreams can be recreated with patient persistence.\r\n\r\nObtained by completing Follie's Hunt missions on Vesper Relay and Nightmare missions during Operation: Atramentum.",
+      "name": "Nightmare Tatters",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherEventResource"
+    },
+    {
+      "codexSecret": false,
+      "description": "This deep black ink has the power to reveal hidden truth.\r\n\r\nObtained from Atramentum Balloons and completing Follie's Hunt missions (Vesper Relay)",
+      "name": "Atramentum",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherResource"
+    },
+    {
+      "codexSecret": false,
       "description": "The passionate heat of flames fuels the path to redemption.\r\n\r\nLocation: Obtained from crates and bosses in the Descendia (Dark Refractory).",
       "name": "Ignia",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -1526,14 +1740,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+      "description": "Medals awarded to Orokin soldiers during The Old War for acts of distinguished service.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
       "name": "Servoris",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem"
     },
     {
       "codexSecret": false,
-      "description": "Awarded to soldiers during the The Old War for distinction in battle.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions(Dark Refractory).",
+      "description": "Awarded to soldiers during the The Old War for distinction in battle.\r\n\r\nLocation: Obtained from crates and enemies in Perita Rebellion missions (Dark Refractory).",
       "name": "Laudavi",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem"
@@ -2561,7 +2775,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The Seonn’s ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
+      "description": "The Seonn's ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
       "excludeFromCodex": true,
       "name": "Seonn",
       "parentName": "/Lotus/Types/Items/Fish/FishItem",
@@ -4407,6 +4621,14 @@
     },
     {
       "codexSecret": false,
+      "description": "Nearby Duviri Enigmas will be marked with a waypoint.",
+      "excludeFromCodex": true,
+      "name": "Enigma Sense",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/DuviriGuidingHandPuzzleUpgrade"
+    },
+    {
+      "codexSecret": false,
       "description": "A gas found solely on the Plains of Eidolon, refined to its purest form. \r\n\r\nLocation: Plains of Eidolon Bounties on Earth",
       "name": "Breath of the Eidolon",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
@@ -4460,6 +4682,13 @@
       "name": "Eidolon Lens",
       "parentName": "/Lotus/Types/Items/MiscItems/FocusLens",
       "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensOstron"
+    },
+    {
+      "codexSecret": false,
+      "description": "Turns a conventional mod into a work of art. An Atragraph Mod.\r\n\r\nFind Aspirant Zorba on a relay to create Atragraph Mods.",
+      "name": "Chromatic Atramentum",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/FoilModUnlocker"
     },
     {
       "codexSecret": false,
@@ -4671,7 +4900,7 @@
     },
     {
       "codexSecret": false,
-      "description": "This highly reactive mineral deposit is only substance known to make The Prince grow.\r\n\r\nLocation: The Deepmines below Fortuna, Venus.",
+      "description": "This highly reactive mineral deposit is the only substance known to make The Prince grow.\r\n\r\nLocation: The Deepmines below Fortuna, Venus.",
       "name": "Fergolyte",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Items/MiscItems/MushroomFood"
@@ -4847,7 +5076,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present.\r\n\r\nLocation: When a Balor Fomorian is threatening a Planet's Relay, enemies on that Planet will drop this resource",
+      "description": "Produced by a Fomorian's power core, these particles only appear on or around planets where a Fomorian is present.\r\n\r\nLocation: When a Balor Fomorian is threatening a Planet's Relay, enemies on that Planet will drop this resource",
       "name": "Omega Isotope",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Items/MiscItems/OmegaIsotope"
@@ -5561,6 +5790,20 @@
     {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Iron Wake Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDeimosReqQuest",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileIronwakeHub"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Haunted Vesper Relay Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDeimosReqQuest",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileMuseHub"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "Onkko's Command Post Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseOstron",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileOnkosCave"
@@ -5591,7 +5834,7 @@
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "excludeFromCodex": true,
       "name": "Lyon's Room Scene",
-      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomHarrow"
     },
     {
@@ -5599,7 +5842,7 @@
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "excludeFromCodex": true,
       "name": "Marie's Room Scene",
-      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDate",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomWisp"
     },
     {
@@ -7778,6 +8021,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A golden image of Executor Nitokh, whose arbitrary nature and perverse appetites were legendary even among the Seven.",
+      "name": "Nitokh Statue",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/StatueNitokh"
+    },
+    {
+      "codexSecret": false,
       "description": "Celebrate Star Days with this radiant Orbiter decoration.",
       "excludeFromCodex": true,
       "name": "Neon Eros Wings",
@@ -8704,6 +8954,13 @@
       "name": "The Steel Path - Neptune",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyNeptuneBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "A signifier of walking The Steel Path in the Dark Refractory.",
+      "name": "The Steel Path - Dark Refractory",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyPeritaBronze"
     },
     {
       "codexSecret": false,
@@ -9772,6 +10029,13 @@
     },
     {
       "codexSecret": false,
+      "description": "This fluffy version of Entrati's loyal butler is in need of some hugs.",
+      "name": "Loid Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLoid"
+    },
+    {
+      "codexSecret": false,
       "description": "A great deal of love went into every stitch of this floof.",
       "name": "Lotus Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -9818,6 +10082,13 @@
       "name": "Sunrise Kavat Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyMorningKavat"
+    },
+    {
+      "codexSecret": false,
+      "description": "Can't get enough of Necraloid? Bring home this cuddly, and silent, version.",
+      "name": "NecraLoid Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyNecraLoid"
     },
     {
       "codexSecret": false,
@@ -10221,6 +10492,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique display that celebrates Pride. Created by Community Artist Ritens.",
+      "name": "Pride Frame Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Pride2026SquarePictureFrame"
+    },
+    {
+      "codexSecret": false,
       "description": "A display created for Star Days by Community Artist DarikaArt.",
       "name": "Star Days Circle Frame Display",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -10246,6 +10524,13 @@
       "name": "Naberus Floating Candles",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/EvilBaroFloatingCandlesShipDeco"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bring Follie's Hunt home with this inky balloon.",
+      "name": "Follie's Balloon",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/FollieBalloonShipDeco"
     },
     {
       "codexSecret": false,
@@ -10358,6 +10643,125 @@
       "name": "Infernum Throne",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropRoatheThrone"
+    },
+    {
+      "codexSecret": false,
+      "description": "A portrait of the Shadowgrapher, concealing ink-washed secrets.",
+      "name": "Follie's Shadowgraph",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/ShadowgrapherEaselShipDeco"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Anger Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardAngry"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Boredom Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardBored"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Confusion Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardConfused"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Disgust Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardDisgusted"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Embarrassment Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardEmbarrassed"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Excitement Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardExcited"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Petulance Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardGrumpy"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Happiness Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardHappy"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Hunger Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardHungry"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Anxiety Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardNervous"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Pride Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardProud"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Sadness Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardSad"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Fear Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardScared"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Shyness Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardShy"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Surprise Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardSurprised"
+    },
+    {
+      "codexSecret": false,
+      "description": "A card depicting a certain facial expression, intended to help with identifying emotions.",
+      "name": "Rell's Fatigue Emotile",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard/Emotions/TarotCardTired"
     },
     {
       "codexSecret": false,
@@ -12145,7 +12549,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Adorn your Orbiter with this decoration representing the Arbiter’s search for truth, discipline, and practice.",
+      "description": "Adorn your Orbiter with this decoration representing the Arbiter's search for truth, discipline, and practice.",
       "name": "Arbitration Statue",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/ArbitersRewardStatue"
@@ -15146,6 +15550,13 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Pride2023Display"
     },
     {
+      "codexSecret": false,
+      "description": "A unique display that celebrates Pride. Created by Community Artist Ritens.",
+      "name": "Pride Mesa Prime and Kaithe Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Pride2026Poster"
+    },
+    {
       "codexSecret": true,
       "description": "A unique display that celebrates Pride. Created by Community Artist RWeress.",
       "name": "Pride Qorvex Fusion Display",
@@ -15596,6 +16007,13 @@
       "name": "Ember Heirloom Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardEmberHeirloom"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Shadowgrapher",
+      "name": "Follie Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardFollie"
     },
     {
       "codexSecret": false,
@@ -16092,6 +16510,69 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayThirdPlaceTrophy"
     },
     {
+      "codexSecret": true,
+      "description": "Thank you for your contributions to the TennoCon 2026 Community Art Showcase",
+      "name": "TennoCon 2026 Community Art Showcase Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CommunityArtShowcaseTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with primo workmanship. ",
+      "name": "TennoCon 2026 - Solaris Worksmanship Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayBestWorkmanshipTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay with an outstanding on-stage performance.",
+      "name": "TennoCon 2026 - Bombastic Performance Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayBombasticTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the first place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 1st Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayFirstPlaceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes a Cosplay chosen by judges as a strong overall entry.",
+      "name": "TennoCon 2026 - Lotus' Choice Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayLotusChoiceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award is for a person who created an exceptional Cosplay in the non-competitive category.",
+      "name": "TennoCon 2026 - Orokin Gold Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayOrokinGoldTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "This award recognizes creative use of materials and interpretation of the Cosplay's subject matter!",
+      "name": "TennoCon 2026 - Ostron Ingenuity Award",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayOstronIngenuityTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the second place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 2nd Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplaySecondPlaceTrophy"
+    },
+    {
+      "codexSecret": true,
+      "description": "Awarded to the third place cosplayer at TennoCon 2026.",
+      "name": "TennoCon 2026 - 3rd Place",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2026CosplayThirdPlaceTrophy"
+    },
+    {
       "codexSecret": false,
       "description": "A decoration to recognize the contributions of a Clan to the broader Dojo Community.",
       "excludeFromCodex": true,
@@ -16294,6 +16775,13 @@
       "name": "Display - TennoCon 2025",
       "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025Display"
+    },
+    {
+      "codexSecret": true,
+      "description": "Show off this display to mark the arrival of TennoCon 2026.",
+      "name": "TennoCon 2026 Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026Display"
     },
     {
       "codexSecret": true,
@@ -17107,7 +17595,7 @@
     },
     {
       "codexSecret": true,
-      "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut’s alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad’s health. Each squad member can call one additional Grineer brother to join the fight.\r\n\r\nAlso available in the Market after completing the Veilbreaker quest.",
+      "description": "A Grineer Bolkor remodeled for Tenno reinforcement. Skaut's alert signal calls Kahl and his Grineer brothers for backup. When backup is active, use the alert signal to replenish your squad's health. Each squad member can call one additional Grineer brother to join the fight.\r\n\r\nAlso available in the Market after completing the Veilbreaker quest.",
       "name": "SKAUT",
       "parentName": "/Lotus/Types/Items/ShipItem",
       "showInInventory": false,
@@ -17485,6 +17973,24 @@
     },
     {
       "codexSecret": false,
+      "description": "Music from the Shadowgrapher to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Dreadnaught",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/DreadnaughtSongItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Music from the Shadowgrapher to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Drip",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/DripSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "The Seven Crimes of Kullervo login music to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "The Seven Crimes of Kullervo Login Music",
@@ -17748,12 +18254,30 @@
     },
     {
       "codexSecret": false,
+      "description": "Music from the Shadowgrapher to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Stained Vespers",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/StainedVespersSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "Warframe's 10th Anniversary login music to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "10th Anniversary Login Music",
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/TenthAnniversaryLoginSongItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "",
+      "excludeFromCodex": true,
+      "name": "The Awakening",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/TheAwakeningSongItem"
     },
     {
       "codexSecret": false,
@@ -18587,7 +19111,7 @@
       "description": "Neuroptics component of the Baruuk Prime Warframe.",
       "name": "Baruuk Prime Neuroptics",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeHelmetComponent"
     },
     {
@@ -18945,6 +19469,27 @@
       "name": "Titania Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairySystemsComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Chassis component of the Follie Warframe.",
+      "name": "Follie Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Follie Warframe.",
+      "name": "Follie Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Follie Warframe.",
+      "name": "Follie Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieSystemsComponent"
     },
     {
       "codexSecret": false,
@@ -20732,7 +21277,7 @@
       "description": "Chassis component of the Wisp Prime Warframe.",
       "name": "Wisp Prime Chassis",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisComponent"
     },
     {
@@ -21990,6 +22535,30 @@
     {
       "codexSecret": false,
       "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Enkaus Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EnkausBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Enkaus Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EnkausReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "excludeFromCodex": true,
+      "name": "Enkaus Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EnkausStock"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
       "name": "Ruvox Blade",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EntFistIncarnonBlade"
@@ -22999,7 +23568,7 @@
       "description": "A prime weapon-crafting component.",
       "name": "Phantasma Prime Stock",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PhantasmaPrimeStock"
     },
     {

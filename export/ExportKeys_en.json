@@ -110,7 +110,7 @@
       "codexSecret": true,
       "description": "Put an end to Alad V and his Mutalist experiments",
       "name": "Mutalist Alad V Assassinate",
-      "parentName": "/Lotus/Types/Keys/TestKeyA",
+      "parentName": "/Lotus/Types/Keys/TestKey",
       "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey"
     },
     {
@@ -316,14 +316,6 @@
       "name": "Clan Key",
       "parentName": "/Lotus/Types/Game/KeyItem",
       "uniqueName": "/Lotus/Types/Keys/DojoKey"
-    },
-    {
-      "codexSecret": true,
-      "description": "Put an end to Alad V and his Mutalist experiments",
-      "excludeFromCodex": true,
-      "name": "Mutalist Alad V Assassinate",
-      "parentName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
-      "uniqueName": "/Lotus/Types/Keys/SortieBossKeyInfestedAladV"
     }
   ]
 }

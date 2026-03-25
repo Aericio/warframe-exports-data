@@ -301,6 +301,18 @@
       "uniqueName": "ClanNode0"
     },
     {
+      "factionIndex": 11,
+      "masteryReq": 0,
+      "maxEnemyLevel": 45,
+      "minEnemyLevel": 35,
+      "missionIndex": 45,
+      "name": "Vesper Relay",
+      "nodeType": 0,
+      "systemIndex": 1,
+      "systemName": "Venus",
+      "uniqueName": "SolNode239"
+    },
+    {
       "factionIndex": 1,
       "masteryReq": 0,
       "maxEnemyLevel": 8,
@@ -3203,6 +3215,18 @@
       "systemIndex": 24,
       "systemName": "Dark Refractory, Deimos",
       "uniqueName": "SolNode256"
+    },
+    {
+      "factionIndex": 3,
+      "masteryReq": 0,
+      "maxEnemyLevel": 170,
+      "minEnemyLevel": 165,
+      "missionIndex": 44,
+      "name": "The Guilty",
+      "nodeType": 0,
+      "systemIndex": 24,
+      "systemName": "Dark Refractory, Deimos",
+      "uniqueName": "SolNode257"
     }
   ]
 }
