@@ -23197,6 +23197,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The feather symbol marks those who have not yet ascended to the full sword of the Hexis.",
+      "excludeFromCodex": true,
+      "name": "Aspirant Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ZorbaScarf"
+    },
+    {
+      "codexSecret": false,
       "description": "Let nothing hinder you from safeguarding those you hold dear.",
       "name": "Seighe Scythe Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Scythes/CalibanDlxScytheSkin"
@@ -24779,9 +24786,15 @@
     {
       "codexSecret": false,
       "description": "Keep the memory of the Shadowgrapher and Operation: Atramentum close with this sigil.",
-      "excludeFromCodex": true,
       "name": "Atramentum Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilShadowgrapher"
+    },
+    {
+      "codexSecret": false,
+      "description": "Show your dedication to the truth of Aspirant Zorba with this sigil.",
+      "excludeFromCodex": true,
+      "name": "Aspirant Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilZorba"
     },
     {
       "codexSecret": false,
