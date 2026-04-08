@@ -7573,6 +7573,39 @@
       "consumeOnUse": true,
       "ingredients": [
         {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Upgrades/Skins/Inkblot/InkblotAltHelmet",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Helmets/FollieAltHelmetBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
           "ItemCount": 500,
           "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
           "ProductCategory": "MiscItems"
@@ -10313,6 +10346,39 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/Helmets/TrinityAltHelmetBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Upgrades/Skins/DemonFrame/DemonFrameAltHelmet",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Helmets/UrielAltHelmetBlueprint"
     },
     {
       "buildPrice": 20000,
@@ -20974,7 +21040,7 @@
         }
       ],
       "num": 1,
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "resultType": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsComponent",
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
@@ -29997,6 +30063,142 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeSystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Tellurium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 300,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 250,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 350,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4250,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 550,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Cryotic",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 3175,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsBlueprint"
     },
     {
       "buildPrice": 25000,
@@ -44468,6 +44670,40 @@
       "ingredients": [
         {
           "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeReceiver",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeStock",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 15,
+      "resultType": "/Lotus/Weapons/Tenno/LongGuns/PrimePerigale/PrimePerigaleSniper",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/PerigalePrimeBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
           "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PhantasmaPrimeBarrel",
           "ProductCategory": "MiscItems"
         },
@@ -45570,6 +45806,35 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 35,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/SapientPrimaryBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeBlade",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 15,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeVorunaAxeWeapon",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint"
     },
     {
       "buildPrice": 15000,

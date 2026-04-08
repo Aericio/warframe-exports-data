@@ -3515,6 +3515,13 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Heart of the Pack Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/TitleVorunaPrime"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Unairu Vanguard Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/UnairuFocusHoarderTitle"
     },
@@ -7040,6 +7047,18 @@
       "description": "A glyph depicting Sevagoth Prime on a dark background.",
       "name": "Sevagoth Prime Glyph - Dark",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeDark"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Voruna Prime on a bright background.",
+      "name": "Voruna Prime Glyph - Bright",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeBright"
+    },
+    {
+      "codexSecret": true,
+      "description": "A glyph depicting Voruna Prime on a dark background.",
+      "name": "Voruna Prime Glyph - Dark",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeDark"
     },
     {
       "codexSecret": true,
@@ -33871,6 +33890,12 @@
       "description": "Now the Landing Craft is changed, reborn through the energy of the Janus Key.",
       "name": "Janus Key Sumdali",
       "uniqueName": "/Lotus/Upgrades/Skins/Liset/VoidKeyHoodOrnament"
+    },
+    {
+      "codexSecret": false,
+      "description": "Fly howling into battle with Voruna Prime's signature sumdali.",
+      "name": "Vilkas Prime Sumdali",
+      "uniqueName": "/Lotus/Upgrades/Skins/Liset/VorunaPrimeHoodOrnament"
     },
     {
       "codexSecret": false,

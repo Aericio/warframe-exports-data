@@ -152,105 +152,9 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
-      "name": "Lith A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussGrendelVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
       "name": "Meso Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjection"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso A11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso Z6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso Z6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso Z6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso Z6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussGrendelVaultBSilver"
     },
     {
       "codexSecret": false,
@@ -264,105 +168,9 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
-      "name": "Neo G10 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo G10 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo G10 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo G10 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo M6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo M6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo M6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo M6 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultBSilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
       "name": "Axi Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjection"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi G15 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi G15 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi G15 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi G15 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultASilver"
     },
     {
       "codexSecret": false,
@@ -4962,6 +4770,14 @@
       "name": "Nora's Mix Vol. 7 Cred",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionElevenCreds"
+    },
+    {
+      "codexSecret": false,
+      "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
+      "excludeFromCodex": true,
+      "name": "Nora's Mix: Time Tempests Cred",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionFifteenCreds"
     },
     {
       "codexSecret": false,
@@ -10086,7 +9902,7 @@
     {
       "codexSecret": false,
       "description": "Can't get enough of Necraloid? Bring home this cuddly, and silent, version.",
-      "name": "NecraLoid Floof",
+      "name": "Necraloid Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyNecraLoid"
     },
@@ -19727,7 +19543,7 @@
       "description": "Systems component of the Grendel Prime Warframe.",
       "name": "Grendel Prime Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsComponent"
     },
     {
@@ -21260,6 +21076,30 @@
     },
     {
       "codexSecret": false,
+      "description": "Chassis component of the Voruna Prime Warframe.",
+      "name": "Voruna Prime Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Voruna Prime Warframe.",
+      "name": "Voruna Prime Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Voruna Prime Warframe.",
+      "name": "Voruna Prime Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent"
+    },
+    {
+      "codexSecret": false,
       "description": "Chassis component of the Wisp Warframe.",
       "name": "Wisp Chassis",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -21526,7 +21366,7 @@
       "description": "A prime weapon-crafting component.",
       "name": "Acceltra Prime Stock",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeStock"
     },
     {
@@ -21574,7 +21414,7 @@
       "description": "A prime weapon-crafting component.",
       "name": "Akarius Prime Receiver",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeReceiver"
     },
     {
@@ -23550,6 +23390,30 @@
     {
       "codexSecret": false,
       "description": "A prime weapon-crafting component.",
+      "name": "Perigale Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Perigale Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Perigale Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeStock"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
       "name": "Phantasma Prime Barrel",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 100,
@@ -24173,6 +24037,22 @@
       "name": "Sagek Prime Stock",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeStock"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Sarofang Prime Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Sarofang Prime Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle"
     },
     {
       "codexSecret": false,

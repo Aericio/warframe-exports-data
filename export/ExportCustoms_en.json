@@ -3904,6 +3904,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Default armor set for the Voruna Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Voruna Prime Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VorunaPrimeArmArmor"
+    },
+    {
+      "codexSecret": false,
       "description": "Default armor set for the Voruna Warframe.",
       "excludeFromCodex": true,
       "name": "Voruna Armor",
@@ -7582,6 +7589,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The beast may be adorned, but never tamed. Voruna Prime's signature ephemera.",
+      "name": "Okuri Tails Prime Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/PrimeVorunaEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Distinguish yourself with the essence of nobility.",
       "name": "Tealtrian Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/ProteaDeluxeEphemera"
@@ -7630,6 +7643,12 @@
       "excludeFromCodex": true,
       "name": "TennoCon 2021 Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/TennoCon2021Ephemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "Emulating the colossus of Hull, this ephemera is a reminder of the Tenno's past conflicts.",
+      "name": "Hunhullus Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/TennoCon2026Ephemera"
     },
     {
       "codexSecret": false,
@@ -15338,7 +15357,6 @@
     {
       "codexSecret": false,
       "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
-      "excludeFromCodex": true,
       "name": "Operator Escuchon Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorCalDeluxe"
     },
@@ -17176,7 +17194,6 @@
     {
       "codexSecret": false,
       "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
-      "excludeFromCodex": true,
       "name": "Operator Escuchon Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorCalDeluxe"
     },
@@ -17641,7 +17658,6 @@
     {
       "codexSecret": false,
       "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
-      "excludeFromCodex": true,
       "name": "Operator Escuchon Greaves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorCalDeluxe"
     },
@@ -18067,7 +18083,6 @@
     {
       "codexSecret": false,
       "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
-      "excludeFromCodex": true,
       "name": "Operator Escuchon Apparel",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtOperatorCalDeluxe"
     },
@@ -18439,7 +18454,6 @@
     {
       "codexSecret": false,
       "description": "Venture boldly forth, clad in the auspices of one who shows courage in the face of death.",
-      "excludeFromCodex": true,
       "name": "Operator Escuchon Pauldrons",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorCalDeluxe"
     },
@@ -22236,6 +22250,12 @@
       "description": "Twin bands symbolize the balance all Tenno are sworn to uphold.",
       "name": "Vistapa Prime Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeTwitchScarf"
+    },
+    {
+      "codexSecret": false,
+      "description": "Wear the trophy of victories past with Voruna Prime's signature syandana.",
+      "name": "Hanteler Prime Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeVorunaSyandana"
     },
     {
       "codexSecret": false,
@@ -28512,6 +28532,19 @@
       "description": "A unique skin for the Voruna Warframe, designed by kakarrot2812.",
       "name": "Voruna Demionna Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaDemionnaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Voruna Prime Warframe.",
+      "name": "Voruna Prime Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaPrimeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Voruna Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Voruna Prime Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/VorunaPrimeSkin"
     },
     {
       "codexSecret": false,
