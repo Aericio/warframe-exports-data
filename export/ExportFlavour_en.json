@@ -2934,6 +2934,13 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "Volatile Mote Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/BOTBEventVendor3Title"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Thirst for Knowledge Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/CephalonSudaTitle"
     },

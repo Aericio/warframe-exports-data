@@ -8202,6 +8202,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Feathers of memory, lovingly collected. The gift of self, immortalized in motes of steadfast light.",
+      "name": "Jade's Promise Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows/JadeMemorialShipDeco"
+    },
+    {
+      "codexSecret": false,
       "description": "Invite the spirits of the Otherworld into your Orbiter.",
       "name": "Heurodis Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
