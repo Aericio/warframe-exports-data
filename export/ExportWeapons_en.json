@@ -14542,7 +14542,7 @@
         0,
         0
       ],
-      "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+      "description": "With heightened agility and power the Kestrel Prime's heavy attacks easily knock down foes, ensuring none shall stand before it.",
       "fireRate": 1.2500001,
       "followThrough": 0.69999999,
       "heavyAttackDamage": 210,
@@ -17725,7 +17725,7 @@
         0,
         0
       ],
-      "description": "A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
+      "description": "A golden version of Garuda's versatile crossbow, as fashioned by the Orokin's finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
       "fireRate": 2.5000002,
       "magazineSize": 11,
       "masteryReq": 12,
@@ -18327,7 +18327,7 @@
         0,
         0
       ],
-      "description": "Gyre’s signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
+      "description": "Gyre's signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
       "fireRate": 4.3333335,
       "magazineSize": 28,
       "masteryReq": 8,
@@ -20096,7 +20096,7 @@
         0,
         0
       ],
-      "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine’s hands.",
+      "description": "Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine's hands.",
       "fireRate": 1,
       "followThrough": 0.40000001,
       "heavyAttackDamage": 200,
@@ -27767,7 +27767,7 @@
         0,
         0
       ],
-      "description": "The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.",
+      "description": "The Kuva Sobek's exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich's dominant spirit.",
       "fireRate": 2.5000002,
       "magazineSize": 20,
       "masteryReq": 15,
