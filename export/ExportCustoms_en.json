@@ -1758,7 +1758,7 @@
     {
       "codexSecret": false,
       "description": "Strike fear into the hearts of your enemies by cladding your Warframe in this ancient battle attire.",
-      "name": "Naberus",
+      "name": "Naberus Shoulder Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/Halloween2014Wings/Halloween2014ArmArmor"
     },
     {
@@ -2436,6 +2436,24 @@
       "description": "This golden decorative armor honors master warriors long since forgotten.",
       "name": "Edo Prime Knee Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetTwo/PrimeSetTwoLegArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+      "name": "Daurus Prime Shoulder Plates",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxAArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+      "name": "Daurus Prime Chest Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxCArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "This proud panoply declares the wearer's bravery on the field of battle.",
+      "name": "Daurus Prime Leg Plates",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeStyanaxArmor/PrimeStyanaxLArmor"
     },
     {
       "codexSecret": false,
@@ -3640,6 +3658,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Default armor for Dante Tytonis.",
+      "excludeFromCodex": true,
+      "name": "Dante Tytonis Feathered Pauldron",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/DanteDeluxeArmArmor"
+    },
+    {
+      "codexSecret": false,
       "description": "Default arm armor for Ember Pyraxis.",
       "excludeFromCodex": true,
       "name": "Ember Pyraxis Shoulder Pads",
@@ -4648,6 +4673,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This covert rifle skin is bestowed upon new initiates into the Scoria order as proof they have completed their training.",
+      "name": "Bladeswarm Braton Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/AshGeminiCaliberChicksRifleSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Distribute justice just like the Caliber Chicks with this Rifle skin.",
       "name": "Justice Rifle Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin"
@@ -5434,7 +5465,7 @@
     },
     {
       "codexSecret": false,
-      "description": "An emblem available to clan members who kept Jade’s Volatile Motes out of the hands of Parvos Granum in Operation: Belly of the Beast.",
+      "description": "An emblem available to clan members who kept Jade's Volatile Motes out of the hands of Parvos Granum in Operation: Belly of the Beast.",
       "name": "Belly of the Beast Emblem",
       "uniqueName": "/Lotus/Upgrades/Skins/Clan/JadeShadowsEventBadgeItem"
     },
@@ -6134,6 +6165,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A bloodstained gaze washes all in red.",
+      "name": "Karotic Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GarudaBloodCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "No speedster's look would be complete without Gauss Moto's signature signa.",
       "name": "Vizor Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GaussDeluxeIICrown"
@@ -6146,7 +6183,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Delight in the heat of battle with Ember Heirloom’s Signa.",
+      "description": "Delight in the heat of battle with Ember Heirloom's Signa.",
       "name": "Ember Heirloom Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomEmberCrown"
     },
@@ -6215,6 +6252,12 @@
       "description": "Present yourself as an esteemed captain with Sevagoth Prime’s signature Signa.",
       "name": "Maginav Prime Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/PrimeSevagothHaloCrown"
+    },
+    {
+      "codexSecret": false,
+      "description": "Ancient assassin techniques meet future technology.",
+      "name": "Kyzen Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/ProtoAshCrown"
     },
     {
       "codexSecret": false,
@@ -7149,6 +7192,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Obscure the identity of the killer within with this translucent ephemera. The mark of a Scoria assassin.",
+      "name": "Syndir Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/AshGeminiEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Emanate a grisly blood effect.",
       "name": "Bleeding Body Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/AvatarBloodA"
@@ -7350,6 +7399,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Bathe in the life essence of your enemies.",
+      "name": "Viserakta Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/GarudaBloodEphemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Spread Garuda Prime's wings of slaughter with this flowing Ephemera.",
       "name": "Sanguinax Prime Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/GarudaPrimeEphemera"
@@ -7380,49 +7435,49 @@
     },
     {
       "codexSecret": false,
-      "description": "“Time will show the way, And I'll mend the heart you've broken”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'Time will show the way, And I'll mend the heart you've broken'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Heart-Throb Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraA"
     },
     {
       "codexSecret": false,
-      "description": "“Please stay\r\nDon't put out the flame and run away”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'Please stay\r\nDon't put out the flame and run away'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Tail Feather Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraB"
     },
     {
       "codexSecret": false,
-      "description": "“In this heart break\r\nI'll be here fighting for you”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'In this heart break\r\nI'll be here fighting for you'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Heart-Beat Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraC"
     },
     {
       "codexSecret": false,
-      "description": "“With a flicker of hope on the darkest of days\r\nNow it feels like the end is near”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'With a flicker of hope on the darkest of days\r\nNow it feels like the end is near'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Luv-Byte Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraD"
     },
     {
       "codexSecret": false,
-      "description": "“I thought I could take\r\nMore than I really can”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'I thought I could take\r\nMore than I really can'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Pins-N-Needles Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraE"
     },
     {
       "codexSecret": false,
-      "description": "“Baby 'til you come back with something\r\nI know I'll never let it go”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'Baby 'til you come back with something\r\nI know I'll never let it go'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Embracer Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraF"
     },
     {
       "codexSecret": false,
-      "description": "“I'm getting stronger but I still feel the pain”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'I'm getting stronger but I still feel the pain'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Lovestruck Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraG"
     },
     {
       "codexSecret": false,
-      "description": "“I keep thinking I see you\r\nAnd there's nobody there”\r\n\r\nEarned by defeating a Technocyte Coda.",
+      "description": "'I keep thinking I see you\r\nAnd there's nobody there'\r\n\r\nEarned by defeating a Technocyte Coda.",
       "name": "Soul-Eye Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraH"
     },
@@ -7452,7 +7507,7 @@
     },
     {
       "codexSecret": false,
-      "description": "An even more radiant evolution of the Aspirus Ephemera, created with vestiges over Jade’s volatile motes.",
+      "description": "An even more radiant evolution of the Aspirus Ephemera, created with vestiges over Jade's volatile motes.",
       "name": "Aspirus Emergent Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/JadeLightEphemeraB"
     },
@@ -8846,6 +8901,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The standard issue skin for Garuda's talons.",
+      "excludeFromCodex": true,
+      "name": "Garuda Talons Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaClawsSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Garuda Hinsa's signature talons.",
       "excludeFromCodex": true,
       "name": "Garuda Hinsa Talons Skin",
@@ -8871,6 +8933,26 @@
     },
     {
       "codexSecret": false,
+      "description": "Vena's signature bolero.",
+      "excludeFromCodex": true,
+      "name": "Vena's Bolero",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiChest"
+    },
+    {
+      "codexSecret": false,
+      "description": "Vena's signature talons.",
+      "excludeFromCodex": true,
+      "name": "Vena's Talons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiClawsSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Vena, the Wytch, emerges from a doomed future to put a sadistic smile on Garuda. Revel in the blood of all those who stand against her. ",
+      "name": "Vena Gemini Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaGeminiSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Garuda Warframe.",
       "name": "Garuda Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaHelmet"
@@ -8881,6 +8963,13 @@
       "excludeFromCodex": true,
       "name": "Garuda Noble Animation Set",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Garuda Prime Talons.",
+      "excludeFromCodex": true,
+      "name": "Garuda Prime Talons Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaPrimeClawsSkin"
     },
     {
       "codexSecret": false,
@@ -8904,6 +8993,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique skin for Garuda's talons, designed by Lubox.",
+      "excludeFromCodex": true,
+      "name": "Garuda Tengushin Talons Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinClawsSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A helmet for the Garuda Warframe, designed by Lubox.",
       "name": "Garuda Tengushin Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinHelmet"
@@ -8922,6 +9018,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique skin for Garuda's talons, designed by prosetisen.",
+      "excludeFromCodex": true,
+      "name": "Garuda Successor Talons Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWSuccessorClawsSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A helmet for the Garuda Warframe, designed by prosetisen.",
       "name": "Garuda Successor Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWSuccessorHelmet"
@@ -8931,6 +9034,13 @@
       "description": "A unique skin for the Garuda Warframe, designed by prosetisen.",
       "name": "Garuda Successor Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWSuccessorSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for Garuda's talons, designed by Vulbjorn.",
+      "excludeFromCodex": true,
+      "name": "Garuda Tiamat Talons Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWTiamatClawsSkin"
     },
     {
       "codexSecret": false,
@@ -10384,6 +10494,25 @@
       "description": "The warrior spirit reincarnates in the image of a god.",
       "name": "Styanax Tonatiuh Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxDeluxeSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Styanax Prime Warframe.",
+      "name": "Styanax Prime Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Styanax Prime's helmet, stripped down and ready to enter the melee.",
+      "name": "Styanax Prime Bare Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeHelmetNoCloth"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Styanax Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Styanax Prime Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxPrimeSkin"
     },
     {
       "codexSecret": false,
@@ -11867,7 +11996,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Kurbrow armor for Baruuk’s loyal beast.",
+      "description": "Kubrow armor for Baruuk's loyal beast.",
       "name": "Sloughi Kubrow Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/PacifistKubrowArmor"
     },
@@ -13865,6 +13994,19 @@
     },
     {
       "codexSecret": false,
+      "description": "Ryoku's signature headgear.",
+      "excludeFromCodex": true,
+      "name": "Ryoku's Cowl",
+      "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshGeminiAux"
+    },
+    {
+      "codexSecret": false,
+      "description": "The keenest blade is a well-ordered mind. Equal parts killer and mentor, Ryoku gives voice to the silent assassin, Ash.",
+      "name": "Ryoku Gemini Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshGeminiSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Ash Prime Warframe.",
       "name": "Ash Prime Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshPrimeHelmet"
@@ -15016,7 +15158,7 @@
     },
     {
       "codexSecret": true,
-      "description": "The Drifter’s Zariman suit. Still intact after all these years.",
+      "description": "The Drifter's Zariman suit. Still intact after all these years.",
       "name": "Drifter Zariman Suit",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultA"
     },
@@ -15716,9 +15858,14 @@
     },
     {
       "codexSecret": false,
+      "description": "Ryoku's signature hairstyle.",
+      "name": "Ryoku's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Ash"
+    },
+    {
+      "codexSecret": false,
       "description": "Floppy locks, for a classic 90s Emo look.",
-      "excludeFromCodex": true,
-      "name": "Arthur’s Hairstyle",
+      "name": "Arthur's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Excalibur"
     },
     {
@@ -15729,6 +15876,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Vena's signature hairstyle.",
+      "name": "Vena's Hairstyle",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Garuda"
+    },
+    {
+      "codexSecret": false,
       "description": "Hair is vanity. Lyon’s signature style is the ultimate in low maintenance.",
       "name": "Lyon's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Harrow"
@@ -15736,15 +15889,13 @@
     {
       "codexSecret": false,
       "description": "The elegant, well-maintained tresses of a gentleman's gentleman.",
-      "excludeFromCodex": true,
-      "name": "Loid’s Hairstyle",
+      "name": "Loid's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Loid"
     },
     {
       "codexSecret": false,
       "description": "Aoi's daring, angular cut, the apex of street style.",
-      "excludeFromCodex": true,
-      "name": "Aoi’s Hairstyle",
+      "name": "Aoi's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Mag"
     },
     {
@@ -15756,22 +15907,19 @@
     {
       "codexSecret": false,
       "description": "Eleanor's signature flowing locks, tightly bound up.",
-      "excludeFromCodex": true,
-      "name": "Eleanor’s Hairstyle",
+      "name": "Eleanor's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Nyx"
     },
     {
       "codexSecret": false,
       "description": "Braids and beads embody the marksman's pride.",
-      "excludeFromCodex": true,
-      "name": "Quincy’s Hairstyle",
+      "name": "Quincy's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Quincy"
     },
     {
       "codexSecret": false,
       "description": "Major Rusalka's splendid hair, carefully plaited to keep it from entangling in her mechanical arm.",
-      "excludeFromCodex": true,
-      "name": "Rusalka’s Hairstyle",
+      "name": "Rusalka's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Rusalka"
     },
     {
@@ -15796,8 +15944,7 @@
     {
       "codexSecret": false,
       "description": "Lettie's classic vintage pompadour.",
-      "excludeFromCodex": true,
-      "name": "Lettie’s Hairstyle",
+      "name": "Lettie's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Trinity"
     },
     {
@@ -15810,7 +15957,7 @@
       "codexSecret": false,
       "description": "For that 'couldn't sleep, too wired' look.",
       "excludeFromCodex": true,
-      "name": "Amir’s Hairstyle",
+      "name": "Amir's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Volt"
     },
     {
@@ -16847,7 +16994,7 @@
     },
     {
       "codexSecret": true,
-      "description": "The Drifter’s Zariman hood. Still intact after all these years.",
+      "description": "The Drifter's Zariman hood. Still intact after all these years.",
       "name": "Drifter Zariman Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultA"
     },
@@ -17317,7 +17464,7 @@
     },
     {
       "codexSecret": true,
-      "description": "The Drifter’s Zariman pants. Still intact after all these years.",
+      "description": "The Drifter's Zariman pants. Still intact after all these years.",
       "name": "Drifter Zariman Pants",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultA"
     },
@@ -18113,7 +18260,7 @@
     },
     {
       "codexSecret": true,
-      "description": "The Drifter’s Zariman sleeves and gloves. Still intact after all these years.",
+      "description": "The Drifter's Zariman sleeves and gloves. Still intact after all these years.",
       "name": "Drifter Zariman Sleeves",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultA"
     },
@@ -19080,6 +19227,24 @@
       "description": "For those midway upon their journey.",
       "name": "Dante Cantist Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dante Tytonis' signature helmet.",
+      "name": "Dante Tytonis Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Knowledge glides on dark wings, silent and sure. Dante Tytonis knows wisdom is power.",
+      "name": "Dante Tytonis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Death soars swiftly closer with Dante Tytonis' signature feathered warfan skin.",
+      "name": "Gallistrix Warfan Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Pagemaster/PagemasterDeluxeWarfanSkin"
     },
     {
       "codexSecret": false,
@@ -22241,6 +22406,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A syandana of gold and ethereal glory, for intimidation on the battlefield or celebration in the victory parade.",
+      "name": "Lanex Prime Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeStyanaxSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "Feel the energy of the Surator Prime Syandana at your back as you feel the drive to push on.",
       "name": "Surator Prime Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeSuratorSyandana"
@@ -22761,6 +22932,24 @@
       "description": "A Syandana with kick, as robust as Hildryn herself.",
       "name": "Surator Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ShieldFrameCape"
+    },
+    {
+      "codexSecret": false,
+      "description": "Fury tempered. Pride soothed. This unity was hard-won, and all the more precious for it.",
+      "name": "Jade's Victory Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionBothSyandana"
+    },
+    {
+      "codexSecret": true,
+      "description": "Swaddling cloth of the infant Orion, torn in ecstatic fury.",
+      "name": "Orion's Swaddle Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionLeftSyandana"
+    },
+    {
+      "codexSecret": true,
+      "description": "Swaddling cloth of the infant Sirius, worn as a ragged badge of honor.",
+      "name": "Sirius' Swaddle Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SiriusOrionRightSyandana"
     },
     {
       "codexSecret": false,
@@ -24980,7 +25169,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The show’s over. This sigil marks the end of a Technocyte Coda’s career of music and mayhem.",
+      "description": "The show's over. This sigil marks the end of a Technocyte Coda's career of music and mayhem.",
       "name": "Vanquished Coda Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichVanquishedSigil"
     },
@@ -26128,6 +26317,46 @@
       "description": "Represent the Zariman spirit of comradery and ingenuity.",
       "name": "Zariman Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ZarimanSupporterPackSigil"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Orion Warframe.",
+      "name": "Orion Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/OrionHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Orion Warframe.",
+      "excludeFromCodex": true,
+      "name": "Orion Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/OrionSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Sirius Warframe.",
+      "name": "Sirius Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Agile Animation Set for Sirius & Orion.",
+      "excludeFromCodex": true,
+      "name": "Sirius & Orion Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusOrionAgileAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Noble Animation Set for Sirius & Orion.",
+      "excludeFromCodex": true,
+      "name": "Sirius & Orion Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusOrionNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Sirius Warframe.",
+      "excludeFromCodex": true,
+      "name": "Sirius Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/SiriusOrion/SiriusSkin"
     },
     {
       "codexSecret": false,
@@ -28186,6 +28415,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Send a gruesome message about the fate of all who encounter these claws with this skin for the Venka.",
+      "name": "Bloodfrenzy Venka Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Claws/GarudaGeminiClawsSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "In the distant past, pistols of this kind packed a mean punch.",
       "name": "Protokol Spectre Pistol Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre"
@@ -28207,6 +28442,12 @@
       "description": "A real beauty from a former age.",
       "name": "Protokol 95 Pistol Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DSPistols/LexHammer"
+    },
+    {
+      "codexSecret": false,
+      "description": "This Karyst skin bears the markings of a long forgotten assassin's order, the Scoria.",
+      "name": "Bladeswarm Karyst Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Daggers/AshGeminiDaggerSkin"
     },
     {
       "codexSecret": false,
@@ -28282,6 +28523,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The dark feathers of Dante Tytonis' Exalted Tome lift arcane secrets to the skies.",
+      "name": "Noctua Lophos",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Grimoire/PagemasterDeluxeGrimoireSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A next-generation skin for the Fragor.",
       "name": "Fragor Opal Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Hammers/NintendoFragor"
@@ -28294,9 +28541,21 @@
     },
     {
       "codexSecret": false,
+      "description": "This Vectis skin's camouflage is designed for long stakeouts, an essential part of any assassin's toolkit. ",
+      "name": "Bladeswarm Vectis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/AshGeminiVectisSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Adopt your Corpus enemy’s aesthetic. Show them whose vision of the future will prevail.",
       "name": "Ascension Speargun Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/CorpusSpearGunSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A bloodthirsty Nagantaka skin for those who prefer to use a crossbow at close range.",
+      "name": "Bloodfrenzy Nagantaka Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/GarudaGeminiNagantakaSkin"
     },
     {
       "codexSecret": false,
@@ -28333,6 +28592,12 @@
       "description": "A bold red and white glaze glisten across the surface of this hardened ceramic Pandero skin.",
       "name": "Pandero Ceramica Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/CeramicPistolSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This skin for the Ballistica embodies the philosophy that if your weapon is clean, you're not using it properly.",
+      "name": "Bloodfrenzy Ballistica Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/GarudaGeminiBallisticaSkin"
     },
     {
       "codexSecret": false,
@@ -28430,6 +28695,12 @@
       "description": "This unusual sword skin bears the markings of seekers from distant lands. Faint etchings around the hilt spell the cryptic phrase SOLLOS-I, the meaning of which has been lost to time.",
       "name": "Envoy's Sphere Longsword Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Swords/SphereSwordSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Strike silently with this subtle Kunai skin.",
+      "name": "Bladeswarm Kunai Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Throwable/AshGeminiKunaiSkin"
     },
     {
       "codexSecret": true,

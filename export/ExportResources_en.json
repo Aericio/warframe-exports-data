@@ -3969,6 +3969,14 @@
     },
     {
       "codexSecret": false,
+      "description": "Awaken this weapon's ability to summon ghostly rapiers that fly forth upon Heavy Attacks, while Heavy Attack kills grant <DT_PUNCTURE_COLOR> Puncture Damage in Incarnon Form.",
+      "excludeFromCodex": true,
+      "name": "Destreza Incarnon Genesis",
+      "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/DestrezaIncarnonUnlocker"
+    },
+    {
+      "codexSecret": false,
       "description": "Awaken this weapon's ability to create a <DT_POISON_COLOR>Toxin Damage field after a kill in Incarnon Form.",
       "excludeFromCodex": true,
       "name": "Dual Ichor Incarnon Genesis",
@@ -4006,6 +4014,14 @@
       "name": "Nami Solo Incarnon Genesis",
       "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
       "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/NamiSoloIncarnonUnlocker"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awaken this weapon's ability to perform a large radial attack for each Finisher hit in Incarnon Form.",
+      "excludeFromCodex": true,
+      "name": "Obex Incarnon Genesis",
+      "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/ObexIncarnonUnlocker"
     },
     {
       "codexSecret": false,
@@ -4145,6 +4161,14 @@
     },
     {
       "codexSecret": false,
+      "description": "Awaken this weapon's ability to fire slowing projectiles that explode upon headshots in Incarnon Form. Transforms on Alt Fire while unscoped.",
+      "excludeFromCodex": true,
+      "name": "Vectis Incarnon Genesis",
+      "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/VectisIncarnonUnlocker"
+    },
+    {
+      "codexSecret": false,
       "description": "Awaken this weapon's ability to launch target-seeking fireballs that ricochet toward enemies in Incarnon Form.",
       "excludeFromCodex": true,
       "name": "Angstrum Incarnon Genesis",
@@ -4158,6 +4182,14 @@
       "name": "Atomos Incarnon Genesis",
       "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
       "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/AtomosIncarnonUnlocker"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awaken this weapon's ability to fire cross-shaped projectiles high in <DT_SLASH_COLOR> Slash Damage in Incarnon Form.",
+      "excludeFromCodex": true,
+      "name": "Ballistica Incarnon Genesis",
+      "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/BallisticaIncarnonUnlocker"
     },
     {
       "codexSecret": false,
@@ -4238,6 +4270,14 @@
       "name": "Sicarus Incarnon Genesis",
       "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
       "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/SicarusIncarnonUnlocker"
+    },
+    {
+      "codexSecret": false,
+      "description": "Awaken this weapon's ability to unleash a chaotic maelstrom of bouncing corrosive blobs in Incarnon Form.",
+      "excludeFromCodex": true,
+      "name": "Stug Incarnon Genesis",
+      "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/StugIncarnonUnlocker"
     },
     {
       "codexSecret": false,
@@ -6474,6 +6514,30 @@
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "excludeFromCodex": true,
+      "name": "Scoria's Angel Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2AshShipInterior"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Kuva Wytch Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2GarShipInterior"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Pontis Tower Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileJS2Hub"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
       "name": "Stalker's Lair Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
       "uniqueName": "/Lotus/Types/Items/PhotoBooth/JadeShadows/PhotoboothTileStalkerCave"
@@ -8696,6 +8760,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A signifier of piloting the Railjack through the Steel Path.",
+      "name": "The Steel Path - Railjack",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyDeepSpaceBronze"
+    },
+    {
+      "codexSecret": false,
       "description": "A signifier of walking The Steel Path on Deimos",
       "name": "The Steel Path - Deimos",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -10410,6 +10481,13 @@
       "name": "Iradite Formation Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropIradite"
+    },
+    {
+      "codexSecret": false,
+      "description": "Keep sneaky little babies eternally safe with this Orokin-era bassinet for two.",
+      "name": "Twin Bassinet Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropJS2Crib"
     },
     {
       "codexSecret": false,
@@ -12922,7 +13000,6 @@
       "description": "A display featuring the Heretic of Xata, and the demon, Uriel. Art by EnergyFalcon (Salt).",
       "name": "Roathe and Uriel Community Display",
       "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
-      "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/ShipDecos/CommunityRoatheDisplay"
     },
     {
@@ -13904,6 +13981,29 @@
     },
     {
       "codexSecret": false,
+      "description": "Reality is merely a point of view in this lenticular display illustrating the conflict between what is and what could have been.",
+      "name": "Constellations Fusion Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2HunhowStare2in1Display"
+    },
+    {
+      "codexSecret": false,
+      "description": "Many problems can be solved by the ability to be in two places at once. Many other problems are created this way. Faint traces of Efervon imply the artist may have had a mechanical hand.",
+      "excludeFromCodex": true,
+      "name": "Cloning 101 Poster",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2MAshPoster"
+    },
+    {
+      "codexSecret": false,
+      "description": "For the expression of extremely normal and measured feelings toward the object of your affection. Faint traces of Efervon imply the artist may have had a mechanical hand.",
+      "excludeFromCodex": true,
+      "name": "Relationship Goals Poster",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JS2MGarudaPoster"
+    },
+    {
+      "codexSecret": false,
       "description": "A small Jack O'Naut Statue.",
       "name": "Jack O'Naut Statue",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -13915,6 +14015,28 @@
       "name": "Noggle Statue - Jackal",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/JackalBobbleHead"
+    },
+    {
+      "codexSecret": true,
+      "description": "This display celebrates the best of both worlds, and the worst of each. United or divided, they are two sides of the same whole.",
+      "name": "Stay Together Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2FightPoster"
+    },
+    {
+      "codexSecret": true,
+      "description": "This display honors Orion, the burning heart. Schooled in vengeance, the only love he knows is death.",
+      "name": "Orion Alone Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2OrionPoster"
+    },
+    {
+      "codexSecret": true,
+      "description": "This display honors Sirius, the lonely star. Raised in shadow. Trained with dignity.",
+      "excludeFromCodex": true,
+      "name": "Sirius Alone Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadows2SiriusPoster"
     },
     {
       "codexSecret": false,
@@ -14242,6 +14364,13 @@
     },
     {
       "codexSecret": false,
+      "description": "This drone eradicates dust and dirt with quiet efficiency.",
+      "name": "Bladeswarm Domestik Drone",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneAshGemini"
+    },
+    {
+      "codexSecret": false,
       "description": "Reinvented from the ground up, the Ki’Teer Domestik is a revolution in sanitation and style.",
       "name": "Domestik Ki'Teer Drone",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -14309,6 +14438,20 @@
       "name": "Domestik Dais Drone",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneDuviri"
+    },
+    {
+      "codexSecret": false,
+      "description": "This drone might leave the Orbiter's floors even more of a mess than it found them.",
+      "name": "Bloodfrenzy Domestik Drone",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneGarudaGemini"
+    },
+    {
+      "codexSecret": true,
+      "description": "Grineer cleaning technology: no less efficient than the Corpus, though significantly more obtrusive.",
+      "name": "Domestik Soag Drone",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneGrineer"
     },
     {
       "codexSecret": false,
@@ -14800,6 +14943,13 @@
       "name": "Sukshma Eleva",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropStep"
+    },
+    {
+      "codexSecret": false,
+      "description": "The exalted armaments of Styanax Prime, ready for place of pride in your Orbiter.",
+      "name": "Tharros & Axios Prime Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropStyanaxPrimeSpearShieldDeco"
     },
     {
       "codexSecret": false,
@@ -15945,6 +16095,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The Scions of Crimson and Emerald",
+      "name": "Sirius & Orion Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardSiriusOrion"
+    },
+    {
+      "codexSecret": false,
       "description": "Shield of the Innocent",
       "name": "Styanax Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -16598,6 +16755,21 @@
       "name": "Display - TennoCon 2025",
       "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025Display"
+    },
+    {
+      "codexSecret": true,
+      "description": "An otherworldly witch, Brewer of Hues. Inspired by the Lotus, she brewed and stitched an outfit befit. A Display designed by the community artist Luckygoblinnn.",
+      "excludeFromCodex": true,
+      "name": "Verminia Cosplay Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026CosplayDisplay"
+    },
+    {
+      "codexSecret": true,
+      "description": "Use this display to mark the arrival of TennoCon 2026.",
+      "name": "TennoCon 2026 Pin Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2026DigitalItemDisplay"
     },
     {
       "codexSecret": true,
@@ -17742,6 +17914,15 @@
     },
     {
       "codexSecret": false,
+      "description": "Jade Shadows: Constellations music to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Celestial Clash",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/CelestialClashSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "Sisters of Parvos login music to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "Sisters of Parvos Login Music",
@@ -18069,6 +18250,15 @@
     },
     {
       "codexSecret": false,
+      "description": "Jade Shadows: Constellations music to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Sacred Light",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/SacredLightSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "A custom song for Sevagoth Glaukus that plays when his Shadow is in combat. It can also be played on the Somachord in your Orbiter.",
       "name": "Sevagoth's Lullaby",
       "parentName": "/Lotus/Types/Game/SongItem",
@@ -18092,15 +18282,6 @@
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/TenthAnniversaryLoginSongItem"
-    },
-    {
-      "codexSecret": false,
-      "description": "",
-      "excludeFromCodex": true,
-      "name": "The Awakening",
-      "parentName": "/Lotus/Types/Game/SongItem",
-      "showInInventory": false,
-      "uniqueName": "/Lotus/Types/Items/SongItems/TheAwakeningSongItem"
     },
     {
       "codexSecret": false,
@@ -18189,6 +18370,14 @@
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Yareli Prime Theme 'Waverider'",
+      "name": "Yareli Prime Theme \"Waverider\"",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/YareliPrimeSongItem"
     },
     {
       "codexSecret": false,
@@ -18443,6 +18632,30 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/UnlockArbitrationKeyItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "A heavy token from Sirius' tortured future.\r\n\r\nSource: Support Ryoku against Vena (The Kuva Wytch, Uranus Proxima)",
+      "excludeFromCodex": true,
+      "name": "Emerald Talent",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/AshFavor"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weighty token from Orion's broken future. \r\n\r\nSource: Support Vena against Ryoku (Scoria's Angel, Uranus Proxima)",
+      "excludeFromCodex": true,
+      "name": "Crimson Talent",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/GarudaFavor"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Blueprint for an unidentified item. Perhaps some ancient piece of Old War decor.",
+      "excludeFromCodex": true,
+      "name": "Hunhow's Trinket",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/HunhowTrinketMiscItem"
     },
     {
       "codexSecret": true,
@@ -20816,6 +21029,27 @@
     },
     {
       "codexSecret": false,
+      "description": "Chassis component for the Sirius & Orion Warframe.",
+      "name": "Sirius & Orion Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component for the Sirius & Orion Warframe.",
+      "name": "Sirius & Orion Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component for the Sirius & Orion Warframe.",
+      "name": "Sirius & Orion Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SiriusOrionSystemsComponent"
+    },
+    {
+      "codexSecret": false,
       "description": "Chassis component of the Styanax Warframe.",
       "name": "Styanax Chassis",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -20827,6 +21061,30 @@
       "name": "Styanax Neuroptics",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Chassis component of the Styanax Prime Warframe.",
+      "name": "Styanax Prime Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxPrimeChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Styanax Prime Warframe.",
+      "name": "Styanax Prime Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxPrimeHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Styanax Prime Warframe.",
+      "name": "Styanax Prime Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxPrimeSystemsComponent"
     },
     {
       "codexSecret": false,
@@ -21379,6 +21637,30 @@
     {
       "codexSecret": false,
       "description": "A prime weapon-crafting component.",
+      "name": "Afentis Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Afentis Prime Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Afentis Prime Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
       "name": "Afuris Prime Barrel",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 15,
@@ -21832,6 +22114,22 @@
       "name": "Athodai Receiver",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPistolReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Athodai Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Athodai Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPrimeReceiver"
     },
     {
       "codexSecret": false,
@@ -23319,6 +23617,20 @@
     },
     {
       "codexSecret": false,
+      "description": "The blade component of the Wrath.",
+      "name": "Wrath Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/OrionScytheBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "The handle component of the Wrath.",
+      "name": "Wrath Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/OrionScytheHandle"
+    },
+    {
+      "codexSecret": false,
       "description": "A prime weapon-crafting component.",
       "name": "Pandero Prime Barrel",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -24192,6 +24504,20 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 15,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SilvaAegisPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "The blade component of the Pride.",
+      "name": "Pride Blade",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SiriusScytheBlade"
+    },
+    {
+      "codexSecret": false,
+      "description": "The handle component of the Pride.",
+      "name": "Pride Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SiriusScytheHandle"
     },
     {
       "codexSecret": false,
