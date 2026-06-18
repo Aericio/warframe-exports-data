@@ -9858,6 +9858,12 @@
     },
     {
       "codexSecret": true,
+      "description": "Stay hydrated, Tenno!",
+      "name": "Warframe x Madrinas Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMadrinas"
+    },
+    {
+      "codexSecret": true,
       "description": "A Glyph for your profile.",
       "name": "Mag in Action Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMagAction"

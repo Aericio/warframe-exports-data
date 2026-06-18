@@ -18636,7 +18636,6 @@
     {
       "codexSecret": false,
       "description": "A heavy token from Sirius' tortured future.\r\n\r\nSource: Support Ryoku against Vena (The Kuva Wytch, Uranus Proxima)",
-      "excludeFromCodex": true,
       "name": "Emerald Talent",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/AshFavor"
@@ -18644,7 +18643,6 @@
     {
       "codexSecret": false,
       "description": "A weighty token from Orion's broken future. \r\n\r\nSource: Support Vena against Ryoku (Scoria's Angel, Uranus Proxima)",
-      "excludeFromCodex": true,
       "name": "Crimson Talent",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/JadeShadowsPart2Mission/Gameplay/Resources/GarudaFavor"

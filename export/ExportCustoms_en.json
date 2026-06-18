@@ -15956,7 +15956,6 @@
     {
       "codexSecret": false,
       "description": "For that 'couldn't sleep, too wired' look.",
-      "excludeFromCodex": true,
       "name": "Amir's Hairstyle",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/Hair1999Volt"
     },
