@@ -14433,6 +14433,13 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneColorTwo"
     },
     {
+      "codexSecret": true,
+      "description": "This drone polishes the Orbiter's floors to luminous brilliance.",
+      "name": "Domestik Daybreak Drone",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneDaybreak"
+    },
+    {
       "codexSecret": false,
       "description": "Whether you’re a commoner or a king, this diligent drone will keep your home spotless.",
       "name": "Domestik Dais Drone",
@@ -16043,6 +16050,13 @@
       "name": "Lavos Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardLavos"
+    },
+    {
+      "codexSecret": true,
+      "description": "The notorious gunslinger.",
+      "name": "Mesa Heirloom Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardMesaHeirloom"
     },
     {
       "codexSecret": false,

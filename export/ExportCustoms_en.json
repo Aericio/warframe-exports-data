@@ -6001,6 +6001,31 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaDeluxeV2Skin"
     },
     {
+      "codexSecret": true,
+      "description": "Mesa Heirloom's signature Regulators.",
+      "name": "Mesa Heirloom Regulators Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomArmGunSkin"
+    },
+    {
+      "codexSecret": true,
+      "description": "Mesa Heirloom's signature helmet.",
+      "name": "Mesa Heirloom Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Mesa Heirloom's signature duster.",
+      "excludeFromCodex": true,
+      "name": "Mesa Heirloom Duster",
+      "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomPoncho"
+    },
+    {
+      "codexSecret": true,
+      "description": "The legendary gunslinger. The notorious heartbreaker. Better call the undertaker, 'cause Mesa Heirloom just sauntered into town.",
+      "name": "Mesa Heirloom Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomSkin"
+    },
+    {
       "codexSecret": false,
       "description": "The Immortal skin for the Mesa Warframe.",
       "name": "Mesa Immortal Skin",
@@ -6198,6 +6223,12 @@
       "description": "Mag Heirloom’s Signa lends a perfect touch of ancient armor.",
       "name": "Mag Heirloom Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomMagCrown"
+    },
+    {
+      "codexSecret": true,
+      "description": "Mesa Heirloom's signature signa reveals a dazzling hidden side to the vagabond enforcer.",
+      "name": "Mesa Heirloom Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomMesaCrown"
     },
     {
       "codexSecret": false,
@@ -6399,6 +6430,18 @@
       "description": "A staff skin that replicates the weapon carried by Dax Capsarii into battle as a symbol of hope for victory.",
       "name": "Tau Dax Staff Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxMageStaffSkin"
+    },
+    {
+      "codexSecret": true,
+      "description": "This skin for the Bubonico graces the Infestation with the light of day.",
+      "name": "Bubonico Daybreak Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Daybreak/DaybreakBubonicoSkin"
+    },
+    {
+      "codexSecret": true,
+      "description": "Visit brilliant wrath upon enemies with this skin for the Magistar.",
+      "name": "Magistar Daybreak Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Daybreak/DaybreakMagistarSkin"
     },
     {
       "codexSecret": false,
@@ -12854,6 +12897,12 @@
       "excludeFromCodex": true,
       "name": "Quaro Sugatra",
       "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/CorpusMeleeDangle"
+    },
+    {
+      "codexSecret": true,
+      "description": "This bright sugatra marks the last dawn your enemies will ever see.",
+      "name": "Daman Daybreak Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/DaybreakDamanMeleeDangle"
     },
     {
       "codexSecret": false,
@@ -23338,6 +23387,12 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TwitchPrimeScarf"
     },
     {
+      "codexSecret": true,
+      "description": "Bring the early light of Sol to this late-Orokin Dax Syandana.",
+      "name": "Dax Daybreak Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/UmbraDaxDaybreakSyandana"
+    },
+    {
       "codexSecret": false,
       "description": "Worn in battle and ceremony by late-Orokin Dax, this Syandana was seen as a symbol of power to all in the empire.",
       "name": "Dax Syandana",
@@ -25085,6 +25140,12 @@
       "description": "A sigil that celebrates Ember's legacy.",
       "name": "Ember Heirloom Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomEmberSigil"
+    },
+    {
+      "codexSecret": true,
+      "description": "Mesa Heirloom's sigil warns outlaws their time has come.",
+      "name": "Mesa Heirloom Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomMesaSigil"
     },
     {
       "codexSecret": true,
@@ -29263,6 +29324,12 @@
       "excludeFromCodex": true,
       "name": "Sevagoth Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Wraith/WraithSkin"
+    },
+    {
+      "codexSecret": true,
+      "description": "This skin for the Kompressa captures the first light of dawn across the ocean.",
+      "name": "Kompressa Daybreak Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Yareli/KompressaDaybreakSkin"
     },
     {
       "codexSecret": false,

@@ -3199,6 +3199,13 @@
       "codexSecret": false,
       "description": "An Honoria for your profile.",
       "excludeFromCodex": true,
+      "name": "On this Beach of an Earth Honoria",
+      "uniqueName": "/Lotus/Types/Items/Titles/DogDaysTitle"
+    },
+    {
+      "codexSecret": false,
+      "description": "An Honoria for your profile.",
+      "excludeFromCodex": true,
       "name": "Honoria",
       "uniqueName": "/Lotus/Types/Items/Titles/DuviriKingQuestTitle"
     },
@@ -8915,9 +8922,27 @@
     },
     {
       "codexSecret": true,
+      "description": "A community glyph by SpaceWaifu depicting Erra loathing his time at the beach.",
+      "name": "Community Dog Days Erra Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysErraGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by SpaceWaifu depicting Executioner Garesh celebrating his kill score.",
+      "name": "Community Dog Days Executioner Garesh Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysGareshGlyph"
+    },
+    {
+      "codexSecret": true,
       "description": "A community glyph by ChickenDrawsDogs depicting Hydroid diving for the win.",
       "name": "Community Dog Days Hydroid Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysHydroidGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by SpaceWaifu depicting Kela De Thaym enjoying the summer vibes.",
+      "name": "Community Dog Days Kela De Thaym Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysKelaGlyph"
     },
     {
       "codexSecret": true,
@@ -8930,6 +8955,12 @@
       "description": "A community glyph by ChickenDrawsDogs depicting Nova utilizing her abilities to win a Lob Blob fight.",
       "name": "Community Dog Days Nova Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysNovaGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "A community glyph by SpaceWaifu depicting Rusalka taking a break and enjoying a summer drink.",
+      "name": "Community Dog Days Rusalka Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysRusalkaGlyph"
     },
     {
       "codexSecret": true,
@@ -10895,6 +10926,12 @@
       "description": "A glyph that celebrates the Tenno’s loyalty and dedication.",
       "name": "Deca Heirloom Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomGlyph"
+    },
+    {
+      "codexSecret": true,
+      "description": "These guns don't miss.",
+      "name": "Mesa Heirloom Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomMesaGlyph"
     },
     {
       "codexSecret": true,
@@ -26542,6 +26579,284 @@
       ],
       "name": "Marshlands",
       "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerMarshlandsItemA"
+    },
+    {
+      "codexSecret": true,
+      "description": "A rodeo of colors honoring Mesa's legacy.",
+      "hexColours": [
+        {
+          "value": "0x00F1584A"
+        },
+        {
+          "value": "0x00F25D50"
+        },
+        {
+          "value": "0x00F26255"
+        },
+        {
+          "value": "0x00F2665A"
+        },
+        {
+          "value": "0x00F26B5E"
+        },
+        {
+          "value": "0x00F26F63"
+        },
+        {
+          "value": "0x00F27468"
+        },
+        {
+          "value": "0x00F2786D"
+        },
+        {
+          "value": "0x00F27D72"
+        },
+        {
+          "value": "0x00F28177"
+        },
+        {
+          "value": "0x00F2857C"
+        },
+        {
+          "value": "0x00F28A80"
+        },
+        {
+          "value": "0x00F28E85"
+        },
+        {
+          "value": "0x00F2938A"
+        },
+        {
+          "value": "0x00F2978F"
+        },
+        {
+          "value": "0x00C10808"
+        },
+        {
+          "value": "0x00C20C0C"
+        },
+        {
+          "value": "0x00C21010"
+        },
+        {
+          "value": "0x00C21313"
+        },
+        {
+          "value": "0x00C21717"
+        },
+        {
+          "value": "0x00C21B1B"
+        },
+        {
+          "value": "0x00C21F1F"
+        },
+        {
+          "value": "0x00C22323"
+        },
+        {
+          "value": "0x00C22727"
+        },
+        {
+          "value": "0x00C22B2B"
+        },
+        {
+          "value": "0x00C22F2F"
+        },
+        {
+          "value": "0x00C23232"
+        },
+        {
+          "value": "0x00C23636"
+        },
+        {
+          "value": "0x00C23A3A"
+        },
+        {
+          "value": "0x00C23E3E"
+        },
+        {
+          "value": "0x00443930"
+        },
+        {
+          "value": "0x0045392F"
+        },
+        {
+          "value": "0x0045382D"
+        },
+        {
+          "value": "0x0045362B"
+        },
+        {
+          "value": "0x00453529"
+        },
+        {
+          "value": "0x00453427"
+        },
+        {
+          "value": "0x00453324"
+        },
+        {
+          "value": "0x00453222"
+        },
+        {
+          "value": "0x00453120"
+        },
+        {
+          "value": "0x0045301E"
+        },
+        {
+          "value": "0x00171211"
+        },
+        {
+          "value": "0x00171110"
+        },
+        {
+          "value": "0x00171110"
+        },
+        {
+          "value": "0x0017100F"
+        },
+        {
+          "value": "0x0017100E"
+        },
+        {
+          "value": "0x00170F0E"
+        },
+        {
+          "value": "0x00170F0D"
+        },
+        {
+          "value": "0x00170E0C"
+        },
+        {
+          "value": "0x00170D0B"
+        },
+        {
+          "value": "0x00170D0B"
+        },
+        {
+          "value": "0x006C6C6C"
+        },
+        {
+          "value": "0x00707070"
+        },
+        {
+          "value": "0x00757575"
+        },
+        {
+          "value": "0x007A7A7A"
+        },
+        {
+          "value": "0x00808080"
+        },
+        {
+          "value": "0x00858585"
+        },
+        {
+          "value": "0x008A8A8A"
+        },
+        {
+          "value": "0x008F8F8F"
+        },
+        {
+          "value": "0x00949494"
+        },
+        {
+          "value": "0x00999999"
+        },
+        {
+          "value": "0x00D68A6C"
+        },
+        {
+          "value": "0x00D68565"
+        },
+        {
+          "value": "0x00D6805E"
+        },
+        {
+          "value": "0x00D67C58"
+        },
+        {
+          "value": "0x00D67751"
+        },
+        {
+          "value": "0x00D6724B"
+        },
+        {
+          "value": "0x00D66E45"
+        },
+        {
+          "value": "0x00D6693E"
+        },
+        {
+          "value": "0x00D66538"
+        },
+        {
+          "value": "0x00D66031"
+        },
+        {
+          "value": "0x00FD8800"
+        },
+        {
+          "value": "0x00FC8A08"
+        },
+        {
+          "value": "0x00FC8E0F"
+        },
+        {
+          "value": "0x00FC9117"
+        },
+        {
+          "value": "0x00FC951E"
+        },
+        {
+          "value": "0x00FC9826"
+        },
+        {
+          "value": "0x00FC9C2D"
+        },
+        {
+          "value": "0x00FC9F35"
+        },
+        {
+          "value": "0x00FCA33D"
+        },
+        {
+          "value": "0x00FCA644"
+        },
+        {
+          "value": "0x00F95D00"
+        },
+        {
+          "value": "0x00FA6008"
+        },
+        {
+          "value": "0x00FA650F"
+        },
+        {
+          "value": "0x00FA6A16"
+        },
+        {
+          "value": "0x00FA6F1E"
+        },
+        {
+          "value": "0x00FA7325"
+        },
+        {
+          "value": "0x00FA782D"
+        },
+        {
+          "value": "0x00FA7D34"
+        },
+        {
+          "value": "0x00FA823C"
+        },
+        {
+          "value": "0x00FA8643"
+        }
+      ],
+      "name": "Mesa Heirloom",
+      "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerMesaHeirloom"
     },
     {
       "codexSecret": false,
