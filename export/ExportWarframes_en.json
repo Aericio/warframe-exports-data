@@ -1003,7 +1003,7 @@
         {
           "abilityName": "Celestial Clash",
           "abilityUniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
-          "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\r\n\r\n|LEFT_ATTACK| Sirius attacks\r\n|RIGHT_ATTACK| Orion attacks\r\n\r\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row."
+          "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral |DAMAGE_TYPE| damage. Match the star's color to the Warframes color to gain increased Critical Chance.\r\n\r\n|LEFT_ATTACK| Sirius attacks\r\n|RIGHT_ATTACK| Orion attacks\r\n\r\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row."
         }
       ],
       "armor": 160,
@@ -1699,7 +1699,7 @@
       ],
       "armor": 290,
       "codexSecret": false,
-      "description": "Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
+      "description": "Command the ocean's fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
       "health": 270,
       "masteryReq": 0,
       "name": "Hydroid Prime",
@@ -2284,7 +2284,7 @@
       ],
       "armor": 135,
       "codexSecret": false,
-      "description": "Death's new master. Featuring altered mod polarities allow for greater customization.",
+      "description": "Death's new master. Featuring altered mod polarities for greater customization.",
       "health": 270,
       "masteryReq": 0,
       "name": "Nekros Prime",
@@ -3141,7 +3141,7 @@
       ],
       "armor": 185,
       "codexSecret": false,
-      "description": "Dazzle the opposition with this golden master of illusion and mayhem. Featuring altered mod polarities allow for greater customization.",
+      "description": "Dazzle the opposition with this golden master of illusion and mayhem. Featuring altered mod polarities for greater customization.",
       "health": 200,
       "masteryReq": 0,
       "name": "Mirage Prime",
@@ -4447,7 +4447,7 @@
       ],
       "armor": 1000,
       "codexSecret": false,
-      "description": "A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities allow for greater customization.",
+      "description": "A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities for greater customization.",
       "exalted": [
         "/Lotus/Powersuits/Berserker/BerserkerMeleePrime"
       ],
@@ -4910,7 +4910,7 @@
         {
           "abilityName": "Celestial Clash",
           "abilityUniqueName": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusOrionUltimateAbility",
-          "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral <DT_EXPLOSION_COLOR>Blast damage. Match the star's color to the Warframes color to gain increased Critical Chance.\r\n\r\n|LEFT_ATTACK| Sirius attacks\r\n|RIGHT_ATTACK| Orion attacks\r\n\r\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row."
+          "description": "Sirius & Orion take to the skies in a cosmic duel. Each attack consumes a Constellation Star to inflict colossal collateral |DAMAGE_TYPE| damage. Match the star's color to the Warframes color to gain increased Critical Chance.\r\n\r\n|LEFT_ATTACK| Sirius attacks\r\n|RIGHT_ATTACK| Orion attacks\r\n\r\nGenerate Constellation Stars by using abilities. No more than two stars of the same color can be added in a row."
         }
       ],
       "armor": 300,

@@ -898,6 +898,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Deploys a clone of the Surge Eximus to fight for you.",
+      "name": "Surge Eximus Specter",
+      "parentName": "/Lotus/Types/Game/SummonNpcItem",
+      "uniqueName": "/Lotus/Types/Restoratives/Consumable/SurgeEximusBall"
+    },
+    {
+      "codexSecret": false,
       "description": "Show the enemy how much you care with the adorable Eros Arrow skin.",
       "name": "Eros Arrow Skin",
       "parentName": "/Lotus/Types/Game/Restorative",
