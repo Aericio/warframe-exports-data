@@ -152,9 +152,105 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
+      "name": "Lith B12 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith B12 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith B12 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Lith B12 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
       "name": "Meso Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjection"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso I3 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso I3 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso I3 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso I3 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso V16 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso V16 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso V16 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Meso V16 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBSilver"
     },
     {
       "codexSecret": false,
@@ -168,9 +264,105 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
+      "name": "Neo P11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo P11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo P11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo P11 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultASilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo O4 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo O4 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo O4 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Neo O4 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBSilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
       "name": "Axi Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjection"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi A23 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjection",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi A23 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi A23 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "excludeFromCodex": true,
+      "name": "Axi A23 Relic",
+      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultASilver"
     },
     {
       "codexSecret": false,
