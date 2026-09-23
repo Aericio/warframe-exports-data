@@ -1120,14 +1120,14 @@
       "codexSecret": false,
       "description": "Become the very picture of regard with this Ki'Teer original armor.",
       "excludeFromCodex": true,
-      "name": "Ki’Teer Greth Chest Plate",
+      "name": "Ki'Teer Greth Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC"
     },
     {
       "codexSecret": false,
       "description": "Become the very picture of regard with this Ki'Teer original armor.",
       "excludeFromCodex": true,
-      "name": "Ki’Teer Greth Leg Plates",
+      "name": "Ki'Teer Greth Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL"
     },
     {
@@ -1466,6 +1466,24 @@
     },
     {
       "codexSecret": false,
+      "description": "With tassels that dance like snowflakes in the wind, these elegant clasps are worn by the people of Tethys to promote balance and harmony.",
+      "name": "Tidon Shoulder Medallion",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourA"
+    },
+    {
+      "codexSecret": false,
+      "description": "With tassels that dance like snowflakes in the wind, these elegant clasps are worn by the people of Tethys to promote balance and harmony.",
+      "name": "Tidon Chest Medallion",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourC"
+    },
+    {
+      "codexSecret": false,
+      "description": "With tassels that dance like snowflakes in the wind, these elegant clasps are worn by the people of Tethys to promote balance and harmony.",
+      "name": "Tidon Leg Medallion",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourL"
+    },
+    {
+      "codexSecret": false,
       "description": "Stride into the fray with fractal elegance.",
       "name": "Aesopex Shoulder Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/DuvArmor/DuvArmorA"
@@ -1481,6 +1499,30 @@
       "description": "Stride into the fray with fractal elegance.",
       "name": "Aesopex Leg Plates",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/DuvArmor/DuvArmorL"
+    },
+    {
+      "codexSecret": false,
+      "description": "Salvaged and refitted Necramech parts, a testament to House Entrati's masterful designs.",
+      "name": "Contegorus Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Salvaged and refitted Necramech parts, a testament to House Entrati's masterful designs.",
+      "name": "Contegorus Chest Plate",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Salvaged and refitted Necramech parts, a testament to House Entrati's masterful designs.",
+      "name": "Contegorus Greaves",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoL"
+    },
+    {
+      "codexSecret": false,
+      "description": "An unnervingly familiar shoulder plate that calls to mind the regalia of a doomed court.",
+      "name": "Eskhatos Pauldrons",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/EvilBaroArmour/EvilBaroArmourA"
     },
     {
       "codexSecret": false,
@@ -2088,6 +2130,24 @@
       "excludeFromCodex": true,
       "name": "Mulciber Knee Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorL"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dazzle the eye with the iridescent flames of this armor set.",
+      "name": "Opula Shoulder Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Opula/OpulaArmorA"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dazzle the eye with the iridescent flames of this armor set.",
+      "name": "Opula Chest Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Opula/OpulaArmorC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Dazzle the eye with the iridescent flames of this armor set.",
+      "name": "Opula Leg Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Armor/Opula/OpulaArmorL"
     },
     {
       "codexSecret": false,
@@ -3673,14 +3733,12 @@
     {
       "codexSecret": false,
       "description": "Default chest armor for Ember Pyraxis.",
-      "excludeFromCodex": true,
       "name": "Ember Pyraxis Chest Plate",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/EmberDeluxeIIChestArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Ember Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Ember Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/EmberPrimeArmArmor"
     },
@@ -3694,49 +3752,42 @@
     {
       "codexSecret": false,
       "description": "Default armor set for the Frost Warframe.",
-      "excludeFromCodex": true,
       "name": "Frost Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Frost Warframe, designed by Hitsu San.",
-      "excludeFromCodex": true,
       "name": "Frost Emperor Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostEmperorArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Frost Warframe, designed by Faven.",
-      "excludeFromCodex": true,
       "name": "Frost Grost Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostGrostArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Frost Heirloom Skin.",
-      "excludeFromCodex": true,
       "name": "Frost Heirloom Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostHeirloomArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Frost Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Frost Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostPrimeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Don the morphic material created in the Zariman Void Jump. The material manifests chemical structures from liquid to stone.",
-      "excludeFromCodex": true,
       "name": "Frost Voidshell Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostVoidshellArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Gyre Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Gyre Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/GyrePrimeArmArmor"
     },
@@ -3750,7 +3801,6 @@
     {
       "codexSecret": false,
       "description": "Default armor for the Hydroid Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Hydroid Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/HydroidPrimeArmArmor"
     },
@@ -3764,35 +3814,30 @@
     {
       "codexSecret": false,
       "description": "Default armor set for the Lavos Warframe.",
-      "excludeFromCodex": true,
       "name": "Lavos Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/LavosArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Lavos Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Lavos Prime Shoulder Guard",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/LavosPrimeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Mag Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Mag Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/MagPrimeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Oberon Warframe.",
-      "excludeFromCodex": true,
       "name": "Oberon Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/OberonArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor for the Oberon Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Oberon Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/OberonPrimeArmArmor"
     },
@@ -3806,21 +3851,18 @@
     {
       "codexSecret": false,
       "description": "Default armor set for the Revenant Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Revenant Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/RevenantPrimeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Banshee Warframe, designed by BeastBuster.",
-      "excludeFromCodex": true,
       "name": "Banshee Blade of the Lotus Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWBansheeBotLArmLeftArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Frost Warframe, designed by Rekkou.",
-      "excludeFromCodex": true,
       "name": "Frost Strigid Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWFrostStrigidArmArmor"
     },
@@ -3834,7 +3876,6 @@
     {
       "codexSecret": false,
       "description": "A unique armor for the Frost Warframe, designed by Yatus.",
-      "excludeFromCodex": true,
       "name": "Frost Ion Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWIonFrostArmArmor"
     },
@@ -3861,28 +3902,24 @@
     {
       "codexSecret": false,
       "description": "A unique armor for the Oberon Warframe, designed by BeastBuster.",
-      "excludeFromCodex": true,
       "name": "Oberon Blade of the Lotus Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWOberonBotLArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Oberon Warframe, designed by Vulbjorn.",
-      "excludeFromCodex": true,
       "name": "Oberon Wendigo Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWOberonWendigoArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Oberon Warframe, designed by Hitsu San.",
-      "excludeFromCodex": true,
       "name": "Oberon Youkai Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWOberonYoukaiArmArmor"
     },
     {
       "codexSecret": false,
       "description": "A unique armor for the Banshee Warframe, designed by prosetisen.",
-      "excludeFromCodex": true,
       "name": "Banshee Sonority Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWSonorityArmLeftArmor"
     },
@@ -3902,35 +3939,30 @@
     {
       "codexSecret": false,
       "description": "Default armor set for the Volt Warframe.",
-      "excludeFromCodex": true,
       "name": "Volt Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VoltArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Volt Voidshell Skin.",
-      "excludeFromCodex": true,
       "name": "Volt Voidshell Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VoltChameleonArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Volt Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Volt Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VoltPrimeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Voruna Medeina Skin.",
-      "excludeFromCodex": true,
       "name": "Voruna Medeina Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VorunaDeluxeArmArmor"
     },
     {
       "codexSecret": false,
       "description": "Default armor set for the Voruna Prime Warframe.",
-      "excludeFromCodex": true,
       "name": "Voruna Prime Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/VorunaPrimeArmArmor"
     },
@@ -3944,7 +3976,6 @@
     {
       "codexSecret": false,
       "description": "Don the morphic material created in the Zariman Void Jump. The material manifests chemical structures from liquid to stone.",
-      "excludeFromCodex": true,
       "name": "Voruna Voidshell Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/WerewolfVoidshellArmArmor"
     },
@@ -4970,7 +5001,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Affirm Jade’s sacred nature.",
+      "description": "Affirm Jade's sacred nature.",
       "name": "Jade Aureolt Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Choir/ChoirAltHelmet"
     },
@@ -5005,6 +5036,18 @@
       "description": "The Immortal Skin for the Jade Warframe.",
       "name": "Jade Immortal Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Choir/JadeImmortalSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique helmet for the Jade Warframe, designed by blazingcobalt.",
+      "name": "Jade Coven Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Choir/SWCovenJadeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique skin for the Jade Warframe, designed by blazingcobalt.",
+      "name": "Jade Coven Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Choir/SWCovenJadeSkin"
     },
     {
       "codexSecret": false,
@@ -5331,6 +5374,18 @@
       "excludeFromCodex": true,
       "name": "Gargoyle's Cry Emblem",
       "uniqueName": "/Lotus/Upgrades/Skins/Clan/EntratiEventEmblemItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Bear the visage of the Eris killer as an emblem of your dedication to Epoch Operation: Taubound.",
+      "name": "Epoch Operation Vessel Emblem",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/EpochOperationEmblemItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "This forbidding sekhara marks the wearer as one touched by echoes of the future.",
+      "name": "Eskhatos Sekhara",
+      "uniqueName": "/Lotus/Upgrades/Skins/Clan/EvilBaroHaloBadgeItem"
     },
     {
       "codexSecret": false,
@@ -5846,6 +5901,24 @@
     },
     {
       "codexSecret": false,
+      "description": "The Mandonel archgun, chiseled from the same ancient stone as Qorvex Basilica.",
+      "name": "Mandonel Chythedra Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/QorvexDeluxeArchGunSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "Qorvex Basilica's signature helmet.",
+      "name": "Qorvex Basilica Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/QorvexDeluxeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Avert the gaze of evildoers with the intricately carved spires of Qorvex Basilica. His grim shadow is a symbol of protection for his allies.",
+      "name": "Qorvex Basilica Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/QorvexDeluxeSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique helmet for the Qorvex Warframe, designed by Noxxr and Lubox.",
       "name": "Qorvex Sarcophago Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/SWQorvexSarcophagoHelmet"
@@ -6015,7 +6088,6 @@
     {
       "codexSecret": false,
       "description": "Mesa Heirloom's signature duster.",
-      "excludeFromCodex": true,
       "name": "Mesa Heirloom Duster",
       "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/MesaHeirloomPoncho"
     },
@@ -6196,6 +6268,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A circlet from ancient times, its ornamentation signifying wisdom and strength.",
+      "name": "Isageum Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/DuelistCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "A bloodstained gaze washes all in red.",
       "name": "Karotic Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/GarudaBloodCrown"
@@ -6298,15 +6376,33 @@
     },
     {
       "codexSecret": false,
+      "description": "Support the Princess Margaret Cancer Foundation Quest with this playful set of Kavat ears.",
+      "name": "Conquera Cateura Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/QTCCCatSignaCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique signa for your Warframe, designed by Lubox.",
       "name": "Centurio Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWCenturioSignaCrown"
     },
     {
       "codexSecret": false,
+      "description": "A unique signa for your Warframe, designed by malaya, Jadie, & Awk'Q-Luz.",
+      "name": "Gothica Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWGothicaSignaCrown"
+    },
+    {
+      "codexSecret": false,
       "description": "A unique signa for your Warframe, designed by Ventralhound.",
       "name": "Pragmatica Signa",
       "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWSignaPragmaticaCrown"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique signa for your Warframe, designed by Travelling Merchant & Theriondrek.",
+      "name": "Vermis Signa",
+      "uniqueName": "/Lotus/Upgrades/Skins/Crowns/SWVermisSignaCrown"
     },
     {
       "codexSecret": false,
@@ -6415,7 +6511,7 @@
     },
     {
       "codexSecret": false,
-      "description": "This Dax skin for the Grattler archgun retracts firing rings down its exposed barrel while attached handles keep the wielder’s hands clear.",
+      "description": "This Dax skin for the Grattler archgun retracts firing rings down its exposed barrel while attached handles keep the wielder's hands clear.",
       "name": "Tau Dax Grattler Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Dax/DaxArchgunSkin"
     },
@@ -6584,9 +6680,26 @@
     {
       "codexSecret": false,
       "description": "Shoulder armor matching the Banshee Soprana Skin.",
-      "excludeFromCodex": true,
       "name": "Banshee Soprana Shoulder Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeDeluxeArmLeftArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "Default armor for Banshee Threnodia.",
+      "name": "Banshee Threnodia Shoulder Armor",
+      "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeDeluxeBArmLeftArmor"
+    },
+    {
+      "codexSecret": false,
+      "description": "Banshee Threnodia's signature helmet.",
+      "name": "Banshee Threnodia Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeDeluxeBHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "Banshee Threnodia's stark visage is an inexorable omen of death. Her mournful apparition brings despair to the wicked, her song the dirge of defeat.",
+      "name": "Banshee Threnodia Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeDeluxeBSkin"
     },
     {
       "codexSecret": false,
@@ -6623,7 +6736,6 @@
     {
       "codexSecret": false,
       "description": "Don with morphic material created in the Zariman Void Jump. The material manifests chemical structures from liquid to stone.",
-      "excludeFromCodex": true,
       "name": "Banshee Voidshell Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeVoidShellArmLeftArmor"
     },
@@ -7064,7 +7176,6 @@
     {
       "codexSecret": false,
       "description": "Wings to match the Chroma Dynasty skin.",
-      "excludeFromCodex": true,
       "name": "Chroma Dynasty Wings",
       "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaDeluxeWings"
     },
@@ -7190,6 +7301,39 @@
       "description": "Replaces the edges of the Dual Zoren with multiple Rubedo blades.",
       "name": "Dual Zoren Dagger-Axe Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/DualAxe/DaggerAxe"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Agile Animation Set for Narin.",
+      "excludeFromCodex": true,
+      "name": "Narin Agile Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Duelist/DuelistAgileAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "This alternate helmet for Narin evokes an otherworldly flower of frost, accentuating her finesse and grace.",
+      "name": "Narin Baridegi Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Duelist/DuelistAltHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue helmet for the Narin Warframe.",
+      "name": "Narin Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Duelist/DuelistHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Noble Animation Set for Narin.",
+      "excludeFromCodex": true,
+      "name": "Narin Noble Animation Set",
+      "uniqueName": "/Lotus/Upgrades/Skins/Duelist/DuelistNobleAnims"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Narin Warframe.",
+      "excludeFromCodex": true,
+      "name": "Narin Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Duelist/DuelistSkin"
     },
     {
       "codexSecret": false,
@@ -7332,6 +7476,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Wear this streaming ephemera as a symbol of support of the Princess Margaret Cancer Foundation Quest.",
+      "name": "Conquera III Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/Conquera2026Ephemera"
+    },
+    {
+      "codexSecret": false,
       "description": "Wear this Ribbon Ephemera as a symbol of support in the Quest to Conquer Cancer.",
       "name": "Conquera Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/ConqueraEphemera"
@@ -7403,6 +7553,18 @@
       "excludeFromCodex": true,
       "name": "Dog Days Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/DogDaysEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "May a chill descend upon you with the frozen embrace of Narin's signature ephemera.",
+      "name": "Gangrim Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/DuelistEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "Call on a frosty spirit to swirl around you.",
+      "name": "Seonang Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/DuelistSpiritEphemera"
     },
     {
       "codexSecret": false,
@@ -7726,6 +7888,12 @@
       "description": "A temporal wave surrounds you.",
       "name": "Temporal Prime Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/ProteaPrimeEphemera"
+    },
+    {
+      "codexSecret": false,
+      "description": "Beckon Qorvex Basilica's fluttering fellows to your side with his signature ephemera.",
+      "name": "Belfri Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/QorvexDeluxeEphemera"
     },
     {
       "codexSecret": false,
@@ -8584,7 +8752,6 @@
     {
       "codexSecret": false,
       "description": "Wings outstretched with malicious grace.",
-      "excludeFromCodex": true,
       "name": "Titania Moyturan Wings",
       "uniqueName": "/Lotus/Upgrades/Skins/Fairy/TitaniaDeluxeIIAuxWings"
     },
@@ -8664,7 +8831,7 @@
     },
     {
       "codexSecret": false,
-      "description": "From winter’s forest a dark warrior emerges to protect his flock.",
+      "description": "From winter's forest a dark warrior emerges to protect his flock.",
       "name": "Frost Harka Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostDeluxeSuit"
     },
@@ -9141,6 +9308,19 @@
     },
     {
       "codexSecret": false,
+      "description": "The standard issue helmet for the Citrine Prime Warframe.",
+      "name": "Citrine Prime Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrinePrimeHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "The standard issue skin for the Citrine Prime Warframe.",
+      "excludeFromCodex": true,
+      "name": "Citrine Prime Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrinePrimeSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "The Agile Animation Set for Citrine.",
       "excludeFromCodex": true,
       "name": "Citrine Agile Animation Set",
@@ -9184,6 +9364,12 @@
       "description": "A unique skin for the Citrine Warframe, designed by malaya, Awk'Q-Luz, and Jadie.",
       "name": "Citrine Celestis Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Geode/SWCitrineCelestisSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "A helmet for the Citrine Warframe, designed by Ventralhound.",
+      "name": "Citrine Heliotropia Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/SWCitrineHeliotropiaHelmet"
     },
     {
       "codexSecret": false,
@@ -10546,7 +10732,6 @@
     {
       "codexSecret": false,
       "description": "Styanax Tonatiuh's signature embellishments.",
-      "excludeFromCodex": true,
       "name": "Styanax Tonatiuh Embellishments",
       "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/StyanaxDeluxeAuxChest"
     },
@@ -10655,7 +10840,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The might of the Kaithe rider is expressed through the Sviari Chamfron’s sharp horns.",
+      "description": "The might of the Kaithe rider is expressed through the Sviari Chamfron's sharp horns.",
       "name": "Sviari Chamfron",
       "uniqueName": "/Lotus/Upgrades/Skins/Horse/ErsatzHorseHelmetA"
     },
@@ -10884,7 +11069,7 @@
     {
       "codexSecret": false,
       "description": "Scrawl art designed by the Ventkids to customize your K-Drive.",
-      "name": "Roots n’ Fruits",
+      "name": "Roots n' Fruits",
       "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerNokkoA"
     },
     {
@@ -11078,7 +11263,6 @@
     {
       "codexSecret": false,
       "description": "The signature vipaza of Nidus Phryke.",
-      "excludeFromCodex": true,
       "name": "Reshef Vipaza",
       "uniqueName": "/Lotus/Upgrades/Skins/Infestation/NidusDeluxeHipCloth"
     },
@@ -11970,7 +12154,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts.",
+      "description": "Drahks are outfitted with this armor for the Queens' royal prisoner hunts.",
       "name": "Kuva Kubrow Armor",
       "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/GrineerQueenArmor"
     },
@@ -12954,6 +13138,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This intricately knotted sugatra may have adorned the weapons of the Queen's Guard in a not-so-distant future.",
+      "name": "Eskhatos Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/EvilBaroSugatraMeleeDangle"
+    },
+    {
+      "codexSecret": false,
       "description": "During the height of the Old War, Tenno raiders used these flaming sugatras to intimidate and distract enemies.",
       "name": "Pyra Sugatra",
       "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/FireMeleeDangle"
@@ -13085,6 +13275,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Adorn your weapon with the splendence of Citrine Prime's signature sugatra.",
+      "name": "Alumeti Prime Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeCitrineSugatra"
+    },
+    {
+      "codexSecret": false,
       "description": "Hook these silvery sleek sugatra onto any blade.",
       "name": "Sardin Prime Sugatra",
       "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeDangleEMeleeDangle"
@@ -13100,6 +13296,12 @@
       "description": "A rare jewel from the old empire. Daman Sugatra Prime is crafted from some of the most scarce resources in the System.",
       "name": "Daman Prime Sugatra",
       "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A hallowed nightmare of a sugatra.",
+      "name": "Jack O'Naut Keychain Sugatra",
+      "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PumpkinMeleeDangle"
     },
     {
       "codexSecret": false,
@@ -13455,7 +13657,7 @@
     {
       "codexSecret": false,
       "description": "Just try to be as cool as Ollie with this signature Atomicycle livery.",
-      "name": "Ollie’s Rocket Livery",
+      "name": "Ollie's Rocket Livery",
       "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleOllieSkin"
     },
     {
@@ -13544,6 +13746,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This Mausolon skin eschews Entrati's design in favor of an even more ominous one of unknown provenance.",
+      "name": "Eskhatos Mausolon Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/EvilBaroMausolonSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Bring a touch of the Necralisk to this Archwing weapon.",
       "name": "Cortege Supulchrax Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventCortegeSkin"
@@ -13559,6 +13767,18 @@
       "description": "Bring a touch of the Necralisk to this Archwing weapon.",
       "name": "Morgha Supulchrax Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventMorghaSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This Necramech helmet is derived from models that fought amongst dying stars.",
+      "name": "Eschatos Necramech Helmet",
+      "uniqueName": "/Lotus/Upgrades/Skins/Necramech/EvilBaroNecramechHelmet"
+    },
+    {
+      "codexSecret": false,
+      "description": "This Necramech skin is derived from models that fought amongst dying stars.",
+      "name": "Eskhatos Necramech Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Necramech/EvilBaroNecramechSkin"
     },
     {
       "codexSecret": false,
@@ -13713,7 +13933,6 @@
     {
       "codexSecret": false,
       "description": "The signature binds of Nekros Irkalla.",
-      "excludeFromCodex": true,
       "name": "Nekros Irkalla Binds",
       "uniqueName": "/Lotus/Upgrades/Skins/Necro/NekrosDeluxeDangles"
     },
@@ -14398,7 +14617,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Put a new face on fashion with this bold new Ki’Teer design.",
+      "description": "Put a new face on fashion with this bold new Ki'Teer design.",
       "name": "Ki'Teer Cornu Diadem",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/BaroHorn"
     },
@@ -14444,6 +14663,24 @@
       "description": "A fashionable accessory.",
       "name": "Yakini Diadem",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CircletLaurel"
+    },
+    {
+      "codexSecret": false,
+      "description": "Look sharp with this lavish set of facial accessories for both the Drifter and Operator.",
+      "name": "Spinele Prime Earpiece",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CitrinePrimeEarpiece"
+    },
+    {
+      "codexSecret": false,
+      "description": "Look sharp with this lavish set of facial accessories for both the Drifter and Operator.",
+      "name": "Spinele Prime Oculus",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CitrinePrimeEyepiece"
+    },
+    {
+      "codexSecret": false,
+      "description": "Look sharp with this lavish set of facial accessories for both the Drifter and Operator.",
+      "name": "Spinele Prime Facial Accessory",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CitrinePrimeMouthPiece"
     },
     {
       "codexSecret": false,
@@ -14921,6 +15158,12 @@
     },
     {
       "codexSecret": false,
+      "description": "A custom Operator Amp skin extensively modified by House Entrati.",
+      "name": "Vacis Amp Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Amp/EntratiAmpSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "This sleek amp skin is a masterstroke of craftsmanship.",
       "name": "Tempera Amp Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Amp/InkSiroccoAmpSkin"
@@ -15224,6 +15467,20 @@
       "excludeFromCodex": true,
       "name": "",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Beards/BeardC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Facial hair for Drifter.",
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Beards/BeardD"
+    },
+    {
+      "codexSecret": false,
+      "description": "Facial hair for Drifter.",
+      "excludeFromCodex": true,
+      "name": "",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Beards/BeardE"
     },
     {
       "codexSecret": false,
@@ -16281,102 +16538,119 @@
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion C-24",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoA"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion D-58",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoB"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion E-92",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoC"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion F-36",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoD"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion G-34",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoE"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion H-43",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoF"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion I-29",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoG"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion J-90",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoH"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion K-23",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoI"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion L-77",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoJ"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion N-5",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoK"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion O-93",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoM"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion P-9",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoN"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion Q-40",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoQ"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion R-10",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoR"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion S-33",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoS"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion T-68",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultAlbedoT"
@@ -16594,6 +16868,7 @@
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion M-3",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AdultLegacyAlbedo"
@@ -16691,126 +16966,147 @@
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion C-24",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoA"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion D-58",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoB"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion E-92",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoC"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion F-36",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoD"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion G-34",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoE"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion H-43",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoF"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion I-29",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoG"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion J-90",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoH"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion K-23",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoI"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion L-77",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoJ"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion N-5",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoK"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion O-93",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoM"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion P-9",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoN"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion Q-40",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoQ"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion R-10",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoR"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion S-33",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoS"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion T-68",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/AlbedoT"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion A-92",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoA"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion B-17",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoB"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion A-92",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoA"
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion B-17",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoB"
@@ -17028,6 +17324,7 @@
     },
     {
       "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
       "name": "Complexion M-2",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/LegacyAlbedo"
@@ -17635,14 +17932,14 @@
     },
     {
       "codexSecret": false,
-      "description": "A hood from the only lunatic fearsome enough to have escaped the Saturn Six Max-Pen.",
+      "description": "A hood from the only lunatic fearsome enough to have escaped the Saturn Six Max-Pen. Fitted for Drifter and Operator.",
       "excludeFromCodex": true,
       "name": "Wolf Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/WolfHood"
     },
     {
       "codexSecret": false,
-      "description": "A hood from the only lunatic fearsome enough to have escaped the Saturn Six Max-Pen.",
+      "description": "A hood from the only lunatic fearsome enough to have escaped the Saturn Six Max-Pen. Fitted for Drifter and Operator.",
       "name": "Wolf Hood",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/WolfHoodAdult"
     },
@@ -19737,6 +20034,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This nefarious parazon model bears the marks of battle, Void travel, or both.",
+      "name": "Eskhatos Parazon Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Parazon/EvilBaroParazonSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "This Parazon model was gifted to the first Warframe Railjack crews.",
       "name": "Sigma Series Parazon Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Parazon/TnRailjackDataKnife"
@@ -20464,8 +20767,8 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Void/VastoVoidSkin"
     },
     {
-      "codexSecret": true,
-      "description": "With it’s constantly shifting finish of polished cloud-stone, the Paris Abra Skin is sure to impress.",
+      "codexSecret": false,
+      "description": "With it's constantly shifting finish of polished cloud-stone, the Paris Abra Skin is sure to impress.",
       "name": "Paris Abra Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Promo/Warframe/PromoParis"
     },
@@ -21395,7 +21698,6 @@
     {
       "codexSecret": false,
       "description": "Show Rhino Heirloom's Iron Skin look when the ability is triggered.",
-      "excludeFromCodex": true,
       "name": "Heirloom Iron Skin Override",
       "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoIronSkinHeirloom"
     },
@@ -22010,7 +22312,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Flaunt your impeccable taste in a Ki’Teer original syandana.",
+      "description": "Flaunt your impeccable taste in a Ki'Teer original syandana.",
       "excludeFromCodex": true,
       "name": "Ki'Teer Straed Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/BaroCape3Scarf"
@@ -22122,6 +22424,18 @@
       "description": "Once worn exclusively by Orokin Judiciary, the Yamako Syandana is a symbol of wisdom and authority.",
       "name": "Yamako Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DinoSpikeScarf"
+    },
+    {
+      "codexSecret": false,
+      "description": "Own the night with this sinister syandana.",
+      "name": "Dhampyre Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DraculaCapeSyandana"
+    },
+    {
+      "codexSecret": false,
+      "description": "The wish for a long life is carried upon the noble wings of Narin's signature syandana. ",
+      "name": "Durumi Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/DuelistSyandana"
     },
     {
       "codexSecret": false,
@@ -22666,6 +22980,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Citrine Prime's signature Syandana sparkles with a brilliant luster.",
+      "name": "Sphatika Prime Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeCitrineSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "A ceremonial version of the Pyra that drapes the entire back in a cape of flames.",
       "name": "Pyra Prime Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeFlameScarf"
@@ -22804,8 +23124,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Qorvex Basilica's signature syandana perches on your shoulders, keeping a sharp eye over all.",
+      "name": "Garkulek Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/QorvexDeluxeSyandana"
+    },
+    {
+      "codexSecret": false,
       "description": "Khora's standard back spikes.",
-      "excludeFromCodex": true,
       "name": "Khora's Spikes",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/QuillCanistersSyandana"
     },
@@ -23108,6 +23433,12 @@
       "description": "A syandana for your Warframe, designed by blazingcobalt and Ritens.",
       "name": "Rau Syandana",
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRauSyandana"
+    },
+    {
+      "codexSecret": false,
+      "description": "A unique syandana for your Warframe, designed by lex182 & Therion.",
+      "name": "Reliquia Syandana",
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWReliquiaSyandana"
     },
     {
       "codexSecret": false,
@@ -23864,6 +24195,12 @@
     },
     {
       "codexSecret": false,
+      "description": "An eerily twisted mask attachment for your sentinel pet.",
+      "name": "Gast Sentinel Mask",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/BansheeDlxSentMask"
+    },
+    {
+      "codexSecret": false,
       "description": "A mask designed to match the one worn by Baro Ki'Teer, for your Sentinel pet.",
       "excludeFromCodex": true,
       "name": "Ki'Teer Sentinel Mask",
@@ -24143,6 +24480,12 @@
     },
     {
       "codexSecret": false,
+      "description": "An eerily twisted skin for your sentinel pet.",
+      "name": "Gast Sentinel Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/BansheeDlxSentSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Desert camouflage skin for the Taxon Sentinel.",
       "name": "Taxon Desert-Camo Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/DesertTaxonSkin"
@@ -24194,6 +24537,12 @@
       "description": "Your sentinel embodies the jellyfish and its deadly sting with this deluxe skin set.",
       "name": "Scyph Diriga Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/TnHydroidDlxSentSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "An eerily twisted tail attachment for your sentinel pet.",
+      "name": "Gast Sentinel Tail",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/BansheeDlxSentTail"
     },
     {
       "codexSecret": false,
@@ -24349,6 +24698,12 @@
       "excludeFromCodex": true,
       "name": "Verv Sentrex Sentinel Tail",
       "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/TwitchSentTail"
+    },
+    {
+      "codexSecret": false,
+      "description": "Eerily twisted wing attachments for your sentinel pet.",
+      "name": "Gast Sentinel Wings",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/BansheeDlxSentWings"
     },
     {
       "codexSecret": false,
@@ -25290,6 +25645,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Proclaim your participation in the death of Eris and Epoch Operation: Taubound with this sigil.",
+      "name": "Taubound Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EpochOperationSigil"
+    },
+    {
+      "codexSecret": false,
       "description": "This sigil commemorates the Tenno victory over the machinations of Alad V and his Amalgam Project.",
       "name": "Hostile Mergers Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmalgam"
@@ -25412,6 +25773,13 @@
       "description": "This sigil belongs to one of the founding masters of the Tenno.",
       "name": "Master Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster"
+    },
+    {
+      "codexSecret": false,
+      "description": "The ice is here, the ice is there, the ice is all around with this full-body sigil.",
+      "excludeFromCodex": true,
+      "name": "Glacium Sigil",
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FrozenSigil"
     },
     {
       "codexSecret": false,
@@ -25549,7 +25917,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A sigil depicting Jade’s Ophanim gaze.",
+      "description": "A sigil depicting Jade's Ophanim gaze.",
       "name": "Jade Ophanim Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/JadeSigil"
     },
@@ -25579,7 +25947,7 @@
     },
     {
       "codexSecret": false,
-      "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia’s signature sigil.",
+      "description": "The touch of alchemy leaves its mark, permeating the entire body. Lavos Khymia's signature sigil.",
       "name": "Vaporis Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LavosDeluxeSigil"
     },
@@ -26546,7 +26914,7 @@
     },
     {
       "codexSecret": true,
-      "description": "From Baro Ki’Teer comes this stylish reimagining of the legendary king, Dominus Thrax.",
+      "description": "From Baro Ki'Teer comes this stylish reimagining of the legendary king, Dominus Thrax.",
       "name": "Prisma Thrax Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ThraxSigil"
     },
@@ -26588,7 +26956,7 @@
     },
     {
       "codexSecret": true,
-      "description": "From Baro Ki’Teer comes this stylish reimagining of the infamous Captain Vor.",
+      "description": "From Baro Ki'Teer comes this stylish reimagining of the infamous Captain Vor.",
       "name": "Prisma Vor Sigil",
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/VorDuviriSigil"
     },
@@ -28191,14 +28559,12 @@
     {
       "codexSecret": false,
       "description": "Vauban Heirloom's signature overcoat.",
-      "excludeFromCodex": true,
       "name": "Vauban Heirloom Overcoat",
       "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomAux"
     },
     {
       "codexSecret": false,
       "description": "Vauban Heirloom’s signature overcoat without sleeves.",
-      "excludeFromCodex": true,
       "name": "Vauban Heirloom Sleeveless Overcoat",
       "uniqueName": "/Lotus/Upgrades/Skins/Trapper/VaubanHeirloomAuxSleeveless"
     },
@@ -28837,6 +29203,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The dual fang-blades of the Archon Amar, now frozen solid with chilling wrath.",
+      "name": "Niveus Nepheri Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Daggers/ArchonDaggerDuelistSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "This Karyst skin bears the markings of a long forgotten assassin's order, the Scoria.",
       "name": "Bladeswarm Karyst Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Daggers/AshGeminiDaggerSkin"
@@ -28855,9 +29227,21 @@
     },
     {
       "codexSecret": false,
+      "description": "The icy glint of this Orvius skin stops enemies in their tracks.",
+      "name": "Niveus Orvius Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Glaives/TeshinGlaiveDuelistSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Give the Xoris a dose of old world class with this bronzed Elixis skin.",
       "name": "Xoris Elixis Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Glaives/XorisExilisSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Sentient slayer, veiled in glittering ice.",
+      "name": "Niveus Paracesis Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/GreatSword/BallasSwordDuelistSkin"
     },
     {
       "codexSecret": false,
@@ -28945,6 +29329,12 @@
     },
     {
       "codexSecret": false,
+      "description": "The glacial cold of the Glaxion freeze ray is now reflected on its exterior.",
+      "name": "Niveus Glaxion Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/CrpFreezeRayDuelistSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "A bloodthirsty Nagantaka skin for those who prefer to use a crossbow at close range.",
       "name": "Bloodfrenzy Nagantaka Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/GarudaGeminiNagantakaSkin"
@@ -28954,6 +29344,12 @@
       "description": "Renounce heresy with this signature speargun skin for Harrow Reliquary.",
       "name": "Renuntio Speargun Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/HarrowDeluxeSpearGun"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Quellor's reliable cryo-blasts wrapped in a new frigid package.",
+      "name": "Niveus Quellor Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/RailjackRifleDuelistSkin"
     },
     {
       "codexSecret": false,
@@ -29017,6 +29413,12 @@
     },
     {
       "codexSecret": false,
+      "description": "Narin's frozen rapier skin, bestowed upon only those whom she deems worthy.",
+      "name": "Neote Rapier Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Rapier/IcebladeRapierSkin"
+    },
+    {
+      "codexSecret": false,
       "description": "Commissioned by Lieutenant Viktor Vodyanoi for his personal use, this elegant officer's weapon incorporates Sol and Lua motifs.",
       "name": "Viktor's Rapier Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Rapier/LasOcelotRapierSkin"
@@ -29075,6 +29477,24 @@
       "description": "Enchant any staff with this skin",
       "name": "Staves Volu Skin",
       "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Staff/TrinityDeluxeBo"
+    },
+    {
+      "codexSecret": false,
+      "description": "This icy look for the Dark Dagger conceals its irradiated nature.",
+      "name": "Niveus Dark Dagger Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Swords/DarkDaggerDuelistSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "The frozen elegance of this skin for the Dark Split-Sword belies its irradiated nature.",
+      "name": "Niveus Dark Split-Sword Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Swords/DarkSplitSwordDuelistSkin"
+    },
+    {
+      "codexSecret": false,
+      "description": "This skin for the Dark Sword lends a glacial hue to its irradiated metal.",
+      "name": "Niveus Dark Sword Skin",
+      "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Swords/DarkSwordDuelistSkin"
     },
     {
       "codexSecret": false,

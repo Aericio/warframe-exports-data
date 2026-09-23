@@ -136,7 +136,7 @@
     {
       "codexSecret": false,
       "description": "Entice and attract nearby Vulpaphyla with life-like animal calls.",
-      "name": "VULPAPHYLA ECHO-LURE",
+      "name": "Vulpaphyla Echo-Lure",
       "parentName": "/Lotus/Types/Restoratives/Conservation/AnimalLureGearItem",
       "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterLureGearItem"
     },
@@ -150,7 +150,7 @@
     {
       "codexSecret": false,
       "description": "Entice and attract nearby Cryptilex with life-like animal calls.",
-      "name": "CRYPTILEX ECHO-LURE",
+      "name": "Cryptilex Echo-Lure",
       "parentName": "/Lotus/Types/Restoratives/Conservation/AnimalLureGearItem",
       "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotLureGearItem"
     },
@@ -164,7 +164,7 @@
     {
       "codexSecret": false,
       "description": "Entice and attract nearby Avichaea with life-like animal calls.",
-      "name": "AVICHAEA ECHO-LURE",
+      "name": "Avichaea Echo-Lure",
       "parentName": "/Lotus/Types/Restoratives/Conservation/AnimalLureGearItem",
       "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooLureGearItem"
     },
@@ -178,7 +178,7 @@
     {
       "codexSecret": false,
       "description": "Entice and attract nearby Nexifera with life-like animal calls.",
-      "name": "NEXIFERA ECHO-LURE",
+      "name": "Nexifera Echo-Lure",
       "parentName": "/Lotus/Types/Restoratives/Conservation/AnimalLureGearItem",
       "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaLureGearItem"
     },
@@ -206,7 +206,7 @@
     {
       "codexSecret": false,
       "description": "Entice and attract nearby Undazoa with life-like animal calls.",
-      "name": "UNDAZOA ECHO-LURE",
+      "name": "Undazoa Echo-Lure",
       "parentName": "/Lotus/Types/Restoratives/Conservation/AnimalLureGearItem",
       "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroLureGearItem"
     },

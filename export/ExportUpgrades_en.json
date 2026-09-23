@@ -5560,7 +5560,7 @@
           ]
         }
       ],
-      "name": "Killer’s Rush",
+      "name": "Killer's Rush",
       "polarity": "AP_TACTIC",
       "rarity": "RARE",
       "uniqueName": "/Lotus/Upgrades/Focus/Tactic/Active/FinisherTransferenceUpgrade"
@@ -15585,32 +15585,32 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot:\r\n+20% Critical Chance when Aiming for 2s"
+            "On Weak Point Hit:\r\n+20% Critical Chance when Aiming for 2s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+40% Critical Chance when Aiming for 3s"
+            "On Weak Point Hit:\r\n+40% Critical Chance when Aiming for 3s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+60% Critical Chance when Aiming for 5s"
+            "On Weak Point Hit:\r\n+60% Critical Chance when Aiming for 5s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+80% Critical Chance when Aiming for 6s"
+            "On Weak Point Hit:\r\n+80% Critical Chance when Aiming for 6s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+100% Critical Chance when Aiming for 8s"
+            "On Weak Point Hit:\r\n+100% Critical Chance when Aiming for 8s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+120% Critical Chance when Aiming for 9s"
+            "On Weak Point Hit:\r\n+120% Critical Chance when Aiming for 9s"
           ]
         }
       ],
@@ -24377,57 +24377,57 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot Kill:\r\n+5 Energy"
+            "[PH] On Weak Point Kill:\r\n+5 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+6 Energy"
+            "[PH] On Weak Point Kill:\r\n+6 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+7 Energy"
+            "[PH] On Weak Point Kill:\r\n+7 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+8 Energy"
+            "[PH] On Weak Point Kill:\r\n+8 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+9 Energy"
+            "[PH] On Weak Point Kill:\r\n+9 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+10 Energy"
+            "[PH] On Weak Point Kill:\r\n+10 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+11 Energy"
+            "[PH] On Weak Point Kill:\r\n+11 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+12 Energy"
+            "[PH] On Weak Point Kill:\r\n+12 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+13 Energy"
+            "[PH] On Weak Point Kill:\r\n+13 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+14 Energy"
+            "[PH] On Weak Point Kill:\r\n+14 Energy"
           ]
         },
         {
           "stats": [
-            "On Headshot Kill:\r\n+15 Energy"
+            "[PH] On Weak Point Kill:\r\n+15 Energy"
           ]
         }
       ],
@@ -25565,57 +25565,57 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot:\r\n+10.9% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+10.9% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+21.8% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+21.8% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+32.7% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+32.7% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+43.6% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+43.6% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+54.6% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+54.6% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+65.5% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+65.5% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+76.4% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+76.4% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+87.3% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+87.3% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+98.2% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+98.2% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+109.1% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+109.1% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+120% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+120% Critical Chance when Aiming for 12s\r\nOn Weak Point Hit:\r\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         }
       ],
@@ -25633,32 +25633,32 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot:\r\n+22.5% Critical Chance when Aiming for 2s"
+            "On Weak Point Hit:\r\n+22.5% Critical Chance when Aiming for 2s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+45% Critical Chance when Aiming for 3s"
+            "On Weak Point Hit:\r\n+45% Critical Chance when Aiming for 3s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+67.5% Critical Chance when Aiming for 5s"
+            "On Weak Point Hit:\r\n+67.5% Critical Chance when Aiming for 5s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+90% Critical Chance when Aiming for 6s"
+            "On Weak Point Hit:\r\n+90% Critical Chance when Aiming for 6s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+112.5% Critical Chance when Aiming for 8s"
+            "On Weak Point Hit:\r\n+112.5% Critical Chance when Aiming for 8s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+135% Critical Chance when Aiming for 9s"
+            "On Weak Point Hit:\r\n+135% Critical Chance when Aiming for 9s"
           ]
         }
       ],
@@ -34702,57 +34702,57 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot:\r\n+10.9% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+10.9% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+3.6% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+21.8% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+21.8% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+7.3% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+32.7% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+32.7% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+10.9% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+43.6% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+43.6% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+14.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+54.5% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+54.5% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+18.2% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+65.5% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+65.5% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+21.8% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+76.4% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+76.4% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+25.5% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+87.3% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+87.3% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+29.1% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+98.2% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+98.2% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+32.7% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+109.1% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+109.1% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+36.4% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+120% Critical Chance when Aiming for 12s\r\nOn Headshot Kill:\r\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
+            "On Weak Point Hit:\r\n+120% Critical Chance when Aiming for 12s\r\nOn Weak Point Kill:\r\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x."
           ]
         }
       ],
@@ -34770,32 +34770,32 @@
       "levelStats": [
         {
           "stats": [
-            "On Headshot:\r\n+22.5% Critical Chance when Aiming for 2s"
+            "On Weak Point Hit:\r\n+22.5% Critical Chance when Aiming for 2s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+45% Critical Chance when Aiming for 3s"
+            "On Weak Point Hit:\r\n+45% Critical Chance when Aiming for 3s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+67.5% Critical Chance when Aiming for 5s"
+            "On Weak Point Hit:\r\n+67.5% Critical Chance when Aiming for 5s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+90% Critical Chance when Aiming for 6s"
+            "On Weak Point Hit:\r\n+90% Critical Chance when Aiming for 6s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+112.5% Critical Chance when Aiming for 8s"
+            "On Weak Point Hit:\r\n+112.5% Critical Chance when Aiming for 8s"
           ]
         },
         {
           "stats": [
-            "On Headshot:\r\n+135% Critical Chance when Aiming for 9s"
+            "On Weak Point Hit:\r\n+135% Critical Chance when Aiming for 9s"
           ]
         }
       ],
@@ -56075,22 +56075,22 @@
       "levelStats": [
         {
           "stats": [
-            "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 1s."
+            "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 1s."
           ]
         },
         {
           "stats": [
-            "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 1.5s."
+            "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 1.5s."
           ]
         },
         {
           "stats": [
-            "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 2s."
+            "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 2s."
           ]
         },
         {
           "stats": [
-            "Covenant Augment: Headshot kills increase Critical Chance bonus duration by 3s."
+            "Covenant Augment: Weak Point kills increase Critical Chance bonus duration by 3s."
           ]
         }
       ],
@@ -56644,6 +56644,40 @@
       "subtype": "/Lotus/Powersuits/Pacifist/PacifistBaseSuit",
       "type": "WARFRAME",
       "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistDodgeAugmentCard"
+    },
+    {
+      "baseDrain": 6,
+      "codexSecret": false,
+      "compatName": "Oraxia",
+      "fusionLimit": 3,
+      "levelStats": [
+        {
+          "stats": [
+            "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1250 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+          ]
+        },
+        {
+          "stats": [
+            "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1500 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+          ]
+        },
+        {
+          "stats": [
+            "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 1750 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+          ]
+        },
+        {
+          "stats": [
+            "Widow's Brood Augment: Scuttlers are galvanized with Electricity. Hold to direct all active Scuttlers at the aimed target, inflicting 2000 <DT_ELECTRICITY_COLOR> Electricity Damage and Status Effect in a radius."
+          ]
+        }
+      ],
+      "name": "Brood's Oversurge",
+      "polarity": "AP_POWER",
+      "rarity": "RARE",
+      "subtype": "/Lotus/Powersuits/Oraxia/OraxiaBaseSuit",
+      "type": "WARFRAME",
+      "uniqueName": "/Lotus/Powersuits/Oraxia/BroodAugmentCard"
     },
     {
       "baseDrain": 6,
@@ -59281,6 +59315,41 @@
       "codexSecret": false,
       "compatName": "Frost",
       "fusionLimit": 3,
+      "isUtility": true,
+      "levelStats": [
+        {
+          "stats": [
+            "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 1% per kill. "
+          ]
+        },
+        {
+          "stats": [
+            "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 2% per kill. "
+          ]
+        },
+        {
+          "stats": [
+            "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 3% per kill. "
+          ]
+        },
+        {
+          "stats": [
+            "Snow Globe Augment: Snow Globe is now attached to Frost with a smaller radius while increasing your mobility. Kills on frozen enemies increase the Globe health by 4% per kill. "
+          ]
+        }
+      ],
+      "name": "Cold Front",
+      "polarity": "AP_POWER",
+      "rarity": "RARE",
+      "subtype": "/Lotus/Powersuits/Frost/FrostBaseSuit",
+      "type": "WARFRAME",
+      "uniqueName": "/Lotus/Powersuits/Frost/IceShieldAugmentTwoCard"
+    },
+    {
+      "baseDrain": 6,
+      "codexSecret": false,
+      "compatName": "Frost",
+      "fusionLimit": 3,
       "levelStats": [
         {
           "stats": [
@@ -60146,6 +60215,40 @@
       "levelStats": [
         {
           "stats": [
+            "Passive Augment: Each enemy consumed adds 6% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+          ]
+        },
+        {
+          "stats": [
+            "Passive Augment: Each enemy consumed adds 9% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+          ]
+        },
+        {
+          "stats": [
+            "Passive Augment: Each enemy consumed adds 12% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+          ]
+        },
+        {
+          "stats": [
+            "Passive Augment: Each enemy consumed adds 15% <DT_GAS_COLOR> Extra Gas Damage to Primary and Secondary Weapons."
+          ]
+        }
+      ],
+      "name": "Gastroparesis",
+      "polarity": "AP_POWER",
+      "rarity": "RARE",
+      "subtype": "/Lotus/Powersuits/Devourer/DevourerBaseSuit",
+      "type": "WARFRAME",
+      "uniqueName": "/Lotus/Powersuits/Devourer/DevourerPassiveAugmentCard"
+    },
+    {
+      "baseDrain": 6,
+      "codexSecret": false,
+      "compatName": "Grendel",
+      "fusionLimit": 3,
+      "levelStats": [
+        {
+          "stats": [
             "Feast Augment: Instead of Energy, consumes <LOWER_IS_BETTER>300 Health on cast. Glutton grants an additional 75 Armor per enemy."
           ]
         },
@@ -60240,6 +60343,40 @@
       "subtype": "/Lotus/Powersuits/Devourer/DevourerBaseSuit",
       "type": "WARFRAME",
       "uniqueName": "/Lotus/Powersuits/Devourer/DevourerBowlAugmentCard"
+    },
+    {
+      "baseDrain": 6,
+      "codexSecret": false,
+      "compatName": "Uriel",
+      "fusionLimit": 3,
+      "levelStats": [
+        {
+          "stats": [
+            "Infernalis Augment: Release Fireballs for 1000<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+          ]
+        },
+        {
+          "stats": [
+            "Infernalis Augment: Release Fireballs for 1250<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+          ]
+        },
+        {
+          "stats": [
+            "Infernalis Augment: Release Fireballs for 1350<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+          ]
+        },
+        {
+          "stats": [
+            "Infernalis Augment: Release Fireballs for 1500<DT_FIRE_COLOR>Heat Damage with larger volleys when grabbing Vythelas' Runes during flight. Hits from Fireballs slowly charge Brimstone."
+          ]
+        }
+      ],
+      "name": "Infernum",
+      "polarity": "AP_POWER",
+      "rarity": "RARE",
+      "subtype": "/Lotus/Powersuits/DemonFrame/DemonFrameBaseSuit",
+      "type": "WARFRAME",
+      "uniqueName": "/Lotus/Powersuits/DemonFrame/DemonFrameFireBallAugmentCard"
     },
     {
       "baseDrain": 6,
@@ -60931,22 +61068,22 @@
       "levelStats": [
         {
           "stats": [
-            "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +20% Parkour Velocity and +20% Sprint Speed for 5s."
+            "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +20% Parkour Velocity and +20% Sprint Speed for 5s."
           ]
         },
         {
           "stats": [
-            "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +30% Parkour Velocity and +30% Sprint Speed for 5s."
+            "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +30% Parkour Velocity and +30% Sprint Speed for 5s."
           ]
         },
         {
           "stats": [
-            "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +40% Parkour Velocity and +40% Sprint Speed for 5s."
+            "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +40% Parkour Velocity and +40% Sprint Speed for 5s."
           ]
         },
         {
           "stats": [
-            "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +50% Parkour Velocity and +50% Sprint Speed for 5s."
+            "Hysteria Augment: Attack with Valkyr's Talons to leap onto targeted enemies up to 50m away. Gain +50% Parkour Velocity and +50% Sprint Speed for 5s."
           ]
         }
       ],
@@ -61107,22 +61244,22 @@
       "levelStats": [
         {
           "stats": [
-            "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 50% of remaining duration."
+            "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 50% of its duration."
           ]
         },
         {
           "stats": [
-            "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 65% of remaining duration."
+            "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 65% of its duration."
           ]
         },
         {
           "stats": [
-            "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 80% of remaining duration."
+            "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 80% of its duration."
           ]
         },
         {
           "stats": [
-            "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 100% of remaining duration."
+            "Sonar Augment: Killing an enemy by shooting their Sonar's weak point will trigger another Sonar for 100% of its duration."
           ]
         }
       ],
@@ -61175,26 +61312,26 @@
       "levelStats": [
         {
           "stats": [
-            "Sonic Boom Augment: Enemy Armor is reduced by 35%."
+            "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 12s."
           ]
         },
         {
           "stats": [
-            "Sonic Boom Augment: Enemy Armor is reduced by 45%."
+            "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 15s."
           ]
         },
         {
           "stats": [
-            "Sonic Boom Augment: Enemy Armor is reduced by 55%."
+            "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 18s."
           ]
         },
         {
           "stats": [
-            "Sonic Boom Augment: Enemy Armor is reduced by 70%."
+            "Sonic Boom Augment: Gain Armor for each enemy hit by Sonic Boom for 20s."
           ]
         }
       ],
-      "name": "Sonic Fracture",
+      "name": "Sonic Siphon",
       "polarity": "AP_POWER",
       "rarity": "RARE",
       "subtype": "/Lotus/Powersuits/Banshee/BansheeBaseSuit",
@@ -61209,26 +61346,26 @@
       "levelStats": [
         {
           "stats": [
-            "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 10x Damage at the epicenter, gradually weakening as it expands out."
+            "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2x Damage Multiplier that increases every second on enemies in your sight."
           ]
         },
         {
           "stats": [
-            "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 12x Damage at the epicenter, gradually weakening as it expands out."
+            "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.25x Damage Multiplier that increases every second on enemies in your sight."
           ]
         },
         {
           "stats": [
-            "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 15x Damage at the epicenter, gradually weakening as it expands out."
+            "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.5x Damage Multiplier that increases every second on enemies in your sight."
           ]
         },
         {
           "stats": [
-            "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 20x Damage at the epicenter, gradually weakening as it expands out."
+            "Sound Quake Augment: Channel <DT_GAS_COLOR>Gas Damage and Status Effect leaks with a 2.75x Damage Multiplier that increases every second on enemies in your sight."
           ]
         }
       ],
-      "name": "Resonating Quake",
+      "name": "Gaseous Quake",
       "polarity": "AP_POWER",
       "rarity": "RARE",
       "subtype": "/Lotus/Powersuits/Banshee/BansheeBaseSuit",
@@ -61609,41 +61746,6 @@
       "subtype": "/Lotus/Powersuits/Alchemist/AlchemistBaseSuit",
       "type": "WARFRAME",
       "uniqueName": "/Lotus/Powersuits/Alchemist/AlchemistPassiveAugmentCard"
-    },
-    {
-      "baseDrain": 6,
-      "codexSecret": false,
-      "compatName": "Banshee",
-      "excludeFromCodex": true,
-      "fusionLimit": 3,
-      "levelStats": [
-        {
-          "stats": [
-            "Sonar Augment: Affected enemies also become visible through walls for 7s."
-          ]
-        },
-        {
-          "stats": [
-            "Sonar Augment: Affected enemies also become visible through walls for 8s."
-          ]
-        },
-        {
-          "stats": [
-            "Sonar Augment: Affected enemies also become visible through walls for 9s."
-          ]
-        },
-        {
-          "stats": [
-            "Sonar Augment: Affected enemies also become visible through walls for 10s."
-          ]
-        }
-      ],
-      "name": "Augmented Sonar",
-      "polarity": "AP_POWER",
-      "rarity": "RARE",
-      "subtype": "/Lotus/Powersuits/Banshee/BansheeBaseSuit",
-      "type": "WARFRAME",
-      "uniqueName": "/Lotus/Powersuits/Banshee/SonarPvPAugmentCard"
     },
     {
       "baseDrain": 4,
@@ -65951,9 +66053,9 @@
           "fullName": "/Lotus/Types/Challenges/RandomizedKill"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Archgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -66191,6 +66293,17 @@
           ]
         },
         {
+          "prefixTag": "pura",
+          "suffixTag": "ada",
+          "tag": "WeaponFactionDamageInfested",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Infested",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
           "prefixTag": "hera",
           "suffixTag": "lis",
           "tag": "WeaponZoomFovMod",
@@ -66198,6 +66311,150 @@
             {
               "locTag": "|val|% Zoom",
               "value": 0.006666
+            }
+          ]
+        },
+        {
+          "prefixTag": "eni",
+          "suffixTag": "vo",
+          "tag": "WeaponWeakpointDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Damage",
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "prefixTag": "exiti",
+          "suffixTag": "eus",
+          "tag": "WeaponWeakpointCriticalChance",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Critical Chance",
+              "value": 0.0275
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponAmmoEfficiency",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Ammo Efficiency",
+              "reverseValueSymbol": true,
+              "value": -0.001
+            }
+          ]
+        },
+        {
+          "prefixTag": "plaga",
+          "suffixTag": "mna",
+          "tag": "WeaponStatusDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Status Damage",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cali",
+          "suffixTag": "fel",
+          "tag": "WeaponGasDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_GAS_COLOR>Gas",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cori",
+          "suffixTag": "or",
+          "tag": "WeaponCorrosiveDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cari",
+          "suffixTag": "sco",
+          "tag": "WeaponViralDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_VIRAL_COLOR>Viral",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "radi",
+          "suffixTag": "lo",
+          "tag": "WeaponRadiationDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_RADIATION_COLOR>Radiation",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "fraga",
+          "suffixTag": "tus",
+          "tag": "WeaponBlastDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "magni",
+          "suffixTag": "bra",
+          "tag": "WeaponMagneticDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "effi",
+          "suffixTag": "tas",
+          "tag": "WeaponFactionDamageOrokin",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Orokin",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "muti",
+          "suffixTag": "gia",
+          "tag": "WeaponFactionDamageTechrot",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Techrot",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "exsi",
+          "suffixTag": "llo",
+          "tag": "WeaponFactionDamageScaldra",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Scaldra",
+              "value": 0.0049999999
             }
           ]
         }
@@ -76184,9 +76441,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Zaw Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -86446,9 +86703,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Kitgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -96701,9 +96958,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Pistol Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -96970,6 +97227,161 @@
             {
               "locTag": "|val|% Zoom",
               "value": 0.0088999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "eni",
+          "suffixTag": "vo",
+          "tag": "WeaponWeakpointDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Damage",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "exiti",
+          "suffixTag": "eus",
+          "tag": "WeaponWeakpointCriticalChance",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Critical Chance",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponAmmoEfficiency",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Ammo Efficiency",
+              "reverseValueSymbol": true,
+              "value": -0.001
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponMagazineReloadHolstered",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Magazine Reloaded/s when Holstered",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "plaga",
+          "suffixTag": "mna",
+          "tag": "WeaponStatusDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Status Damage",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cali",
+          "suffixTag": "fel",
+          "tag": "WeaponGasDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_GAS_COLOR>Gas",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cori",
+          "suffixTag": "or",
+          "tag": "WeaponCorrosiveDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cari",
+          "suffixTag": "sco",
+          "tag": "WeaponViralDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_VIRAL_COLOR>Viral",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "radi",
+          "suffixTag": "lo",
+          "tag": "WeaponRadiationDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_RADIATION_COLOR>Radiation",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "fraga",
+          "suffixTag": "tus",
+          "tag": "WeaponBlastDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "magni",
+          "suffixTag": "bra",
+          "tag": "WeaponMagneticDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "effi",
+          "suffixTag": "tas",
+          "tag": "WeaponFactionDamageOrokin",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Orokin",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "muti",
+          "suffixTag": "gia",
+          "tag": "WeaponFactionDamageTechrot",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Techrot",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "exsi",
+          "suffixTag": "llo",
+          "tag": "WeaponFactionDamageScaldra",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Scaldra",
+              "value": 0.0049999999
             }
           ]
         }
@@ -106956,9 +107368,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Rifle Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -107230,6 +107642,161 @@
               "value": 0.006666
             }
           ]
+        },
+        {
+          "prefixTag": "eni",
+          "suffixTag": "vo",
+          "tag": "WeaponWeakpointDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Damage",
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "prefixTag": "exiti",
+          "suffixTag": "eus",
+          "tag": "WeaponWeakpointCriticalChance",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Critical Chance",
+              "value": 0.0275
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponAmmoEfficiency",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Ammo Efficiency",
+              "reverseValueSymbol": true,
+              "value": -0.001
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponMagazineReloadHolstered",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Magazine Reloaded/s when Holstered",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "plaga",
+          "suffixTag": "mna",
+          "tag": "WeaponStatusDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Status Damage",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cali",
+          "suffixTag": "fel",
+          "tag": "WeaponGasDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_GAS_COLOR>Gas",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cori",
+          "suffixTag": "or",
+          "tag": "WeaponCorrosiveDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cari",
+          "suffixTag": "sco",
+          "tag": "WeaponViralDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_VIRAL_COLOR>Viral",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "radi",
+          "suffixTag": "lo",
+          "tag": "WeaponRadiationDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_RADIATION_COLOR>Radiation",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "fraga",
+          "suffixTag": "tus",
+          "tag": "WeaponBlastDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "magni",
+          "suffixTag": "bra",
+          "tag": "WeaponMagneticDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "effi",
+          "suffixTag": "tas",
+          "tag": "WeaponFactionDamageOrokin",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Orokin",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "muti",
+          "suffixTag": "gia",
+          "tag": "WeaponFactionDamageTechrot",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Techrot",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "exsi",
+          "suffixTag": "llo",
+          "tag": "WeaponFactionDamageScaldra",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Scaldra",
+              "value": 0.0049999999
+            }
+          ]
         }
       ]
     },
@@ -116570,9 +117137,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Shotgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -116830,6 +117397,161 @@
           "upgradeValues": [
             {
               "locTag": "|val| Damage to Infested",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "eni",
+          "suffixTag": "vo",
+          "tag": "WeaponWeakpointDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Damage",
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "prefixTag": "exiti",
+          "suffixTag": "eus",
+          "tag": "WeaponWeakpointCriticalChance",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Weak Point Critical Chance",
+              "value": 0.0275
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponAmmoEfficiency",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Ammo Efficiency",
+              "reverseValueSymbol": true,
+              "value": -0.001
+            }
+          ]
+        },
+        {
+          "prefixTag": "parci",
+          "suffixTag": "pia",
+          "tag": "WeaponMagazineReloadHolstered",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Magazine Reloaded/s when Holstered",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "plaga",
+          "suffixTag": "mna",
+          "tag": "WeaponStatusDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Status Damage",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cali",
+          "suffixTag": "fel",
+          "tag": "WeaponGasDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_GAS_COLOR>Gas",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cori",
+          "suffixTag": "or",
+          "tag": "WeaponCorrosiveDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_CORROSIVE_COLOR>Corrosive",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "cari",
+          "suffixTag": "sco",
+          "tag": "WeaponViralDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_VIRAL_COLOR>Viral",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "radi",
+          "suffixTag": "lo",
+          "tag": "WeaponRadiationDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_RADIATION_COLOR>Radiation",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "fraga",
+          "suffixTag": "tus",
+          "tag": "WeaponBlastDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_EXPLOSION_COLOR>Blast",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "magni",
+          "suffixTag": "bra",
+          "tag": "WeaponMagneticDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% <DT_MAGNETIC_COLOR>Magnetic",
+              "value": 0.0099999998
+            }
+          ]
+        },
+        {
+          "prefixTag": "effi",
+          "suffixTag": "tas",
+          "tag": "WeaponFactionDamageOrokin",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Orokin",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "muti",
+          "suffixTag": "gia",
+          "tag": "WeaponFactionDamageTechrot",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Techrot",
+              "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "exsi",
+          "suffixTag": "llo",
+          "tag": "WeaponFactionDamageScaldra",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Damage to Scaldra",
               "value": 0.0049999999
             }
           ]
@@ -126817,9 +127539,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Melee Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -127102,6 +127824,50 @@
             {
               "locTag": "|val|% Additional Combo Count Chance",
               "value": 0.0065299999
+            }
+          ]
+        },
+        {
+          "prefixTag": "laci",
+          "suffixTag": "nus",
+          "tag": "WeaponMeleeHeavyAttackDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Melee Damage on Heavy Attack",
+              "value": 0.0133
+            }
+          ]
+        },
+        {
+          "prefixTag": "laci",
+          "suffixTag": "nus",
+          "tag": "WeaponMeleeHeavyAttackChargeMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Heavy Attack Wind Up Speed",
+              "value": 0.0133
+            }
+          ]
+        },
+        {
+          "prefixTag": "laci",
+          "suffixTag": "nus",
+          "tag": "WeaponMeleeParryAngleMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val| Parry Angle",
+              "value": 0.090000004
+            }
+          ]
+        },
+        {
+          "prefixTag": "laci",
+          "suffixTag": "nus",
+          "tag": "WeaponMeleeSlamDamageMod",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Slam Attack Damage",
+              "value": 0.0133
             }
           ]
         }
@@ -134039,10 +134805,10 @@
       "uniqueName": "/Lotus/Upgrades/Tau/HealthPickupGivesArmourMax"
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134062,10 +134828,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134085,10 +134851,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134108,10 +134874,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134131,10 +134897,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134154,10 +134920,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134177,10 +134943,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134200,10 +134966,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134222,10 +134988,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134244,10 +135010,10 @@
       ]
     },
     {
-      "baseDrain": 2,
+      "baseDrain": 2025586688,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 434,
+      "fusionLimit": 593,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",

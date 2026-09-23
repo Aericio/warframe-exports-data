@@ -115,7 +115,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Find Alad V’s laboratory and put a stop to his madness.",
+      "description": "Find Alad V's laboratory and put a stop to his madness.",
       "name": "Patient Zero",
       "parentName": "",
       "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain"
@@ -281,6 +281,27 @@
       "name": "The Old Peace",
       "parentName": "",
       "uniqueName": "/Lotus/Types/Keys/TauPrequel/TauPrequelQuestKeyChain"
+    },
+    {
+      "codexSecret": false,
+      "description": "Find the Lotus in the Dark Refractory and seek her out within her memories.",
+      "name": "Lua",
+      "parentName": "",
+      "uniqueName": "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainA"
+    },
+    {
+      "codexSecret": false,
+      "description": "The Vessel has awoken. Praghasa has returned. Deploy to the surface of Eris... fuel is required.",
+      "name": "Vessel",
+      "parentName": "",
+      "uniqueName": "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Praghasa feasts.",
+      "name": "Eris Mortem",
+      "parentName": "",
+      "uniqueName": "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainC"
     },
     {
       "codexSecret": false,

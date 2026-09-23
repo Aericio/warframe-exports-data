@@ -152,105 +152,9 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
-      "name": "Lith B12 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith B12 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith B12 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Lith B12 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
       "name": "Meso Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjection"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso I3 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso I3 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso I3 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso I3 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso V16 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso V16 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso V16 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Meso V16 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBSilver"
     },
     {
       "codexSecret": false,
@@ -264,105 +168,9 @@
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "excludeFromCodex": true,
-      "name": "Neo P11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo P11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo P11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo P11 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultASilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo O4 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo O4 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo O4 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Neo O4 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBSilver"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
       "name": "Axi Relic",
       "parentName": "/Lotus/Types/Game/Projections/T0VoidProjection",
       "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjection"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi A23 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjection",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi A23 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAGold"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi A23 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAPlatinum"
-    },
-    {
-      "codexSecret": false,
-      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-      "excludeFromCodex": true,
-      "name": "Axi A23 Relic",
-      "parentName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze",
-      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultASilver"
     },
     {
       "codexSecret": false,
@@ -831,7 +639,7 @@
     },
     {
       "codexSecret": false,
-      "description": "This motherboard likely served as a nerve center, facilitating the Techrot’s communication network.\r\n\r\nLocation: 1999 (Höllvania)",
+      "description": "This motherboard likely served as a nerve center, facilitating the Techrot's communication network.\r\n\r\nLocation: 1999 (Höllvania)",
       "name": "Techrot Motherboard",
       "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
       "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA"
@@ -852,14 +660,14 @@
     },
     {
       "codexSecret": false,
-      "description": "The Countessa isn’t just an icon—she’s a hero! Issues from this cult classic comic series are sought after by subculture enthusiasts who know the value of a strong and stylish protagonist. Trade this Hex Treasure with Lettie to earn standing with The Hex.\r\n\r\nLocation: 1999 (Höllvania)",
+      "description": "The Countessa isn't just an icon—she's a hero! Issues from this cult classic comic series are sought after by subculture enthusiasts who know the value of a strong and stylish protagonist. Trade this Hex Treasure with Lettie to earn standing with The Hex.\r\n\r\nLocation: 1999 (Höllvania)",
       "name": "The Countessa Comic",
       "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
       "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir"
     },
     {
       "codexSecret": false,
-      "description": "The ultimate gift for fans of On-lyne! Show your love and support with this must-have merch for any music lover’s collection. Trade this Hex Treasure with Lettie to earn standing with The Hex.\r\n\r\nLocation: 1999 (Höllvania)",
+      "description": "The ultimate gift for fans of On-lyne! Show your love and support with this must-have merch for any music lover's collection. Trade this Hex Treasure with Lettie to earn standing with The Hex.\r\n\r\nLocation: 1999 (Höllvania)",
       "name": "On-lyne CD",
       "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
       "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi"
@@ -1333,6 +1141,13 @@
       "name": "Vessel Capillaries",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/VesselCapillaries"
+    },
+    {
+      "codexSecret": false,
+      "description": "Eris, carved up and presented to Praghasa in bite sized chunks.\r\n\r\nObtained from Infested nodes on Eris during Epoch Operation: Taubound.",
+      "name": "Moonflesh",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
     },
     {
       "codexSecret": false,
@@ -1856,6 +1671,13 @@
       "name": "Lua Thrax Plasm",
       "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
       "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "A dangerous and erratic type of Kuva.\r\n\r\nObtained from Zariman missions.",
+      "name": "Entropic Kuva",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
     },
     {
       "codexSecret": false,
@@ -3597,7 +3419,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Struck to commemorate the Entrati family’s power and prestige, as well as safeguarding their memories of one another. Many things changed in the years that followed, and that which had once shone brightly grew dark and dim. But even a single Ayatan Star may make all the difference.",
+      "description": "Struck to commemorate the Entrati family's power and prestige, as well as safeguarding their memories of one another. Many things changed in the years that followed, and that which had once shone brightly grew dark and dim. But even a single Ayatan Star may make all the difference.",
       "name": "Ayatan Kitha Sculpture",
       "parentName": "/Lotus/Types/Items/FusionTreasure",
       "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexEntrati"
@@ -6081,6 +5903,13 @@
     {
       "codexSecret": false,
       "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "name": "Yuvan Peak Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuest",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileTWWMountainPeakHub"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
       "name": "The War Within Choice Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuest",
       "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileTWWTeshinEnding"
@@ -6178,6 +6007,14 @@
       "name": "Veiled Riven Cipher",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Items/MiscItems/RivenIdentifier"
+    },
+    {
+      "codexSecret": false,
+      "description": "Used in the Mod Workbench to splice Riven traits into a new trait  from a special pool of possibilities.",
+      "excludeFromCodex": true,
+      "name": "Riven Splicer",
+      "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+      "uniqueName": "/Lotus/Types/Items/MiscItems/RivenSplicer"
     },
     {
       "codexSecret": false,
@@ -6548,7 +6385,7 @@
       "codexSecret": false,
       "description": "The spines on this mushroom appear to be extremely sharp. Take it to Nightcap in the airlock for further information.\r\n\r\nLocation: Deepmines Bounties on Venus",
       "excludeFromCodex": true,
-      "name": "Devil’s Cap",
+      "name": "Devil's Cap",
       "parentName": "/Lotus/Types/Items/MushroomJournal/MushroomJournalItem",
       "uniqueName": "/Lotus/Types/Items/MushroomJournal/SlashMushroomJournalItem"
     },
@@ -6572,7 +6409,7 @@
       "codexSecret": false,
       "description": "This multi-capped mushroom should probably not be ingested. Take it to Nightcap in the airlock for further information.\r\n\r\nLocation: Deepmines Bounties on Venus",
       "excludeFromCodex": true,
-      "name": "Violet’s Bane",
+      "name": "Violet's Bane",
       "parentName": "/Lotus/Types/Items/MushroomJournal/MushroomJournalItem",
       "uniqueName": "/Lotus/Types/Items/MushroomJournal/ViralMushroomJournalItem"
     },
@@ -6948,6 +6785,14 @@
       "name": "Zariman Lunaro Court Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
       "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarLunaroCourt"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Melica's Laboratory Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLab"
     },
     {
       "codexSecret": false,
@@ -7653,7 +7498,7 @@
     },
     {
       "codexSecret": false,
-      "description": "This delicate Entrati design’s slender metal arm holds a subtle blue flame in a state of perfect equipoise.",
+      "description": "This delicate Entrati design's slender metal arm holds a subtle blue flame in a state of perfect equipoise.",
       "name": "Lychnus",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/LisetPropEntratiLamp"
@@ -7765,7 +7610,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Ideal for appreciating Bombastine’s performances. Cushioned to avoid uncomfortable posterior numbness.",
+      "description": "Ideal for appreciating Bombastine's performances. Cushioned to avoid uncomfortable posterior numbness.",
       "name": "Duviri Theater Seat",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Duviri2ndRelease/DUVxChairB"
@@ -7837,7 +7682,7 @@
       "codexSecret": false,
       "description": "Neci Rusalka’s distinctive Scaldra hat, received as part of a mysterious communication.",
       "excludeFromCodex": true,
-      "name": "Major Rusalka’s Hat Memento",
+      "name": "Major Rusalka's Hat Memento",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaHat"
     },
@@ -7845,7 +7690,7 @@
       "codexSecret": false,
       "description": "Medals for valor awarded to Neci Rusalka, received as part of a mysterious communication.",
       "excludeFromCodex": true,
-      "name": "Major Rusalka’s Medals Memento",
+      "name": "Major Rusalka's Medals Memento",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Mitw/RusalkaMedals"
     },
@@ -8488,7 +8333,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A replica of the archive that held “The Secret History of the Orokin Court,” by the historian Porvis. Notably containing the telling of Ivara and the Myrmidon.",
+      "description": "A replica of the archive that held 'The Secret History of the Orokin Court,' by the historian Porvis. Notably containing the telling of Ivara and the Myrmidon.",
       "excludeFromCodex": true,
       "name": "Secret History Replica",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -8788,6 +8633,70 @@
       "name": "Aurichalc Legendary Mastery Slate",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank36Trophy"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemA"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemB"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemC"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemD"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemE"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemF"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemG"
+    },
+    {
+      "codexSecret": false,
+      "description": "An ancient piece of parchment in the Tethyan style.",
+      "excludeFromCodex": true,
+      "name": "Tethyan Parchment Tatter",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/NarinPoem/NarinPoemH"
     },
     {
       "codexSecret": false,
@@ -9919,11 +9828,25 @@
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur"
     },
     {
+      "codexSecret": false,
+      "description": "Change of plans: leave nothing uncuddled with this adorable floof.",
+      "name": "Neolyst Natah Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyBabyNatah"
+    },
+    {
       "codexSecret": true,
       "description": "Baro returns from his latest foray into the Void in a softer, more huggable form.",
       "name": "Baro Ki'Teer Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyBaro"
+    },
+    {
+      "codexSecret": false,
+      "description": "This unusual floof was likely the result of a manufacturing error. Will you accept it into your home, Tenno?",
+      "name": "Eskhatos Ki'Teer Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyBaroEvil"
     },
     {
       "codexSecret": false,
@@ -10004,14 +9927,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Drillbit keeps it 100% real, as always. No sugarcoating here. He told us straight up, “Once you get a taste of fame, you're hooked.” Honesty like that is why we love him!",
+      "description": "Drillbit keeps it 100% real, as always. No sugarcoating here. He told us straight up, 'Once you get a taste of fame, you're hooked.' Honesty like that is why we love him!",
       "name": "Drillbit Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDrillbitHuman"
     },
     {
       "codexSecret": false,
-      "description": "Drillbit keeps it 100% real, as always. No sugarcoating here. He told us straight up, “Once you get a taste of - hearts - you're hooked.” Honesty like that is why we love him!",
+      "description": "Drillbit keeps it 100% real, as always. No sugarcoating here. He told us straight up, 'Once you get a taste of - hearts - you're hooked.' Honesty like that is why we love him!",
       "name": "Technocyte Drillbit Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDrillbitInfested"
@@ -10032,14 +9955,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Harddrive is the ultimate hype machine! Right before hitting the stage, he was all about the team spirit, shouting, “Let’s get out there and show our fans how much we love them!”",
+      "description": "Harddrive is the ultimate hype machine! Right before hitting the stage, he was all about the team spirit, shouting, 'Let's get out there and show our fans how much we love them!'",
       "name": "Harddrive Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHarddriveHuman"
     },
     {
       "codexSecret": false,
-      "description": "Harddrive is the ultimate hype machine! Right before hitting the stage, he was all about the team spirit, shouting, “Let’s get out there and show our fans how much we - destroy - them!”",
+      "description": "Harddrive is the ultimate hype machine! Right before hitting the stage, he was all about the team spirit, shouting, 'Let's get out there and show our fans how much we - destroy - them!'",
       "name": "Technocyte Harddrive Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHarddriveInfested"
@@ -10271,14 +10194,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Packet’s dressing room is every gamer’s dream! With a console fired up, he flashed the biggest grin and shouted “Instagib!” as digital carnage exploded across the screen. Luckiest teen ever? Absolutely!",
+      "description": "Packet's dressing room is every gamer's dream! With a console fired up, he flashed the biggest grin and shouted 'Instagib!' as digital carnage exploded across the screen. Luckiest teen ever? Absolutely!",
       "name": "Packet Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPacketHuman"
     },
     {
       "codexSecret": false,
-      "description": "Packet’s dressing room is every gamer’s dream! With a console fired up, he flashed the biggest grin and shouted “Instagib!” as - Tenno - carnage exploded across the screen. Luckiest teen ever? Absolutely!",
+      "description": "Packet's dressing room is every gamer's dream! With a console fired up, he flashed the biggest grin and shouted 'Instagib!' as - Tenno - carnage exploded across the screen. Luckiest teen ever? Absolutely!",
       "name": "Technocyte Packet Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPacketInfested"
@@ -10433,6 +10356,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Valkyr could probably use a hug too, and this squishy floof means it's perfectly safe!",
+      "name": "Valkyr Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyValkyr"
+    },
+    {
+      "codexSecret": false,
       "description": "They're the squeezy little fellas from the Plains of Eidolon! Take them home today!",
       "name": "Ostia Vasca Kavat Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -10482,14 +10412,21 @@
     },
     {
       "codexSecret": false,
-      "description": "Zeke’s got us swooning again! He melted this reporter’s heart when he shared, “My ideal girl? I just want someone who smiles when she’s with me.”",
+      "description": "Embrace the wolf with this cuddly floof.",
+      "name": "Voruna Floof",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyVoruna"
+    },
+    {
+      "codexSecret": false,
+      "description": "Zeke's got us swooning again! He melted this reporter's heart when he shared, 'My ideal girl? I just want someone who smiles when she's with me.'",
       "name": "Zeke Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyZekeHuman"
     },
     {
       "codexSecret": false,
-      "description": "Zeke’s got us swooning again! He melted this reporter’s heart when he shared, “My ideal girl? I just want someone who - dies - when she’s with me.”",
+      "description": "Zeke's got us swooning again! He melted this reporter's heart when he shared, 'My ideal girl? I just want someone who - dies - when she's with me.'",
       "name": "Technocyte Zeke Floof",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyZekeInfested"
@@ -10657,6 +10594,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A unique display created for PMCFQ 2026.",
+      "name": "Conquera Cateura Frame Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/QTCC2026CatEarFrame"
+    },
+    {
+      "codexSecret": false,
       "description": "A display created for Star Days by Community Artist DarikaArt.",
       "name": "Star Days Circle Frame Display",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -10689,6 +10633,13 @@
       "name": "Follie's Balloon",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/FollieBalloonShipDeco"
+    },
+    {
+      "codexSecret": false,
+      "description": "A gleaming reminder of Citrine Prime to decorate your Orbiter.",
+      "name": "Prismatic Gem Prime Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropCitrinePrimeCrystal"
     },
     {
       "codexSecret": false,
@@ -10738,6 +10689,13 @@
       "name": "Grokdrul Drum Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropGrnGrokdrul"
+    },
+    {
+      "codexSecret": false,
+      "description": "A recreation of Narin's icy crest and rapier, forever entombed aboard your Orbiter.",
+      "name": "Icebound Neote Decoration",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/LisetPropIceblade"
     },
     {
       "codexSecret": false,
@@ -13329,6 +13287,27 @@
     },
     {
       "codexSecret": false,
+      "description": "A display featuring Voruna playing with a Kubrow, and Valkyr fishing with a Kavat in Duviri. Created by Community Artist Studio Cyen.",
+      "name": "Conquera 2026 Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Conquera2026Display"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display featuring Valkyr, Kalymos and loyal Kavat Companions. Created by Community Artist GroovyTaxi.",
+      "name": "Conquera Valkyr Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/ConqueraValkyrDisplay"
+    },
+    {
+      "codexSecret": false,
+      "description": "A display featuring Voruna and loyal Kubrow Companions. Created by Community Artist GroovyTaxi.",
+      "name": "Conquera Voruna Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/ConqueraVorunaDisplay"
+    },
+    {
+      "codexSecret": false,
       "description": "An Alloy Drum resource container to place in your Orbiter.",
       "name": "Alloy Drum Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -14058,6 +14037,13 @@
     },
     {
       "codexSecret": false,
+      "description": "A showdown for the ages.",
+      "name": "Sirius vs. Orion Poster",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Halloween2026SiriusOrionPoster"
+    },
+    {
+      "codexSecret": false,
       "description": "A small wobbly statue of Harrow.",
       "name": "Noggle Statue - Harrow",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -14634,14 +14620,14 @@
     },
     {
       "codexSecret": false,
-      "description": "Reinvented from the ground up, the Ki’Teer Domestik is a revolution in sanitation and style.",
+      "description": "Reinvented from the ground up, the Ki'Teer Domestik is a revolution in sanitation and style.",
       "name": "Domestik Ki'Teer Drone",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBaro"
     },
     {
       "codexSecret": true,
-      "description": "All the cleaning style of the original Ki’Teer Domestik, in a fresh, elegant new color.",
+      "description": "All the cleaning style of the original Ki'Teer Domestik, in a fresh, elegant new color.",
       "name": "Domestik Ki'Teer Drone (Lavender Ice)",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBaroPink"
@@ -14942,7 +14928,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Adopt one of Nokko’s adorable Sprodlings to bounce around the orbiter.",
+      "description": "Adopt one of Nokko's adorable Sprodlings to bounce around the orbiter.",
       "name": "Sprodling",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropNokkoBabyDrone"
@@ -16182,7 +16168,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A unique display in recognition of Childhood Cancer Awareness Month to support St. Jude Children's Research Hospital®. Artwork by St. Jude patients Ethan, Luna, Maelin-Kate and Ty.",
+      "description": "A unique display in recognition of Childhood Cancer Awareness Month to support St. Jude Children's Research Hospital®. Art by St. Jude patients Ethan, Luna, Maelin-Kate and Ty.",
       "name": "Level Up for St. Jude",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/StJudePoster"
@@ -16435,6 +16421,13 @@
     },
     {
       "codexSecret": false,
+      "description": "The Iceblade Everlasting",
+      "name": "Narin Prex",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardNarin"
+    },
+    {
+      "codexSecret": false,
       "description": "The Clarion of Hope",
       "name": "Nezha Prex",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -16645,7 +16638,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Glam up your space with a miniature version of Temple’s signature guitar, Lizzie. This unplayable replica is a stunning piece of Temple and The Ripper's memorabilia.",
+      "description": "Glam up your space with a miniature version of Temple's signature guitar, Lizzie. This unplayable replica is a stunning piece of Temple and The Ripper's memorabilia.",
       "name": "Lizzie Guitar Decoration",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "uniqueName": "/Lotus/Types/Items/ShipDecos/TempleGuitarSpeakerShipDeco"
@@ -18411,6 +18404,15 @@
     },
     {
       "codexSecret": false,
+      "description": "Iceblade of Narin music to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Eris Mortem",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/ErisMortemSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "There's more than one band out there! Relive the events of 1999 with these tracks from the mean streets of Höllvania.",
       "excludeFromCodex": true,
       "name": "From The Stars",
@@ -18460,6 +18462,15 @@
     },
     {
       "codexSecret": false,
+      "description": "Iceblade of Narin music to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Ice Speaker",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/IceSpeakerSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "The Jade Shadows login music to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "Jade Shadows Login Music",
@@ -18500,6 +18511,15 @@
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/NekrosPrimeSongItem"
+    },
+    {
+      "codexSecret": false,
+      "description": "Iceblade of Narin music to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Neote's Dance",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/NeotesDanceSongItem"
     },
     {
       "codexSecret": false,
@@ -19758,6 +19778,30 @@
     },
     {
       "codexSecret": false,
+      "description": "Chassis component of the Citrine Prime Warframe.",
+      "name": "Citrine Prime Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Citrine Prime Warframe.",
+      "name": "Citrine Prime Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Citrine Prime Warframe.",
+      "name": "Citrine Prime Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeSystemsComponent"
+    },
+    {
+      "codexSecret": false,
       "description": "Chassis component of the Qorvex Warframe.",
       "name": "Qorvex Chassis",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -20760,6 +20804,27 @@
       "name": "Inaros Systems",
       "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummySystemsComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Chassis component of the Narin Warframe.",
+      "name": "Narin Chassis",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinChassisComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Neuroptics component of the Narin Warframe.",
+      "name": "Narin Neuroptics",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinHelmetComponent"
+    },
+    {
+      "codexSecret": false,
+      "description": "Systems component of the Narin Warframe.",
+      "name": "Narin Systems",
+      "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinSystemsComponent"
     },
     {
       "codexSecret": false,
@@ -22821,6 +22886,30 @@
     },
     {
       "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Corufell Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Corufell Prime Handle",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Corufell Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeReceiver"
+    },
+    {
+      "codexSecret": false,
       "description": "An Archwing weapon-crafting component.",
       "name": "Corvas Prime Barrel",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -23044,6 +23133,55 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "primeSellingPrice": 15,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DualZorenPrimeHandle"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Nunchasa Grip",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowGrip"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Nunchasa Lower Limb",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowLowerLimb"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Nunchasa String",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowString"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Nunchasa Upper Limb",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowUpperLimb"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Aksondol Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Aksondol Link",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsLink"
+    },
+    {
+      "codexSecret": false,
+      "description": "A weapon-crafting component.",
+      "name": "Aksondol Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsReceiver"
     },
     {
       "codexSecret": false,
@@ -25032,6 +25170,30 @@
       "name": "Spinnerex String",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpinnerexString"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Steflos Prime Barrel",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 100,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeBarrel"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Steflos Prime Receiver",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 15,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeReceiver"
+    },
+    {
+      "codexSecret": false,
+      "description": "A prime weapon-crafting component.",
+      "name": "Steflos Prime Stock",
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+      "primeSellingPrice": 45,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeStock"
     },
     {
       "codexSecret": false,

@@ -18589,6 +18589,142 @@
       "ingredients": [
         {
           "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Powersuits/Geode/CitrinePrime",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 7800,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 15,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 4,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1750,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 450,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4750,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 100,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1775,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4000,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CitrinePrimeSystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
           "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameHelmetComponent",
           "ProductCategory": "MiscItems"
         },
@@ -24593,6 +24729,138 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 25,
       "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummySystemsBlueprint"
+    },
+    {
+      "buildPrice": 25000,
+      "buildTime": 259200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NarinHelmetComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NarinChassisComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NarinSystemsComponent",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Powersuits/Duelist/Duelist",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 3300,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 800,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Cryotic",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NarinChassisComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinChassisBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 2900,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4,
+          "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 6,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 400,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NarinHelmetComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinHelmetBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 55,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/WarframeRecipes/NarinSystemsComponent",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NarinSystemsBlueprint"
     },
     {
       "buildPrice": 25000,
@@ -34850,6 +35118,237 @@
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DaxDuviriAsymmetricalLongBowUpperLimbBlueprint"
     },
     {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 400,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Cryotic",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2500,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 5,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowGrip",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowGripBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1700,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 30,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 800,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowLowerLimb",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowLowerLimbBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 750,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 4,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowString",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowStringBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1700,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 30,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 800,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowUpperLimb",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowUpperLimbBlueprint"
+    },
+    {
+      "buildPrice": 10000,
+      "buildTime": 21600,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 650,
+          "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 100,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Cryotic",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsBarrel",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsBarrelBlueprint"
+    },
+    {
+      "buildPrice": 10000,
+      "buildTime": 21600,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 50,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 8200,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2600,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsLink",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsLinkBlueprint"
+    },
+    {
+      "buildPrice": 10000,
+      "buildTime": 21600,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 400,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 40,
+          "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 900,
+          "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsReceiver",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsReceiverBlueprint"
+    },
+    {
       "buildPrice": 30000,
       "buildTime": 43200,
       "codexSecret": false,
@@ -39503,6 +40002,40 @@
       "uniqueName": "/Lotus/Types/Recipes/Weapons/CorpusWhipBlueprint"
     },
     {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeHandle",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorufellPrimeReceiver",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 15,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 15,
+      "resultType": "/Lotus/Weapons/Tenno/Archwing/Melee/PrimeCorufell/PrimeCorufellScytheWeapon",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/CorufellPrimeBlueprint"
+    },
+    {
       "buildPrice": 45000,
       "buildTime": 43200,
       "codexSecret": false,
@@ -41036,6 +41569,69 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 10,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/DualZorenPrimeBlueprint"
+    },
+    {
+      "buildPrice": 20000,
+      "buildTime": 86400,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowUpperLimb",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowString",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowGrip",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistBowLowerLimb",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/Bows/DuelistBow/DuelistBow",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/DuelistBowBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "excludeFromCodex": true,
+      "ingredients": [
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 2,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsReceiver",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuelistPistolsLink",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "resultType": "/Lotus/Weapons/Tenno/Pistols/DuelistPistols/DuelistPistols",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 25,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/DuelistPistolsBlueprint"
     },
     {
       "buildPrice": 30000,
@@ -47283,6 +47879,40 @@
       "secretIngredients": [],
       "skipBuildTimePrice": 35,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/StalkerTwoGreatswordBlueprint"
+    },
+    {
+      "buildPrice": 15000,
+      "buildTime": 43200,
+      "codexSecret": false,
+      "consumeOnUse": true,
+      "ingredients": [
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeReceiver",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeBarrel",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 1,
+          "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/SteflosPrimeStock",
+          "ProductCategory": "MiscItems"
+        },
+        {
+          "ItemCount": 10,
+          "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+          "ProductCategory": "MiscItems"
+        }
+      ],
+      "num": 1,
+      "primeSellingPrice": 45,
+      "resultType": "/Lotus/Weapons/Tenno/LongGuns/PrimeSteflos/PrimeSteflosShotgun",
+      "secretIngredients": [],
+      "skipBuildTimePrice": 50,
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/SteflosPrimeBlueprint"
     },
     {
       "buildPrice": 15000,
