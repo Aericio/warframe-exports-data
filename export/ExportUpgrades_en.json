@@ -66053,9 +66053,9 @@
           "fullName": "/Lotus/Types/Challenges/RandomizedKill"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Archgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -76441,9 +76441,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Zaw Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -86703,9 +86703,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Kitgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -96958,9 +96958,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Pistol Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -107368,9 +107368,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Rifle Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -117137,9 +117137,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Shotgun Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -127539,9 +127539,9 @@
           "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety"
         }
       ],
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Melee Riven Mod",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134805,10 +134805,10 @@
       "uniqueName": "/Lotus/Upgrades/Tau/HealthPickupGivesArmourMax"
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134828,10 +134828,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134851,10 +134851,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134874,10 +134874,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134897,10 +134897,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134920,10 +134920,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134943,10 +134943,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134966,10 +134966,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -134988,10 +134988,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",
@@ -135010,10 +135010,10 @@
       ]
     },
     {
-      "baseDrain": 2025586688,
+      "baseDrain": -1812070400,
       "codexSecret": true,
       "excludeFromCodex": true,
-      "fusionLimit": 593,
+      "fusionLimit": 592,
       "name": "Unfused Artifact",
       "polarity": "AP_UNIVERSAL",
       "rarity": "COMMON",

@@ -7434,6 +7434,12 @@
     },
     {
       "codexSecret": false,
+      "description": "This ephemera is an endless source of sinister style.",
+      "name": "Eskhatos Infinitas Ephemera",
+      "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaroEvilEphemeraB"
+    },
+    {
+      "codexSecret": false,
       "description": "Encircled by harmonious energy, the shifting balance of conflict reveals itself in Baruuk Shaoshi's signature ephemera. ",
       "name": "Neviti Ephemera",
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaruukDeluxeIIEphemera"

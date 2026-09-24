@@ -1659,17 +1659,17 @@
           "description": "Summon a creature from the depths. Its watery tentacles emerge from nearby surfaces to wreak havoc."
         }
       ],
-      "armor": 465,
+      "armor": 240,
       "codexSecret": false,
       "description": "Hydroid summons the power of the ocean depths. He provides crowd control with aqueous attacks. His enemies will meet a watery demise.",
-      "health": 270,
+      "health": 365,
       "masteryReq": 0,
       "name": "Hydroid",
       "parentName": "/Lotus/Powersuits/Pirate/PirateBaseSuit",
       "passiveDescription": "Enemies damaged by Hydroid are more vulnerable to <DT_CORROSIVE_COLOR>Corrosive Status, with initial Status reducing Armor by |PCT|%.",
       "power": 140,
       "productCategory": "Suits",
-      "shield": 140,
+      "shield": 270,
       "sprintSpeed": 1.05,
       "stamina": 3,
       "uniqueName": "/Lotus/Powersuits/Pirate/Pirate"
@@ -1697,17 +1697,17 @@
           "description": "Summon a creature from the depths. Its watery tentacles emerge from nearby surfaces to wreak havoc."
         }
       ],
-      "armor": 650,
+      "armor": 290,
       "codexSecret": false,
       "description": "Command the ocean's fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
-      "health": 270,
+      "health": 550,
       "masteryReq": 0,
       "name": "Hydroid Prime",
       "parentName": "/Lotus/Powersuits/Pirate/PirateBaseSuit",
       "passiveDescription": "Enemies damaged by Hydroid are more vulnerable to <DT_CORROSIVE_COLOR>Corrosive Status, with initial Status reducing Armor by |PCT|%.",
       "power": 175,
       "productCategory": "Suits",
-      "shield": 190,
+      "shield": 270,
       "sprintSpeed": 1.05,
       "stamina": 3,
       "uniqueName": "/Lotus/Powersuits/Pirate/HydroidPrime"
