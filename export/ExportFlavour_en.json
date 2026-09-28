@@ -4560,6 +4560,12 @@
     {
       "codexSecret": true,
       "description": "A Glyph for your profile.",
+      "name": "Aztecross Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAztecross"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
       "name": "SerdarSari Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBBSChainWarden"
     },
@@ -5548,6 +5554,12 @@
       "description": "A Glyph for your profile.",
       "name": "Irisillych Glyph",
       "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIrisillych"
+    },
+    {
+      "codexSecret": true,
+      "description": "A Glyph for your profile.",
+      "name": "Ironmouse Glyph",
+      "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIronmouse"
     },
     {
       "codexSecret": true,

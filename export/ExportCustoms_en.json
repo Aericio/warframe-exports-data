@@ -9314,6 +9314,13 @@
     },
     {
       "codexSecret": false,
+      "description": "Citrine Prime's signature adornments.",
+      "excludeFromCodex": true,
+      "name": "Citrine Prime Adornments",
+      "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrinePrimeAux"
+    },
+    {
+      "codexSecret": false,
       "description": "The standard issue helmet for the Citrine Prime Warframe.",
       "name": "Citrine Prime Helmet",
       "uniqueName": "/Lotus/Upgrades/Skins/Geode/CitrinePrimeHelmet"

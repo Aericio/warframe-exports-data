@@ -10559,6 +10559,30 @@
     },
     {
       "codexSecret": false,
+      "description": "A Movember Frame Display of the Master Moustache, created by Community artist Veroz.",
+      "excludeFromCodex": true,
+      "name": "Movember Master Moustache Display Frame",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026MasterMustacheFrame"
+    },
+    {
+      "codexSecret": false,
+      "description": "A Movember Frame Display of the Shopkeep Moustache, created by Community artist Veroz.",
+      "excludeFromCodex": true,
+      "name": "Movember Shopkeep Moustache Display Frame",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026ShopkeepMustacheFrame"
+    },
+    {
+      "codexSecret": false,
+      "description": "A Movember Frame Display of the Tusker Moustache, created by Community artist Veroz.",
+      "excludeFromCodex": true,
+      "name": "Movember Tusker Moustache Display Frame",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026TuskerMustacheFrame"
+    },
+    {
+      "codexSecret": false,
       "description": "Bestow a touch of the festive season with these delightful decorations. Note: these items are for display only.",
       "name": "Festive Domestik Ornament",
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -15345,6 +15369,14 @@
     },
     {
       "codexSecret": false,
+      "description": "A Movember Display of Sirius and Orion, created by Community artist Veroz.",
+      "excludeFromCodex": true,
+      "name": "Movember Sirius and Orion Community Display",
+      "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+      "uniqueName": "/Lotus/Types/Items/ShipDecos/Movember2026SiriusOrionDisplay"
+    },
+    {
+      "codexSecret": false,
       "description": "A peculiar relic from the tomb of Inaros.",
       "excludeFromCodex": true,
       "name": "Sacred Vessel",
@@ -18404,7 +18436,7 @@
     },
     {
       "codexSecret": false,
-      "description": "Iceblade of Narin music to enjoy from the Somachord in your Orbiter.",
+      "description": "A Requiem for an Infested moon to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "Eris Mortem",
       "parentName": "/Lotus/Types/Game/SongItem",
