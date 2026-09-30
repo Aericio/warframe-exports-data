@@ -18391,6 +18391,15 @@
     },
     {
       "codexSecret": false,
+      "description": "A Requiem for an Infested moon to enjoy from the Somachord in your Orbiter.",
+      "excludeFromCodex": true,
+      "name": "Devourer",
+      "parentName": "/Lotus/Types/Game/SongItem",
+      "showInInventory": false,
+      "uniqueName": "/Lotus/Types/Items/SongItems/DevourerSongItem"
+    },
+    {
+      "codexSecret": false,
       "description": "Music from the Shadowgrapher to enjoy from the Somachord in your Orbiter.",
       "excludeFromCodex": true,
       "name": "Dreadnaught",
@@ -18433,15 +18442,6 @@
       "parentName": "/Lotus/Types/Game/SongItem",
       "showInInventory": false,
       "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem"
-    },
-    {
-      "codexSecret": false,
-      "description": "A Requiem for an Infested moon to enjoy from the Somachord in your Orbiter.",
-      "excludeFromCodex": true,
-      "name": "Eris Mortem",
-      "parentName": "/Lotus/Types/Game/SongItem",
-      "showInInventory": false,
-      "uniqueName": "/Lotus/Types/Items/SongItems/ErisMortemSongItem"
     },
     {
       "codexSecret": false,

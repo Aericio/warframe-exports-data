@@ -29433,6 +29433,10 @@
       "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/DevourerSongItemStoreIcon.png!00_Au0a2Dch6jiAYHpAIOOIkw",
+      "uniqueName": "/Lotus/Types/Items/SongItems/DevourerSongItem"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/FollieSongItemStoreIcon.png!00_WbOE7DNoaMpb-5lSd24wyQ",
       "uniqueName": "/Lotus/Types/Items/SongItems/DreadnaughtSongItem"
     },
@@ -29451,10 +29455,6 @@
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png!00_irpJXC2CzzQuIxBoGyhgQQ",
       "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem"
-    },
-    {
-      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ErisMortemSongItemStoreIcon.png!00_Au0a2Dch6jiAYHpAIOOIkw",
-      "uniqueName": "/Lotus/Types/Items/SongItems/ErisMortemSongItem"
     },
     {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg",
