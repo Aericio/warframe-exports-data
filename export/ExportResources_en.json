@@ -1674,7 +1674,7 @@
     },
     {
       "codexSecret": false,
-      "description": "A dangerous and erratic type of Kuva.\r\n\r\nObtained from Zariman missions.",
+      "description": "A dangerous and erratic type of Kuva.\r\n\r\nObtained from Entropic Eximus in Zariman missions.",
       "name": "Entropic Kuva",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
       "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
@@ -6793,6 +6793,14 @@
       "name": "Melica's Laboratory Scene",
       "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
       "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLab"
+    },
+    {
+      "codexSecret": false,
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "excludeFromCodex": true,
+      "name": "Glacial Laboratory Scene",
+      "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
+      "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLabTreasureRoom"
     },
     {
       "codexSecret": false,

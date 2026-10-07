@@ -76749,7 +76749,7 @@
           "upgradeValues": [
             {
               "locTag": "|val| Parry Angle",
-              "value": 0.090000004
+              "value": 0.0089999996
             }
           ]
         },
@@ -76860,6 +76860,17 @@
             {
               "locTag": "|val| Damage to Scaldra",
               "value": 0.0049999999
+            }
+          ]
+        },
+        {
+          "prefixTag": "plaga",
+          "suffixTag": "mna",
+          "tag": "WeaponStatusDamage",
+          "upgradeValues": [
+            {
+              "locTag": "|val|% Status Damage",
+              "value": 0.0099999998
             }
           ]
         }
@@ -128165,7 +128176,7 @@
           "upgradeValues": [
             {
               "locTag": "|val| Parry Angle",
-              "value": 0.090000004
+              "value": 0.0089999996
             }
           ]
         },

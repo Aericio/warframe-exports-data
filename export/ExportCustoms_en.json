@@ -17114,6 +17114,13 @@
       "codexSecret": false,
       "description": "Customize coloration using complexion tint.",
       "excludeFromCodex": true,
+      "name": "Complexion B-17 [Legacy]",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoC"
+    },
+    {
+      "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
+      "excludeFromCodex": true,
       "name": "Complexion A-92",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoA"
     },
@@ -17123,6 +17130,13 @@
       "excludeFromCodex": true,
       "name": "Complexion B-17",
       "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoB"
+    },
+    {
+      "codexSecret": false,
+      "description": "Customize coloration using complexion tint.",
+      "excludeFromCodex": true,
+      "name": "Complexion B-17 [Legacy]",
+      "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoC"
     },
     {
       "codexSecret": false,
