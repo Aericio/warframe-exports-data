@@ -2910,7 +2910,7 @@
       ],
       "armor": 315,
       "codexSecret": false,
-      "description": "Strength is Hildryn’s virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.",
+      "description": "Strength is Hildryn's virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.",
       "exalted": [
         "/Lotus/Powersuits/IronFrame/BlastWeapon"
       ],
@@ -3518,7 +3518,7 @@
         {
           "abilityName": "Resupply",
           "abilityUniqueName": "/Lotus/Powersuits/Frumentarius/Abilities/FrumentariusAmmoAbility",
-          "description": "Throw two Elemental Ammo Packs that instantly refill the active weapon’s magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.\r\n\r\nHold the ability to select the Elemental Damage type."
+          "description": "Throw two Elemental Ammo Packs that instantly refill the active weapon's magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.\r\n\r\nHold the ability to select the Elemental Damage type."
         },
         {
           "abilityName": "Evade",
