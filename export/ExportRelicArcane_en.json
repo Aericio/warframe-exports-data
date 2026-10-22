@@ -30507,6 +30507,182 @@
     {
       "codexSecret": false,
       "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "name": "Axi C13 Relic",
+      "relicRewards": [
+        {
+          "itemCount": 1,
+          "rarity": "RARE",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "tier": 0
+        }
+      ],
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCSilver"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "name": "Axi C13 Relic",
+      "relicRewards": [
+        {
+          "itemCount": 1,
+          "rarity": "RARE",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "tier": 0
+        }
+      ],
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCGold"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "name": "Axi C13 Relic",
+      "relicRewards": [
+        {
+          "itemCount": 1,
+          "rarity": "RARE",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "tier": 0
+        }
+      ],
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCPlatinum"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "name": "Axi C13 Relic",
+      "relicRewards": [
+        {
+          "itemCount": 1,
+          "rarity": "RARE",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "UNCOMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+          "tier": 0
+        },
+        {
+          "itemCount": 1,
+          "rarity": "COMMON",
+          "rewardName": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+          "tier": 0
+        }
+      ],
+      "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze"
+    },
+    {
+      "codexSecret": false,
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
       "name": "Axi C12 Relic",
       "relicRewards": [
         {
@@ -141909,34 +142085,34 @@
       "levelStats": [
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +17% Ammo Efficiency for 12s"
+            "On Pistol Weak Point Kill:\r\n10% chance for Infinite Ammo for 12s"
           ]
         },
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +34% Ammo Efficiency for 12s"
+            "On Pistol Weak Point Kill:\r\n20% chance for Infinite Ammo for 12s"
           ]
         },
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +51% Ammo Efficiency for 12s"
+            "On Pistol Weak Point Kill:\r\n30% chance for Infinite Ammo for 12s"
           ]
         },
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +68% Ammo Efficiency for 12s\r\n+1 Arcane Revive",
+            "On Pistol Weak Point Kill:\r\n40% chance for Infinite Ammo for 12s\r\n+1 Arcane Revive",
             "+1 Arcane Revive"
           ]
         },
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +85% Ammo Efficiency for 12s\r\n+1 Arcane Revive",
+            "On Pistol Weak Point Kill:\r\n50% chance for Infinite Ammo for 12s\r\n+1 Arcane Revive",
             "+1 Arcane Revive"
           ]
         },
         {
           "stats": [
-            "On Pistol Weak Point Kill:\r\n60% chance for +102% Ammo Efficiency for 12s\r\n+1 Arcane Revive",
+            "On Pistol Weak Point Kill:\r\n60% chance for Infinite Ammo for 12s\r\n+1 Arcane Revive",
             "+1 Arcane Revive"
           ]
         }
@@ -146627,32 +146803,32 @@
       "levelStats": [
         {
           "stats": [
-            "On Void Sling:\r\n+12% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+12.5% Amp Ammo Efficiency for 8s"
           ]
         },
         {
           "stats": [
-            "On Void Sling:\r\n+24% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+25% Amp Ammo Efficiency for 8s"
           ]
         },
         {
           "stats": [
-            "On Void Sling:\r\n+36% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+37.5% Amp Ammo Efficiency for 8s"
           ]
         },
         {
           "stats": [
-            "On Void Sling:\r\n+48% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+50% Amp Ammo Efficiency for 8s"
           ]
         },
         {
           "stats": [
-            "On Void Sling:\r\n+60% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+62.5% Amp Ammo Efficiency for 8s"
           ]
         },
         {
           "stats": [
-            "On Void Sling:\r\n+72% Amp Ammo Efficiency for 8s"
+            "On Void Sling:\r\n+75% Amp Ammo Efficiency for 8s"
           ]
         }
       ],
