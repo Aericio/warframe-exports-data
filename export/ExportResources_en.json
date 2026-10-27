@@ -24727,7 +24727,7 @@
       "description": "A prime weapon-crafting component.",
       "name": "Nami Skyla Prime Blade",
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-      "primeSellingPrice": 100,
+      "primeSellingPrice": 65,
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade"
     },
     {

@@ -49433,6 +49433,10 @@
       "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerRollers"
     },
     {
+      "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerSentientWomb.png!00_AMwWA5noxR0oN2uqg4Ourw",
+      "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerSentientWomb"
+    },
+    {
       "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerShamrock.png!00_baBkhU0kSIUyWES55XCveA",
       "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem"
     },
